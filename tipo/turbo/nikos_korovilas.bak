@@ -1,0 +1,144 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:nikosk@maxpower.co.uk">Nikos Korovilas</A></FONT></CENTER></H3>
+
+Nikos, from Greece, has fitted the 20V Turbo engine from the Fiat Coupe into his 1.4 Fiat Tipo.
+Here are some of the features/specifications of the engine just incase you are
+unfamiliar with it:
+<UL>
+<LI>5 Cylinder, 20 Valve, 2 litre engine</LI>
+<LI>220 bhp @ 5750 rpm, 229 lb/ft @ 2500 rpm</LI>
+<LI>Viscodrive viscous coupling applied to differential unit.</LI>
+<LI>Counter rotating balancer shaft to ensure extremely smooth, quiet operation.</LI>
+<LI>Aluminium alloy pistons with press fitted graphite inserts to limit friction.</LI>
+<LI>Hydraulic tappets.</LI>
+<LI>Twin overhead camshafts.</LI>
+<LI>Electrohydraulic variable valve timing.</LI>
+<LI>Phased sequential multipoint electronic injection.</LI>
+<LI>Hot film controlled air flow.</LI>
+<LI>Single coils on each spark plug.</LI>
+<LI>Selective knock control in each cylinder.</LI>
+<LI>Electronic ignition with static advance combined with the injection using
+    Bosch Motronic M 2.10.4</LI>
+<LI>Garrett TB 28 turbo charger</LI>
+
+</UL>
+English is not Nikos' first language so I'm extremely grateful to him for
+making the effort to write to me about his car. As such, some of the information
+below may change as the exact details of the conversion become clear.
+<P>
+Nikos bought the Coupe from Switzerland for 2,000,000 Drachma (about &pound;3600). He
+had the front chopped off and the rear subframe removed and shipped to Greece.
+<P>
+One of Nikos' best friends is a mechanic and he did the work for him. The engine fits
+using the standard mounting points.
+However the gap between the left end of the engine and the inner wheel arch
+is very tight. This is the same when it's fitted into the Fiat Coupe. Unfortunately
+this means that the engine will need to be removed
+for the cam belts to be replaced. This is why the 72,000 service for the Coupe
+is so expensive. The alternator and air conditioning belt can be changed without
+removing the engine.
+<P>
+Nikos uses the Tipo key to open the doors. However he's fitted the Coupe's ignition
+lock and therefore uses the Coupe key to start the car. Unfortunately the ignition lock no
+longer locks the steering wheel. I don't understand why exactly, something to do with
+the light adjustment. The ignition system uses the Coupe KEYCODE ECU which imobilises
+the fuel pump and ignition coils. The Tipo ignition lock was replaced with the Coupe one
+and wired up to the existing leads. It appears therefore that the KEYCODE ignition
+key communicates
+with the KEYCODE ECU using the existing ignition wires.
+<P>
+The Coupe and the Tipo share the same floorpan and therefore have exactly the same
+wheelbase of 2540mm. The Coupe is a wider car which means that the front and rear
+tracking is different from the Tipo 16V. Front on Coupe is 1491mm compared to Tipo's 1446mm,
+and the rear on Coupe is 1468mm compared to 1421mm on Tipo. This means that after Nikos
+replaced his Tipo's subframes and suspension with the Coupe's his wheels
+stuck out further. Compared to the Tipo 16V his front wheels stuck out 22.5mm more
+each side and the rears 23.5mm. He had to modify the wheel arches at the rear which were
+real easy and the fronts which were difficult although not imposible. The rear
+arches needed to be rolled and pulled out slightly. Gentle taps on the inside
+with a hammer on a block of wood were enough. The fronts wings needed the same work
+except that the plastic wheel arch protectors were extended to cover the gap
+created.
+He thinks that the only wheels that you can fit are the factory ones or
+the Cromodora 917 model with
+205/45R16 tyres. You will also need spacers from the FIAT 128 model which give you
+about 3.5cm.
+<P>
+Nikos fitted the ABS system from the Coupe. The Coupe does not use
+electronic traction control and instead uses a mechanical ViscoDrive
+coupler on the differential. Nikos says that because the two cars have the same floorpan
+the holes for the pipes and wires of the ABS and Air conditioning units were
+already in his Tipo. He says the 4 pot Brembo calipers fitted to the Coupe are fantastic
+and seem to be even better when fitted to the Tipo.
+<P>
+Nikos used the Coupe exhaust system up to and including the catalytic converter. From
+the catalytic converter back it is standard Tipo although he is going to replace it
+soon.
+<P>
+Nikos used to have a Uno Turbo 1.4 racing that produced 180 bhp. He says that
+the handling of the two cars is like night and day. The Uno was useless at going
+around corners.
+His modified Tipo turns better than 
+the original Coupe. Some guys from a magazine tested his car 
+against a Coupe and his Tipo had much better handling.
+When cornering the Coupe was losing it's tail in the corners. They tried to make
+the Tipo do that by lifting off the accelerator but the car would not move an 
+inch from its corse. He is using the standard shock absorbers and springs off the
+coupe and says they are comfortable at low speed but are stiff enough when the car
+is pushed.
+<P>
+Nikos has also been in contact with 
+a guy called Armano who works for a company in Italy called Bergamo. They sell
+used parts of Italian cars at very good prices.Armano only speaks Italian though. 
+Nikos bought off him a full Recaro black leather interior with red stitching which
+was fitted by Fiat to Tipo Sedicivalvoles made for the Italian market.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,875 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<H3>
+<CENTER>
+<FONT COLOR="#FFFF00">
+History of Turbo Transplant</FONT>
+</CENTER></H3>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+As you may or may not know the normally aspirated engine rebuild that I went through
+turned out a complete disaster. Not only did the engine consume excessive amounts
+of oil it didn't produce anything like the power I was promised. To finish things
+off the cam belt snapped on the rebuilt engine in November 2000. I am in the
+middle of issuing legal proceedings against the garage that carried out the work.
+<P>
+I was initially waiting for the case to be heard in court and an outcome reached
+before deciding what to do next. This is taking longer than I thought and feel
+I have suffered enough with the car. I'm therefore going the engine rebuilt
+as soon as possible on the basis that I need a car no matter what the outcome of
+the court case.
+<P>
+I'm going for a turbo charged engine this time, infact a complete engine
+transplant rather than a &quot;bolt on&quot; jobbie. There are three engines that
+are possible candidates: A Lancia Thema 2.0 16V Turbo, a Fiat Coupe 2.0 16V Turbo and
+a Lancia Integrale 2.0 16V Turbo. The advantage of going for one of these engines is that
+they have been designed, tested and built around a Turbo. That means they are a known
+quantity rather than a specialised engine with unknown characteristics.
+<P>
+I know that the price is not going to be cheap and you may be thinking why don't
+you just buy another car. Well to be honest I think that the Tipo is hard to
+beat and is almost everything I want in a car (of course an Evo 5,6 or 7 would
+be nice but I don't have that sort of money). I know the complete history of
+my car and know it's had the best care. To me the Tipo's main attributes are:
+<UL>
+<LI>It's understated.
+<LI>It's so rare that hardly anyone knows what it is.
+<LI>It's Italian and has a certain charm to it.
+<LI>The interior space is huge compared to modern cars with their curvy lines.
+<LI>It handles reasonably well.
+<LI>It's great fun to drive without having to go fast.
+<LI>The feedback from the steering is superb.
+</UL>
+
+<P>
+The following will hopefully be an account of the whole process.
+<P>
+<FONT SIZE=+1>I
+would like to say a huge thank you to Andy Forsdyke, George Roberts,
+Aleksandar Medo and Alex Neagu for all their advice and help with this project.</FONT>
+<P>
+
+<TABLE BORDER="0" CELLPADDING="4" CELLSPACING="4">
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>February 2001</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;5th</TD>
+
+<TD VALIGN=TOP>
+Sent a detailed letter to the following companies to see who would be prepared to
+do the transplant. At the very least I should hopefully gather some useful
+information from them.
+<P>
+
+   <TABLE BORDER=1 CELLPADDING="4">
+
+   <TR>
+
+   <TD VALIGN=TOP>
+   <B>Tanc&nbsp;Barratt&nbsp;Ltd</B><BR>
+   Duke William Works<BR>
+   Callow Hill<BR>
+   Kidderminster<BR>
+   Worcs.<BR>
+   DY14 9XH<BR>
+   <P>
+   Tel:&nbsp;01299&nbsp;266355<BR>
+   <A HREF="http://www.tancbarratt.co.uk" target="_blank">Web Site</A>
+   </TD>
+   
+   <TD VALIGN=TOP>
+   <B>John&nbsp;Whalley&nbsp;Ltd</B><BR>
+   5 Stort Valley Industrial Estate<BR>
+   Stansted Road<BR>
+   Bishop's Stortford<BR>
+   Hertfordshire<BR>
+   CM23 2TB<BR>
+   England<br>
+   <P>
+   Tel:&nbsp;01279&nbsp;654181<BR>
+   <A HREF="http://www.whalley-integrale.uk.com" target="_blank">Web Site</A>
+   </TD>
+
+   <TD VALIGN=TOP>
+   <B>Evolution&nbsp;Engineering</B><BR>
+   Pelier Street<BR>
+   London<BR>
+   SE17 3JG<BR>
+   <P>
+   Tel:&nbsp;020&nbsp;77032225<BR>
+   <A HREF="http://www.evocars.com" target="_blank">Web Site</A>
+   </TD>
+
+   </TR><TR>
+
+   <TD VALIGN=TOP>
+   <B>Auto&nbsp;Delta</B><BR>
+   Forza House<BR>
+   St. Leonard's Road<BR>
+   London<BR>
+   NW10 6ST<BR>
+   <P>
+   Tel:&nbsp;020&nbsp;88383535<BR>
+   <A HREF="http://www.autodelta.co.uk" target="_blank">Web Site</A>
+   </TD>
+
+   <TD VALIGN=TOP>
+   <B>Omicron&nbsp;Engineering&nbsp;Ltd</B><BR>
+   The Long Barn<BR>
+   Mulbarton<BR>
+   Norwich<BR>
+   Norfolk<BR>
+   NR14 8JS<BR>
+   <P>
+   Tel:&nbsp;01508&nbsp;570351<BR>
+   <A HREF="http://www.omicron.uk.com" target="_blank">Web Site</A>
+   </TD>
+
+   <TD VALIGN=TOP>
+   <B>Bob&nbsp;Brain&nbsp;Developments</B><BR>
+   Unit 3<BR>
+   Burgess Estate<BR>
+   Hadnock Road<BR>
+   Monmouth<BR>
+   Monmouthshire<BR>
+   NP25 3QG<BR>
+   <P>
+   Tel:&nbsp;01600&nbsp;713018<BR>
+   <A HREF="http://www.bbdmotorsport.co.uk" target="_blank">Web Site</A>
+   </TD>
+
+   </TR><TR>
+   
+   <TD VALIGN=TOP>
+   <B>Aladdin&nbsp;(Oxford)&nbsp;Ltd</B><BR>
+   2A Hayfield Road<BR>
+   Oxford<BR>
+   OX2 6TT<BR>
+   <P>
+   Tel:&nbsp;01865&nbsp;553756
+   </TD>
+
+   <TD VALIGN=TOP>
+   <B>L&amp;M&nbsp;International&nbsp;Ltd</B><BR>
+   Unit A1<BR>
+   The Ebor Works<BR>
+   Chapel Lane<BR>
+   High Wycombe<BR>
+   HP12 4BS<BR>
+   <P>
+   Tel:&nbsp;01494&nbsp;538899<BR>
+   <A HREF="http://www.l-m.co.uk" target="_blank">Web Site</A>
+   </TD>
+   
+   <TD VALIGN=TOP>
+   <B>Walkers&nbsp;Garage</B><BR>
+   South Otterington<BR>
+   Northallerton<BR>
+   North Yorkshire<BR>
+   England<BR>
+   DL7 9HT<BR>
+   <P>
+   Tel:01609&nbsp;777221<BR>
+   <A HREF="http://www.vanaaken.com" target="_blank">Web Site</A>
+   </TD>
+
+   </TR>
+   </TABLE>
+   
+
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thurday&nbsp;8th</TD>
+
+<TD VALIGN=TOP>
+<B>AutoDelta</B> phoned me this morning. Jano said that if the car was an Alfa
+Romeo then there would be no problem. Although very helpful they did not seem
+interested in performing the Tipo conversion themselves. However they did
+say that for 2.0 litre 4
+cylinder Alfa Romeo they use 0.55 bar of boost which gives 220 bhp and 220 lbs/ft
+of torque.
+<P>
+<B>Bob Brain Developments</B> phoned in afternoon. Having read through my letter
+they thought the best approach would be to use an Integrale engine, wiring loom
+and ECU. They know someone who would be able to make up a radiator, oil cooler
+and intercooler. They will phone over the weekend once they have had more chance
+to investigate further.
+<P>
+<B>Tanc Barrett</B> phoned in afternoon and they were very helpful. Something I had
+not realized was that the engine number determines whether the car needs a catalytic
+converter and it is not simply a matter of all post August 1992 cars. See the
+<A HREF="../faq/faq.html#catalytic_converter">FAQ</A> section for more details.
+<P> They were concerned that the wiring dirgram used by Alex did not show any
+connections for the electronic boost control. This controls the waste gate actuation
+based on a map in the ECU. They prefered the engine to be an Integrale since the
+ECU is easier to tune and they have a variety of chips to suite. They said that
+without any internal engine modifications, simply by chipping the engine they
+can produce between 260 and 280 bhp using 1.5 bar of boost. They would hope to keep
+the existing wiring loom and use a new ECU, patching in the other wires providing
+the existing pin put is compatible. They estimated about 10 days to do the work
+costing about &pound;2000 in labour alone. We discussed sourcing various types of
+engines including a brand new Integrale one for about &pound;2850 (excluding turbo).
+A Thema Series 3 engine (CAT) would be very difficult to track down as only 27 cars
+using the engine were imported into the UK.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;13th</TD>
+
+<TD VALIGN=TOP>
+I contacted Alex and he said he had made a mistake in the wiring diagram for the
+Integrale. The RPM Amplifier was actually the electronic boost controller.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;14th</TD>
+
+<TD VALIGN=TOP>
+Sent another couple of letters off to:
+<P>
+   <TABLE BORDER=1 CELLPADDING="4">
+   <TR>
+   <TD VALIGN=TOP>
+   <B>Racing&nbsp;Technologies&nbsp;Ltd</B><BR>
+   Unit 7<BR>
+   Setstar Industrial Estate<BR>
+   Transport Avenue<BR>
+   Brentford<BR>
+   Middlesex<BR>
+   TW8 9HF<BR>
+   <P>
+   Tel:0208&nbsp;8475101<BR>
+   <A HREF="http://www.racingtechnologies.com" target="_blank">Web Site</A>
+   </TD>
+
+   <TD VALIGN=TOP>
+   <B>Van&nbsp;Aaken&nbsp;Developments&nbsp;Ltd</B><BR>
+   Transport Research Laboratory<BR>
+   Telford Avenue<BR>
+   Crowthorne<BR>
+   Berkshire<BR>
+   RG45 6XA<BR>
+   <P>
+   Tel:01344&nbsp;777&nbsp;553<BR>
+   <A HREF="http://www.vanaaken.com" target="_blank">Web Site</A>
+   </TD>
+
+   </TR>
+   </TABLE>
+</TD>
+</TR> 
+
+
+<TR>
+<TD VALIGN=TOP>Thurday&nbsp;15th</TD>
+
+<TD VALIGN=TOP>
+A week later and no other replies so phoned up several garages to check they had
+recieved the letter.
+<P><B>Evolution Engineering</B> had received the letter but were not interested
+in the project as it would take up too much time.
+
+<P><B>Van Aaken Developments Ltd</B> said they had not received the letter but would
+not be interested anyway as it was not a Seicento or Cinquecento.
+
+<P><B>Omicron Engineering Ltd</B> has recieved the letter and were in the middle of
+writing a two page response. Their main line of business is older Lancia's from
+1950 though to 1970 and restoring cars. However they do have Turbo experience as their
+boss worked on the Lotus Turbo engine.
+<P>
+They were concerned as to whether the Tipo gearbox would be up to the job. It might be
+best to use the Thema gearbox as an Integrale one would be
+4WD.
+<P>
+The Series 3 Thema turbo engine is tuned more for refinement, coming from
+a luxury car, and developed
+205 bhp and 224 lbs/ft of torque using a Bosch ignition system. The Integrale
+EVO 1 engine has a more sporty tune and develops 210 bhp and 224 lbs/ft of torque.
+The advantage of the Integrale engine is that it also uses the Webber IAW
+ignition system which is the same as the Tipo.
+<P>
+They said the big problem with costing the transplant is the number of unknowns. They
+know it took Alex's garage 10 days to do the work but how many people were working
+on it and for how many hours? The electrics might be a problem as they are not
+electrical engineers although they know how it all works. A warrenty on a
+second hand engine would be difficult to
+supply without them stripping it down and rebuilding it, although their work would
+be covered. They would also be able to obtain a new integrale engine however this
+would most likely have been sitting around for years and would need checking over.
+<P>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp;18th</TD>
+
+<TD VALIGN=TOP>
+Received email from Alex containing details about how many people worked on his
+conversion and for how many hours.
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;19th</TD>
+
+<TD VALIGN=TOP>
+Received a detailed <A HREF="omicron.html">letter</A> from <B>Omicron Engineering Ltd</B> which was the
+sort of response I was hoping for from everopne else.
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;20th</TD>
+
+<TD VALIGN=TOP>
+Received a more detailed <A HREF="vanaaken.html">reply</A> from <B>Van Aaken</B>.
+Received email from Alex explaining how they had used a Cossie ECU.
+Sent another letter off to:
+<P>
+   <TABLE BORDER=1 CELLPADDING="4">
+   <TR>
+   <TD VALIGN=TOP>
+   <B>Avanti&nbsp;Motorsport&nbsp;International</B><BR>
+   84 West End Street<BR>
+   Somerset<BR>
+   BA16 0LP<BR>
+   <P>
+   Tel:&nbsp;01458&nbsp;446517<BR>
+   <A HREF="http://freespace.virgin.net/avanti.motorsport/index2.htm" target="_blank">Web Site</A>
+   </TD>
+   </TR></TABLE>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;23th</TD>
+
+<TD VALIGN=TOP>
+Received another email off Alex. He said after reading the progress so far some
+things needed clearing up. He says that all the Fiat/Lancia 2 litre 16V turbo engines
+are physically the same in that they have the same pistons, crank, head, rods etc.
+He said that Van Aaken were wrong saying that the Integrale engine won't fit
+because it's 4wd. As I thought this does not make any difference, it's only the
+gearbox that would be different. Alex says that he thinks the best engine is the
+Fiat Coupe because you can find newer engines (up until 1996) and the Coupe is
+built on the Tipo platform so it uses the same mounting points.
+This engine is also used in the new Delta and in the Kappa. He gones on to say
+that there is no connection between the engine and the injection system.
+The Fiat Coupe engine can work with the Integrale injection system or even the
+Cossie (after a remap of the ECU). The Tipo gearbox copes well with the abuse
+and if it fails for some unknown reason (although there are no signs for this
+on his car) I could always fit the coupe gearbox or possibly the coupe 20v
+turbo 6 speed gearbox.
+</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;26th</TD>
+
+<TD VALIGN=TOP>
+Chased up a few more garages. <B>Aladdin Motorsport</B> are hopefully going
+to put something together by the weekend for me.
+<P>
+Peter Ward from <B>Racing Technologies</B> phoned and I was very impressed with
+what he had to say. After half an hour on the phone I began to realize that
+I just don't think I can afford the quality of work that
+they produce. They specialize in bespoke solutions just like what I have in
+mind. However they usually work with an unlimited budget on Ferraris, Aston
+Martins, Porsches, Integrales, Skylines etc. Their workspoke according to Nareman
+is more like an operating theatre. The work is fully guarenteed and to extremely
+high quality. The engine would be made to look like it was original.
+<P>
+Peter was very concerned about the potential of the car after the conversion.
+250 bhp can be achived without chipping, just by good engineering. For example
+intercooler size and placement or the exhaust system.
+280 bhp and 280 lbs/ft torque would easily be achiveable however
+this would give the car 160+mph top speed. Brakes, suspension and airflow become
+important then. He would not let the car out of the workshop without these being
+addressed since he would be liable due to knowing that
+he had sold a car that was dangerous. We talked about brake conversions,
+possibly fitting 4 pot calipers and discs off a Fiat Coupe. Soemthing which
+I had in mind anyway. Traction control would be needed so hubs fitted with ABS
+sensors would be necessary. If I did not want this work carrying out
+in one go we talked about limiting the boost or fitting a restrictor to
+reduce power until the car was ready for it.
+<P>
+Peter said he could not help me anymore without some idea of a budget from me. However
+having heard him talk about &pound;30,000 conversions on Nissan Skylines I'm
+a little bit nervous about mentioning a budget of 6k including engine! I do
+however have every confidence that their work would be the best bar none.
+</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;27th</TD>
+
+<TD VALIGN=TOP>
+Steve Smith the owner of <B>Walkers Garage</B> phoned.
+They have not done a conversion like this before however they said that
+the physical engine size is similar and don't see a problem. They would
+prefer to replace the whole ignition wiring loom and ECU rather than tap into
+the Tipo's for reliablilty. They would prefer to use an Integrale engine
+and have several in various conditions currently lying around. &pound;3300 + VAT
+for new one, &pound;2500 + VAT for reconditioned and &pound;1500 - &pound;1750 + VAT
+for 2nd hand. These prices don't include a turbo.
+<P>
+They have lots of parts lying around that they have accumulated over time
+such as wiring looms, ECU, chips, pipework, radiators, intercoolers.
+<P>
+They said it would be best to place the intercooler alongside radiator rather
+than behind as this will ensure it gets a good supply of cold air rather
+than that which has just been heated up by water radiator.
+They would hopefully be able to use the Tipo's radiator as the conection points
+appear to be in a similar place.
+<P>
+The exhaust on integrale takes a slightly different route under engine, to one side
+rather than straight underneath but it should be possible to have a pipe made up to fit.
+Really it's just a matter of tackling each problem when they come to it which
+makes it difficult to provide an accurate quote. Estimated labour would be in
+the region of &pound;1500 + VAT which is about 50 hours.
+<P>
+The standard turbo on earlier Integrales is a Garrett T3 which normally
+runs 1 bar of boost. The later catayltic converter models had a T34b which is
+smaller and with less lag. Although if the car was to be tuned they would
+prefer to use the T3 as the T34b would probably overspeed and explode.
+<P>
+I asked them about the age of engines and whether the engine would need a
+catayltic converter. They said they would leave the legal issues up to me
+but the engine number is very difficult to see at it's behind the turbo
+by an alloy can which is part of the crank case breather system
+<P>
+They have chips to increase power to 250 bhp and add 20% extra torque although
+they said I would be more than happy with the standard 210 bhp
+<P>
+Later in the day Steve spoke to me again with a rough estimate of how much the
+complete job would take.
+<P>
+<TABLE BORDER=0>
+<TR><TD>&pound;2500</TD><TD>&nbsp;&nbsp;</TD><TD>Reconditioned engine</TD></TR>
+<TR><TD>&pound;500</TD><TD>&nbsp;&nbsp;</TD><TD>Reconditioned turbo</TD></TR>
+<TR><TD>&pound;1000</TD><TD>&nbsp;&nbsp;</TD><TD>Intercooler, oil cooler, ECU, wiring loom, pipework</TD></TR>
+<TR><TD>&pound;1500</TD><TD>&nbsp;&nbsp;</TD><TD>6 days ~ 50 hrs labour</TD></TR>
+<TR><TD>&pound;125</TD><TD>&nbsp;&nbsp;</TD><TD>New clutch, uprated 30% over standard Integrale.</TD></TR>
+<TR><TD COLSPAN=3><CENTER>Total &pound;5625 + VAT = &pound;6600</CENTER></TD></TR>
+</TABLE>
+<P>
+They would be able to start the work the beginning of April.
+</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;28th</TD>
+
+<TD VALIGN=TOP>
+I spoke to George Roberts in the evening about my Turbo conversion. George has dismantled
+several Tipo 16V and Fiat Coupe 16V cars and says that they are very similar. Pretty much
+the same car just a different body. Even the exhaust on the Coupe should fit the
+tipo all the way to the mid box between the rear wheels.
+<P>
+He thinks the the best route would be to buy
+a scrapped Coupe 16V Turbo and remove the engine complete with it's wiring loom.
+Drop the engine into the Tipo (it will use the same mounting points), pass the ECU
+though the bulkhead and then plumb in the engine. He saids to make sure you get
+both the ECU and the RED key with the engine. The key contains a transponder which disables
+the ECU's immobiliser allowing
+the engine to start. The RED key is the master key allowing other BLUE keys to be
+cut from it. Don't loose the RED key or buy a Coupe without it since if you
+loose the key you will need to buy a new ECU and corresponding key which together are
+in the region of &pound;1000.
+<P>
+I sent an email to <B>Evolution Engineering</B> asking about which turbos were
+fitted to various Integrale engines. I also asked which would be best to use and
+how much I should expect to pay for one.
+<P>
+I send an email to <B>Tanc Barrett</B> also asking about which turbos were fitted
+to various Integrale engines. Asked them to confirm which engine they would prefer
+to use and a price for a new and reconditioned engine of that type. Also asked
+whether they would prefer to replace the wiring loom or modify the Tipo's.
+</TD>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>March 2001</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;1st</TD>
+
+<TD VALIGN=TOP>
+Sent an email to <B>Racing Technologies</B> detailing my budget for the engine
+conversion. It also contained details of future brake and suspension upgrades I
+was thinking of to allay Peter's fears that the car would be dangerous without
+these areas being addressed.
+<P>
+Got <A HREF="evoengineering1.html">reply</A> back from <B>Evolution Engineering</B> regarding which turbos were
+fitted to which cars and prices.
+<P>
+I replied querying how the smaller turbos fitted to later models produced more
+power. A smaller turbo would be better as there is less lag but would it produce
+the 250 bhp I wanted? I also asked whether they would reconsider doing the work.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;2nd</TD>
+<TD>
+Recieved <A HREF="evoengineering2.html">reply</A> from <B>Evolution Engineering</B>.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp;3rd</TD>
+
+<TD VALIGN=TOP>
+Nareman Virk visted <B>Racing Technologies</B> to talk about his suspension. Whilst
+there Narman memtioned my Turbo Conversion. Peter Ward said that he would not be able
+to start the work until August at the earliest due to his commitments to the
+racing season. He also charges &pound;50 a hour which is &pound;2000 a week. He
+advised against converting an engine to use a Turbo as using an engine already
+designed for a Turbo is much better.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;5th</TD>
+
+<TD VALIGN=TOP>
+Sent another copy of original letter to <B>John Whalley Ltd</B> and <B>
+L&amp;M International Ltd</B> as they did not receive it.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;7th</TD>
+
+<TD VALIGN=TOP>
+Read a bit more about Turbos on the Evo Forum to try and find out which size is best.
+Apparently the highest flow rate for the Integrale Evo II turbo (smaller) is about 24 lb/min of air
+which translates into about 260 bhp, but above 245 bhp the turbo is working far
+from its efficiency range. With an Evo I turbo (larger) the limit is about 300-305 bhp,
+so 270-280 bhp are good figures. 270 bhp might be possible from the smaller turbo
+until it fails due to overspeed.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;8th</TD>
+
+<TD VALIGN=TOP>
+L&amp;M phoned and sounded interested in working on the project.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;12th</TD>
+
+<TD VALIGN=TOP>
+Received letter back from <A HREF="whalley.html">John Whalley</A>
+explaining that they are not interested in working on the project. They also
+express their concerns about the positioning of the intercooler.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp;18th</TD>
+
+<TD VALIGN=TOP>
+Decided that I could do the transplant myself. Most companies that I'd contacted
+said they were not interested. Those that were interested could not give any
+guarentee of the work and wanted a large amount of money. What I'm going to do is
+look out for a crashed Fiat Coupe 16V Turbo. Use it's engine, turbo, exhaust,
+gearbox, intercooler, oil cooler and ignition wiring loom. The transplant should be
+relatively easy which is why I can't understand why the various companies want to
+charge so much labour. The engine is identical apart from the turbo bolted on the
+front.
+<P>
+The Tipo's ignition wiring loom will be thrown away and replaced with the one from
+the Coupe. The one is my car is looking rather tired anyway as most of the connection
+boots have split. The gearbox is being replaced as the gears are probably different and
+more likely to be designed to work with the Turbo. It is also a cable operated
+gearbox which has a nicer feel.
+<P>
+There should be lots of spare parts off the Tipo for sale afterwards such as:
+<UL>
+<LI>A complete 3dr Supersprint exhaust system with cat replacement pipe</LI>
+<LI>A 3dr exhaust manifold</LI>
+<LI>A set of good quality ignition leads</LI>
+<LI>A starter motor</LI>
+<LI>An alternator</LI>
+<LI>A gearbox</LI>
+<LI>A Catalytic converter</LI>
+<LI>A Flexihose exhaust section</LI>
+<LI>An ignition module and coil</LI>
+</UL>
+<P>
+Inquired about a traction control system. A company called
+<A HREF="http://www.racelogic.co.uk" target="_blank">Race Logic</A> produce one.
+However the system costs &pound;495+VAT and requires all 4 wheels to have ABS sensors
+fitted which mine does not. Also inquired about Samco uprated hoses. They do a set of
+5 or 6 hoses for about &pound;120.22 + VAT. This maybe something I think about later
+but is not important in order to get the car back on the road.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>April 2001</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;12th</TD>
+<TD VALIGN=TOP>
+I now understand a bit more about the way the Fiat Coupe ECU works.
+There are two types of ECU,
+one with the CODE key system and one without the CODE key system. Both use the same
+ignition wiring loom. A car fitted with a CODE key ECU can have it removed and
+fitted with a non CODE key system ECU. The car will now work without the transponder
+key. The only problem being that all cars sold in the UK had CODE key ECUs. I
+therefore have to make sure that the donor car has a key and if possible the red
+master key. The Coupe ECU is definitly different from the one used in the Tipo 16V.
+</TD>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;13th</TD>
+
+<TD VALIGN=TOP>
+Probably not the best of dates to remove the engine! George is helping me with the
+conversion as amongst other things he knows an awful lot about stripping down Tipos and Coupes. He arrived
+at 7:15am and we started work on the car at 7:30am. Probably much to the annoyance
+of the neighbours!.
+<P>
+With the car outside the battery was removed together with
+it's plastic catch tray and the ignition module and coil. We then removed
+the bumper (6x13mm bolts), disconnected the fog lights lead and front grill (two
+screws and plastic clips). We then tried
+to remove the slam panel however the two locating bolts holding
+it onto the wings were slipping so we had to remove the headlights (4x8mm bolts)
+and grip the nuts through the holes left. The bonnect lock was disconnected from
+the to of the slam panel. The radiator was removed and finally the slam panel could be
+moved out of the way.
+<P>
+All wiring connectors
+were removed from the engine and carefully labeled using sticky labels.
+All coolant and oil breather pipes leading off the engine were removed.
+The gear linkage was disconnected by undoing the 3 bolts holding the arms to the gear
+box. This turned out to be a mistake as I had left the car in gear and we needed to
+reconnect them to put it in neutral! The clutch actuator can be removed by simply undoing the
+two bolts holding the slave cylinder to the top of the gearbox, you don't need to
+disconnect the hydraulic pipes. The alternator was loosened and removed together with
+it's belt.
+<P>
+The exhaust manifold bolts were undone and the front wheel nuts loosened. That
+was all we could do before jacking the car up. We then jacked the front of the car
+up pretty high. George was confident but I didn't like the look of it! Getting underneath
+the car we disconnnected the powersteering pipes from the steering rack. This was
+easiler than trying to remove the crimped connectors at the pump end. We disconnected
+the powersteering pump reservoir from the bulk head. We also disconnected
+the fuel lines from the fuel rail. The flexihose exhaust section could now be removed
+from the cataytic converter section and the manifold removed. Secure the remaining
+section of exhaust using a couple of tie clips to the exhaust support.
+<P>
+Removed the front wheels and plastic wheel arch protectors.
+<P>
+With me sitting inside the car applying the brakes George disconnected the driveshafts
+which are connected using 6 bolts each. The engine was now ready to be removed.
+We attached a chain to a hook on the front right of the gearbox and around the back left
+engine mounting point. It's easier to lower the engine down through the front of the
+engine bay than it is to lift it our since you don't need to disconnect the gearbox.
+Make sure that the engine crane arm is 3/4 of way up to it's highest point when the
+chain is attached. This allows you to lift the engine up slightly, pull it forward of
+the subframe and then lower it.
+<P>
+With safety in mind the rear engine mounting point was removed first.
+Then the front two and
+finally the rear left. The engine was then lifted slightly, pulled forward and lowered
+to the ground. It was then dragged forward by hand clear of the front cross member
+such that it could be lifted back up with the engine crane to be moved out of the way.
+You will find it much easier
+to pull the engine forward if it's lowered onto a couple of sheets of corrigated
+cardboard.
+<P>
+By 3pm the engine was out of the car. This included time for several cups of coffee and
+breakfast. It all went very well and was probably helped by the fact that the engine
+had been out of the car several times before so nothing was seized up.
+<P>
+Things I now need to do to prepare the car whilst a donor engine is found. Most of which
+don't need to be done in essence but are a good idea whilst engine is out:
+<UL>
+<LI>Give the engine bay a jolly good clean.</LI>
+<LI>At first sight the ignition wiring loom on the near side of the engine bay seems
+    to share some plastic sheilding with the other circuits such as lighting. It
+    needs to be separated out such that the ignition wiring loom can be removed.</LI>
+<LI>The remaining wiring loom needs to be tidied up. I've bought some nice new coiled
+    plastic conduit of various diameters replace the rather tired looking existing ones.
+<LI>The nearside driveshaft was very dry and needs cleaning and regreasing/oiling.</LI>
+<LI>The battery tray needs cleaning and repainting black.</LI>
+<LI>A couple of paint scratches sustained during the engine extraction need to be treated.</LI>
+<LI>A couple of very minor rust spots need to be treated</LI>
+<LI>New slam panel bolts need to be ordered and fitted into the wings.</LI>
+<LI>I'd like to remove the self leveling headlight adjuster pipes. These just
+    clutter things
+    up and don't work anyway now that I've lowered the car.</LI>
+<LI>The immoboliser wiring needs to be disconncted from the ignition wiring loom and
+    very carefully labeled for when it's spliced into the Coupe ignition wiring loom!</LI>
+<LI>I managed to slightly cross thread one of wheel bolts so it will need rethreading.</LI>
+<LI>The rear brakes tend to stick so I need to remove the calipers and recondition
+    them.</LI>
+<LI>I was having problems with the power steering so now would be a good time to
+    replace the rack.</LI>
+<LI>Waxoil the whole engine bay for added rust protection.</LI>
+<LI>Clean and repaint the support for the radiator.</LI>
+</UL>
+</TD>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp;14th</TD>
+
+<TD VALIGN=TOP>
+A couple of hours sat in the engine bay answered most of my wiring loom questions.
+The ignition wiring loom is indeed separate from 
+the rest of the wiring. The only connection between the two is a large 3 pin connector
+that is attached to the same part of the loom as the connector for the ignition module.
+I don't know what this is used for and I'm hoping the ignition wiring loom of the
+coupe has the same connector.
+<P>
+The immboliser wiring is spliced into the rest of the wiring loom and is not part of the
+ignition wiring loom. I may still end up rewiring it to route it better.
+<P>
+I removed the ECU and disconnected a couple of wires at that end. Gathered up all of
+ignition wiring loom and found where it passes though the bulkhead. Not particulally
+easy place to get to as the clutch pipework prevents the protective material
+being pulled out of the way. I'm a bit stuck as to how to pass the cables through
+the bulkhead.
+I think it would be best if the ECU connector was pushed into the engine bay however
+I'm not sure how to remove the rubber grommet.
+<P>
+Cleaned plastic battery tray and plastic wheel arch protectors. Labeled a couple more
+eletrical connectors.
+</TD>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;15th</TD>
+
+<TD VALIGN=TOP>
+Spent a couple of hours replacing some of the plastic sheilding around the wiring
+loom. Lots more to be done but it was cold outside!
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>May 2001</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;15th</TD>
+<TD VALIGN=TOP>
+Just an update to let you know that no work has actually taken place on the car. This
+does not mean that nothing has been happening. I have been talking to various
+people about differences between fitting a 20 Valve Turbo and a 16 Valve Turbo engine.
+I have also been finding out how the KEYCODE ignition system works and how the
+Tipo wiring loom will need to be modified to integrate with the Coupe ignition
+wiring loom. Most of this information may not been needed so I will only add it
+here as needed. George has also been very busy trying to track down a good donor
+Coupe of either 16VT or 20VT variety. He actually went to see a 46k mile 16VT
+today but it
+had taken too much of a impact at the front damaging the radiator, oil filter and
+possibly also the exhaust manifold and turbo. The owner wanted too much for it
+especially as the car, for an unknown reason, would not start.
+The owner did not have the red
+key which would prove a problem if the ECU was disconnected from the battery for
+too long. This is because the red key has to be used to add blue keys to it's
+list of recognised keys.
+<P>
+In the UK all Coupes used KEYCODE ECU, however in Yugoslavia not all Coupes had
+KEYCODE ECU. If all else fails and I can't find a Coupe with a RED key
+Aleksandar Medo has inquired for
+me about the cost of a non KEYCODE ECU.
+New they are 2300 German Marks (about &pound;725) and he is currently looking as to
+how much a 2nd hand one will be.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;16th</TD>
+<TD VALIGN=TOP>
+Thought I should better check that after the engine transplant
+whether anyone would insure me and if so whether the premium would be sensible.
+Whilst I the phone to <B>Direct Line</B> sorting out Eva's
+insurance I asked about insuring the Tipo. I was very surprised to hear that
+they can insure modified cars. When an insurance company says this they usually
+mean minor modifications such as chipping, wheels or body kits.
+All credit to Direct Line they said they can insure major engine modifications and even
+transplants. The quote was
+based on how much more power as a percentage the new engine has compared to the orginal.
+I said the original was 142 bhp and I the transplanted engine would
+have in the region of 220-250 bhp. This put it in the 50-75% bracket. Fully
+comprehensive with full no claims discount came to a very reasonable
+&pound;781 or &pound;912 protected.
+</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;18th</TD>
+<TD VALIGN=TOP>
+Found out a bit more about how the CODE immobiliser works on the Fiat Coupe. This
+will be necessary in order to use the coded ECU that the donor car will come with.
+The coded ECU
+knocks out the ignition and fuel pump preventing the engine from starting. The
+Coupe key contains a transponder which is a
+passive device and does not need a battery. Around the Coupe ignition lock barrel is an
+antenna. The ECU interrogates the transponder on the key using the antenna to check
+it's code matches that of the ECU. There is no physical contact between the two.
+I still don't
+know for sure how the antenna connects to the ECU. I'm hoping its just a couple of
+wires that can be made up when the whole system is fitted into the Tipo.
+<P>
+The
+ideal solution would be to place the antenna around the Tipo ignition lock and
+wire the antenna up to the Coupe ECU. By keeping the Tipo ignition lock I maintain the
+steering wheel lock mechanism as the Coupe ignition lock does not fit the Tipo. 
+A new Coupe style key could 
+then be made containing
+the transponder but cut with the Tipo ignition key pattern.
+If that is not possible I would need to test how
+far away from the antenna the transponder could be detected. It might be enough to
+keep the Coupe key on my key ring. Another solution might be to remove the
+transponder off the coupe key and permanently stick it to the antenna behind the
+dashboard somehow. This is far from ideal though as I would loose the extra security
+the CODE system provides.
+</TD></TR>
+</TABLE>
+
+
+<BR><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>
+

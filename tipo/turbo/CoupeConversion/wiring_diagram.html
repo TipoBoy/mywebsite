@@ -1,0 +1,264 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00">Fitting a Coupe 16VT wiring loom into a Tipo 16V</FONT></CENTER></H3>
+
+<P> 
+The Coupe 16VT (and 20V & 20VT) ignition system comes with a keycode system. This is an electronic
+engine immboliser built into the ECU. This comprises of three parts:
+<UL>
+<LI>A keycoded ECU</LI>
+<LI>A keycode unit</LI>
+<LI>Keys with built in passive transponders</LI>
+</UL>
+<P>
+When the ignition is switched on the ECU asks the keycode unit for the ignition
+key's code. The keycode unit switches on the keycode warning light and inquires from
+the key it's code via the antenna
+built around the ignition barrel. This code is sent to the ECU via a single serial
+connection. If the code is recognised by the ECU the engine will start and the keycode
+unit will switch off the keycode warning light.
+<P>
+In order to transfer this system to a Tipo 16V you need to make sure that you take
+the above components from the donor Coupe. The keycode unit is a small yellow
+box about 10cm square located in the OS end of the dashboard.
+<P>
+When you remove it ensure that you take the entire antenna and connector intact. You will
+also need the 8 pin connector but it can be cut from the wiring loom ensuring that you
+leave enough cable length to allow it to be wired to the Tipo loom.
+<P>
+You will also need the 4 pin plug that fits into Connector C below on the Coupe
+ignition loom. When you are removing the Coupe ignition loom from the donor car
+cut this connector off the Coupe.
+<P>
+<H3>Connector A</H3>
+This is one of the two connectors that goes into the yellow keycode unit box behind
+the drivers side of the dashboard. It connects the keycode unit to a power supply,
+the keycode warning light and the ECU.
+<BR>
+<P>
+<IMG SRC="connector_a.gif" WIDTH=169 HEIGHT=105>
+<OL>
+<LI>Not Connected</LI>
+<LI>Code indicator light (White/Yellow)</LI>
+<LI>+12V permanent supply (Red)</LI>
+<LI>Ground (Black)</LI>
+<LI>Not Connected</LI>
+<LI>Serial communications to ECU (Grey/Green)</LI>
+<LI>Not Connected</LI>
+<LI>+12V Switched (Blue/Red)</LI>
+</OL>
+<P>
+<H3>Connector B</H3>
+This is the other one of the two connectors that goes into the yellow keycode
+unit box behind the drivers side of the dashboard. It connects the keycode unit
+to the attenna which sits around the ignition barrel.
+<BR>
+<P>
+<IMG SRC="connector_b.gif" WIDTH=116 HEIGHT=78>
+<OL>
+<LI>Aerial (Black)</LI>
+<LI>Not Connected</LI>
+<LI>Aerial (Black)</LI>
+</OL>
+<P>
+<H3>Connector C</H3>
+This is found at the rear of the engine in the middle at the top. It connects the
+ignition wiring loom with the cars main wiring loom. It has several purposes, to
+allow the main wiring loom to switch on the main ignition relays, provide
+a pulse to the cars rev counter and allow the keycode unit to communicate with
+the ECU.
+<BR>
+<P>
+<IMG SRC="connector_c.gif" WIDTH=92 HEIGHT=193>
+<OL>
+<LI>+12V Switched (Orange)</LI>
+<LI>Rev counter signal (Brown/White)</LI>
+<LI>Ground (Black)</LI>
+<LI>Serial communications to ECU (Grey/Green)</LI>
+</OL>
+<P>
+<H3>Air Conditioning</H3>
+There is a single connector on the Coupe loom at the back of the engine in the middle.
+It's connected via a Grey/Green cable to pin 21 of the ECU. This does not need to
+be connected to anything on the Tipo as it's for the air conditioning. It tells the
+ECU that the air conditioning is switched on and the ECU can compensate for the
+extra load on the engine to prevent it stalling when idling.
+
+<P>
+<H3>Step by Step Instructions</H3>
+<OL>
+<LI>Locate the 3pin ignition connector and 4pin ignition wiring loom connector
+on the Tipo wiring loom at the NSF of the engine. They should look like the following:
+<P>
+<IMG SRC="ignition.jpg" WIDTH=400 HEIGHT=300>
+<P>
+</LI>
+<LI>Trace the Orange/White and Brown/White wires from these connectors
+back to the large block connector
+on the NSF of the Tipo wiring loom. The Orange/White goes to pin 7 and the Brown/White
+goes to pin 8</LI>
+<LI>Cut the wires from the large block connector.</LI>
+<LI>Make tidy the ends of the wires where they were connected to the large
+block connector. This is
+not necessary as they won't be connected to anything but it looks neater.</LI>
+<LI>Throw away the 3pin and 4pin connectors that you just removed as you won't
+need them.</LI>
+<LI>Locate on the other side of the large block connector the same two wires.</LI>
+<LI>Cut the wires from the large block connector.</LI>
+<LI>Make tidy the ends of the wires where they were connected to the large block connector. This is
+not necessary as they won't be connected to anything but it looks neater.</LI>
+<LI>Follow the tipo wiring loom from the large block connector back to just behind the
+battery.</LI.
+<LI>Open up the plastic wire wrap protection and locate the same Orange/White and
+Brown/White wires.</LI>
+<LI>It should be possible to pull these wires back now they have been cut from the
+large block connector without having to further open up the plastic wire wrap
+protection. The following picture shows the Brown/White wire having been pulled back
+through the plastic wire wrap protection and made good:
+<P>
+<IMG SRC="battery.jpg" WIDTH=400 HEIGHT=300>
+<P>
+</LI>
+<LI>Attach the Orange/White wire that you've just traced back
+to pin 1 on Connector C (Orange).
+When the ignition is switched on with the key this Orange/White wire becomes live. Pin
+1 on Connector C is connected to pin 14 on the master ignition relay. Providing a
+live signal to this causes the ignition loom to become live.</LI>
+<LI>Attach the Brown/White wire that you've just traced back to pin 2 on Connector C
+(Brown/White). This allows the rev counter which is connected to the other end of
+the main wiring loom to receive pulses from the ECU which is connected to pin 2
+on Connector C.</LI>
+<LI>The Black wire on pin 3 of Connector C is an earth and the other end is connected
+to the earth strap next to the ECU. It does not need to be connected to anything. I
+think it's use was to provide an earth supply to whatever was connected to Connector C
+when it was fitted on the Coupe.</LI>
+<LI>Position the yellow key code unit roughly where you want to install it so that
+you get the lengths of the connecting wires right. I don't think the attenna will
+fit around the Tipo ignition barrel as there doesn't appear to be enough clearance
+in the steering column housing. Therefore you need to place it such that
+the antenna will reach where you plan on placing the Coupe keys to start the car.</LI>
+<LI>Pin 4 (Grey/Green) on Connector C is connected
+to pins 12 and 13 on the ECU and is used to enable the ECU to communicate with the
+yellow keycode unit. The keycode unit is inside the car so you need to feed a
+wire through the bulkhead to connect the two together.</LI>
+<LI>There is a good place to pass the wire through from the engine into the cabin.
+Remove the windscreen wiper scuttle panel and in the corner of the near side
+there is a bung.</LI>
+<LI>Peirce a hole through the bung and push a wire though.</LI>
+<LI>Connect one end of this wire to pin 4 on Connector C (Grey/Green)
+and the other to pin 7 on Connector A (Grey/Green).</LI>
+<LI>That is all the work required in the engine bay. The next steps are to
+connect up the keycode unit.</LI>
+<LI>Connect pin 4 (Black) on Connector A to an earth point.</LI>
+<LI>Connect pin 3 (Red) on Connector A to a permanent live supply.</LI>
+<LI>Connect pin 8 (Blue/Red) on Connector A to a switched live supply. See the
+instructions immediately below before making good this connection.</LI>
+<LI>Pin 2 (White/Yellow) on Connector A is used for the keycode warning light.
+The Tipo does not
+have one built into the dashboard instrument display so you may want to wire
+a regular 12V bulb up to this lead. The light should come
+on for 0.7 seconds when the ignition is switched on and then go off if the key
+is recognised. The keycode unit earths it's end of pin 2 when it wants to
+switch on the light. The keycode light should come on even if the ECU is
+disconnected.
+<LI>Connect one lead from a bulb to a switched live supply, You can use the
+same wire as pin 8 on Connector A.</LI>
+<LI>Connect the other other lead from the bulb to pin 2 on Connector A.</LI>
+<LI>That is all the work required for the keycode unit. The next steps connect
+up the fuel pump and the ignition warning light.</LI>
+<LI>The thick Green/Black wire, terminated
+with a single pin connector, hanging down in the Tipo passenger footwell is connected to the fuel pump.</LI>
+<LI>The Blue/White lead, terminating in a 3 pin connector, also hanging down in
+the Tipo passenger footwell is connected to the dashboard ignition warning
+light. The red one that looks like a fuel injector.</LI>
+<LI>Connected to the Coupe ECU is a 2 pin connector with two wires attached to it,
+a thick Green/Black wire and a Orange/Blue wire as seen in the picture below:
+<P>
+<IMG SRC="coupe_ignition_warning.jpg" WIDTH=350 HEIGHT=236>
+<P>
+</LI>
+<LI>As you can see the connections on the end of the Coupe ECU use different
+connectors than the Tipo. There are three
+choices here, make up an adaptor lead to connect the Coupe ECU to the Tipo,
+adapt the Tipo ones to fit the Coupe ECU or adapt the Coupe ECU
+to fit the Tipo. I believe the latter is the sensible approach.</LI>
+<LI>Cut off the 2 pin connector at the end of the Coupe ECU and throw it away.</LI>
+<LI>On the original Tipo ECU there should be a thick Green/Black wire connected
+with a single pin plug on the end. Cut this off the Tipo ECU leaving enough
+wire to allow it to be connected to the end of the matching wire, described
+above on the Coupe ECU.</LI>
+<LI>For imformation only: The thick Green/Black wire attached to the ECU does not actually go to the
+ECU but instead goes to pin 9 on the main ignition relay. When the ignition is
+switched on the relay operates and switches on the fuel pump via this lead.</LI>
+<LI>On the original Tipo ECU there should be a 3 pin connector with
+a Black, Blue/White and Red/White wire connected to it.
+Cut this off the Tipo ECU leaving enough wire to allow it to be connected to the
+end of the Coupe ECU. The connectors on the Tipo ECU look like this:
+<P>
+<IMG SRC="tipo_ignition_warning.jpg" WIDTH=400 HEIGHT=345>
+<P>
+</LI>
+<LI>Connect the Orange/Blue wire attached to the Coupe ECU, actually goes to
+pin 27, to the Red/White wire on the 3 pin connector you've just cut off the Tipo ECU.
+The connections between the Coupe ECU and the Tipo wiring loom should look like
+this when finished:
+<P>
+<IMG SRC="coupe_tipo_join.jpg" WIDTH=450 HEIGHT=337>
+<P>
+</LI>
+<LI>Job done.</LI>
+</OL>
+
+
+
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
