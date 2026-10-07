@@ -1,0 +1,67 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Quotes</FONT>
+</CENTER>
+</H3>
+<P>
+9th July 2009 whilst I was parking the car in a car park a guy came over and said:
+<BR>"What sort of car is that?"
+<BR>I replied: "A FIAT Coupe"
+<BR>"I saw it here the other day, beautiful car"
+<HR>
+<P>
+24th September 2009 a lady parked her car next to me and said:
+<BR>"Funky car. I love it"
+<HR><P>
+26th September 2009. Walking back to my car parked at Safeway. Three guys walked past the front of the car not knowing it was mine and one said to the others:
+<BR>"Not bad - for a Saturn"
+
+<P>
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 

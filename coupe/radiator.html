@@ -1,0 +1,78 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">PACE Updated Alloy Radiator</FONT>
+</CENTER>
+</H3>
+These radiators made specifically for a group of Coupe owners by
+<A HREF="http://www.paceproducts.co.uk" target="_blank">PACE</A>
+are 100% aluminium and are 45% more efficent at cooling than the
+original unit. Size of core is 40&times;360&times;530mm. The radiator is also lighter than
+the original and takes about an extra litre of coolant.
+The radiator will probably also last
+easily 10-15 years. The radiators are hand made and take about 6
+hours to make.
+<P>
+The car now has much cooler running temperatures and slower
+temperature soak when sat in traffic. The radiator also cools
+the temperature back down very quickly once the car is moving.
+<P>
+Make sure that you only use one of the top two fixing bolts.
+The front of the car flexes and the stiff aluminium end caps can crack where as
+the original plastic end caps of the FIAT radiator will flex a little.
+<P>
+<CENTER>
+<IMAGE SRC="radiator_front.jpg" WIDTH=640 HEIGHT=452>
+</CENTER>
+<P>
+<CENTER>
+<IMAGE SRC="radiator_back.jpg" WIDTH=640 HEIGHT=420>
+</CENTER>
+<P>
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 

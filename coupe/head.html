@@ -1,0 +1,69 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Torque Italia Stage 4 Head</FONT>
+</CENTER>
+</H3>
+<P>
+<UL>
+<LI>Stock 30mm inlet valves replaced with 33.5mm valves</LI>
+<LI>Stock 26mm exhaust values replaced with 28mm valves</LI>
+<LI>Three angle valve seats</LI>
+<LI>1mm inlet valve seats</LI>
+<LI><a href="http://www.ferrea.com/">Ferrea racing components</a> custom made hollow exhaust valves</LI>
+<LI>Fully ported</LI>
+<LI>Polished exhaust ports</LI>
+</UL>
+<P>
+<CENTER>
+<IMAGE SRC="head.jpg" WIDTH=800 HEIGHT=421>
+</CENTER>
+<P>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 

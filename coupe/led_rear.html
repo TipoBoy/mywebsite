@@ -1,0 +1,120 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">LED Rear Lights</FONT>
+</CENTER>
+</H3>
+<P>
+I bought the LED rear lights from
+<A HREF="http://www.coupeteile.de">CoupeTeile</A>
+in Germany. I went for the Super-Set where both the top and bottom lights
+have an outer ring of LEDs which act as both side lights and brake lights.
+<P>
+They are comprised of custom alloy mounting rings and Hella 55mm Modular components:
+<UL>
+<LI>2SA-008-405-021 for the outer side/brake LED rings</LI>
+<LI>2BA-008-221-041 for the smoked indicator lights</LI>
+<LI>2ZR-008-221-051 for the smoked reverse light</LI>
+<LI>2NE-008-221-031 for the red fog light (I'm using a pair of the smoked reverse lights with a red bulb in one)</LI>
+</UL>
+<P>
+The instructions are quite confusing as they refer
+to the colours on the Coupe loom that go into the sockets, not the colours of the wires on the plugs. I didn't
+want to permanently wire in my lights so I cut off the bulbs from the ends of the original wires and connected
+the leads from the LED lights to the plugs. Therefore they plug into the Coupe loom just like the originals.
+<P>
+The Coupe has two plugs, a grey one for the brake and side lights and a yellow one for the fog/reverse and
+indicators. On the yellow plug the yellow wire is the indicator and the red wire is the fog/reverse. The black
+wire is ground. On the grey plug the orange wire is the side light and the white wire is the brake light. Again the
+black wire is ground.
+<P>
+On the LED lights the brown wire is the ground. The red wire is the central light (indicator/fog/reverse), the
+black wire is the side light and the white wire is the brake light.
+<P>
+Use the wiring diagram below to connect the LED lights to the grey and yellow plugs.
+
+<P>
+<CENTER>
+<IMAGE SRC="led_rear_diagram.gif" WIDTH=800 HEIGHT=626>
+</CENTER>
+<P>
+
+As you can see there are three wires that need to pass between the two sets of lights. This is because the
+indicator wire from the yellow plug needs to now go to the centre of the upper LED. The side and brake light
+wires from the grey plug now also need to go to the lower LED bulbs. I didn't want to have these permanently
+connected as I wouldn't be able to remove the lights from the car without having to cut the wires. Therefore
+I bought a 3 pin weatherproof plug/socket and joined the wires together using this. Ignore the bullet connectors
+in the picture below on the red wire. With the aid of another lead these allow me to swap the reverse/fog
+lights over when driving on the opposite side of the road. After this picture was taken I finished wrapping up
+the wires using electrical insulation tape.
+
+<P>
+<CENTER>
+<IMAGE SRC="led_rear_wires.jpg" WIDTH=800 HEIGHT=634>
+</CENTER>
+<P>
+
+This is what the car looks like with the lights fitted. Once the wiring was completed they were very easy
+to fit.
+
+<P>
+<CENTER>
+<IMAGE SRC="led_rear_lights.jpg" WIDTH=800 HEIGHT=644>
+</CENTER>
+<P>
+
+With the side lights on.
+
+<P>
+<CENTER>
+<IMAGE SRC="led_rear_lights_side.jpg" WIDTH=333 HEIGHT=600>
+</CENTER>
+<P>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 

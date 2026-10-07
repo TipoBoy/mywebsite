@@ -1,0 +1,71 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Superlex Ultra Bright LED Front Sidelights</FONT>
+</CENTER>
+</H3>
+<P>
+I thought the standard sidelights looked yellow
+compared to the dipped and main beam lights. Initially I bought some laser blue 
+replacements (Halfords part number 501). Although they
+are rated at the same wattage (5W) the colour of the light was more white and
+looked better.
+<P>
+The blue coating deteriorated on the bulbs so I then decided to buy some LED replacements. These
+Superlux bulbs are the same size as the originals but have surface mounted LEDs which are supposed
+to give a 180 degree light pattern. I bought them from 
+<A HREF="http://www.aceparts.com/upgrade-bulbs/501/501-superlux-led-ultra-bright-sidelight.htm">AceParts</A>
+
+<P>
+<CENTER>
+<IMAGE SRC="side_lights.jpg" WIDTH=600 HEIGHT=454>
+</CENTER>
+<P>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
