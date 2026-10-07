@@ -1,0 +1,70 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Colombo &amp; Bariani Camshafts</FONT>
+</CENTER>
+</H3>
+<P>
+Intake
+<UL>
+<LI>Part# F5T.102.280S.A</LI>
+<LI>10.2mm lift</LI>
+<LI>280<sup>o</sup> duration</LI>
+<LI>Timing 16-84 (with phase variator opened 41-44)</LI>
+</UL>
+Exhaust
+<UL>
+<LI>Part# F5T.094.260S.S</LI>
+<LI>9.4mm lift</LI>
+<LI>260<sup>o</sup> duration</LI>
+<LI>Timing 60-20</LI>
+</UL>
+<P>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
