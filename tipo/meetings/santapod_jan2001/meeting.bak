@@ -1,0 +1,820 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Frequently asked questions about FIAT Tipo 16V</FONT>
+</CENTER>
+</H3>
+
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<H3><CENTER>
+<FONT COLOR="#ffff00">Future Meetings</FONT>
+</CENTER></H3>
+
+<H2>
+<FONT COLOR="#ff0000">Donnington July 29th 2001</FONT>
+</H2>
+I'm aranging a Tipo meeting on this date at Donnington Race track. The event is
+organsied by AutoItalia who say:
+<P>
+Auto Italia magazine is delighted to announce that we have booked
+Donington Park circuit for a track day on Sunday July 29th.
+The programme of events will include generous track time,
+demonstrations of special cars, passenger rides in competition cars
+and classic car parades. Additional attractions will include club displays
+and special activities on the Melbourne Loop. Discounted entrance has
+also been arranged for visitors to enjoy the Donington Grand Prix collection. 
+The opportunity to drive your car at speed on the circuit has been limited to
+100 cars and, at a very reasonable &pound;135, early booking is essential
+to avoid disappointment. Passenger rides are being offered in full-race
+Alfa Romeos driven by experienced competition licence holders at near race speeds.
+This chance of a lifetime for just 50 readers is being offered at &pound;35
+for five thrilling laps. For those not wishing to over stress their cars or
+themselves a session has been reserved for the pleasure of driving on a Grand
+Prix circuit for five laps at &pound;20 per car including one passenger. 
+<P>
+Add to this full programme of action, club displays in the paddock and trade
+stands in the pit lane garages then the day will have something for everyone. 
+<P>
+Spectators are welcome. Entrance is &pound;5 adults and &pound;4 for children
+under 16 and OAPs. All the track packages include entry for the car and driver. 
+<P>
+More details of the track day will be published in Auto Italia magazine. 
+<P>
+Remember, the on-track packages must be pre-booked and will not be available on the day. 
+<P>
+Please <A HREF="mailto:donnington@tipo16v.co.uk">email</A> me to be added to the
+list of people attending. Of course you can
+still attend without emailing me but it's nice to know which will be there.
+<UL>
+<LI>John Lee (In a Seat Ibiza!)</LI>
+<LI><A HREF="../owners/george_roberts.html">George Roberts</A> (In a Turbo Tipo Hopefully!)</LI>
+<LI><A HREF="../owners/alexis_grant.html">Alexis Grant</A></LI>
+<LI><A HREF="../owners/andy_whitehead.html">Andy Whitehead</A></LI>
+<LI><A HREF="../owners/mario_altera.html">Mario Altera</A></LI>
+<LI><A HREF="../owners/martin_hodges.html">Martin Hodges</A></LI>
+<LI><A HREF="../owners/ian_cull.html">Ian Cull</A></LI>
+<LI><A HREF="../owners/robbie_keyworth.html">Robbie Keyworth</A></LI>
+<LI><A HREF="../owners/richard_ellingham.html">Richard Ellingham</A></LI>
+</UL>
+
+
+<HR>
+<H3><CENTER>
+<FONT COLOR="#ffff00">Meeting Points</FONT>
+</CENTER></H3>
+
+The following are links to pages containing locations used to meet
+on-route to the various Tipo meetings throughout the year.
+<P>
+<A HREF="meeting_points/meetingpoint_a.html"><B>Meeting Point 'A'</B></A> - Junction of M40 Junction 9 and the A34 in Oxfordshire.<BR>
+<A HREF="meeting_points/meetingpoint_b.html"><B>Meeting Point 'B'</B></A> - M40 Junction 1 in Buckinghamshire.<BR>
+<A HREF="meeting_points/meetingpoint_c.html"><B>Meeting Point 'C'</B></A> - M25 Junction 26 in Essex.<BR>
+<A HREF="meeting_points/meetingpoint_d.html"><B>Meeting Point 'D'</B></A> - &quot;Toby Jug&quot; Public House on A3.<BR>
+
+
+<P>
+<HR>
+<H3><CENTER>
+<FONT COLOR="#ffff00">Previous Meetings</FONT>
+</CENTER></H3>
+
+<H2>
+<FONT COLOR="#ff0000">Stanford Hall June 9th 2001</FONT>
+</H2>
+This years Italian car festival was held over the weekend of 9th and 10th June
+at Stanford Hall, near Lutterworth in Leicestershire.  The 10th
+June was really just for Alfa Romeos so we arranged to go on the 9th June which
+was a general day for all Italian cars.
+<P>
+Only one meeting point en-route was chosen to keep things simple. This was the Newport
+Pagnel Service station near to Milton Keynes on the M1. This was also the meeting point
+for a bunch of Fiat Coupe drivers which in theory would make a more interesting convoy
+up the M1. Various cars arrived between 9:30am and 10:30am. We had about 6 Tipos, 6
+Coupes, a Fiat Uno Turbo, a Alfa 155, Eva's Seat Ibiza (which I was allowed to
+drive for the day)
+and a Lancia Thema Turbo. On cue an AA breakdown van arrived and I went over to
+talk to the driver. He was going to try and follow us to the event to sign up
+some new members!
+<P>
+Unfortunately when it came time to leave the service station people at the
+head of the convoy sped off without waiting for everyone else to join the motorway
+and catch up. The coupe group disappeared off into the distance, followed by the Tipos,
+then Nareman in his Alfa 155, George in his Thema and me at the tail in the Ibiza.
+Off the motorway George and Nareman stopped to wait for me to catch up as they
+did not know
+the way. The three of us went past a junction and saw the other Tipo owners we had
+lost going the opposite way. I noticed the sign at the junction which 
+indicated that they were going the correct way. We turned around at the next
+roundabout only to see the other Tipo
+owners, who had also turned around, coming the other way again. We pulled over and
+waited for them. Apparently they thought that they must have been going the wrong
+way and turned around to follow us!! It was quite comical and actually turned out
+for the best as I ended up guiding everyone in a convoy (at last)
+through about 10 miles of country roads to the event.
+<P>
+<A HREF="stanford_jun2001/thumb1.html"><IMG ALIGN=LEFT SRC="stanford_jun2001/diablo.jpg" BORDER=0 WIDTH=100 HEIGHT=70 ALT="(96K)" HSPACE=10></A>
+The event was in the beautiful grounds of Stanford Hall. This is a much better location
+for people to get to than Brooklands as it's more central. Unfortunately there was
+not much to see in the Hall however there was a large turn out of cars. We parked
+in various places dictated by the make of car. We met up with a couple of other Tipo
+owners who had made thier way directly to the show.
+The Tipo turn out included:
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A>,
+<A HREF="../owners/ian_cull.html">Ian Cull</A>,
+<A HREF="../owners/ben_sleeman.html">Ben Sleeman</A>,
+<A HREF="../owners/andy_whitehead.html">Andy Whitehead</A> and
+<A HREF="../owners/richard_ellingham.html">Richard Ellingham</A>. Nick Drew
+turned up in his Cinquecento Sporting. 
+<A HREF="../owners/antonio_damiano.html">Antonio Damiano</A> arrived in his friends
+Alfa 145 Cloverleaf. The guy who Baber sold his Tipo 16V to was there. 
+<A HREF="../owners/bob_woodward.html">Bob Woodward</A> came over and introduced
+himself to me and explained that his engine is being rebuilt at the momement.
+<A HREF="../owners/julian_cann.html">Julian Cann</A> was there but I did not have
+chance to speak to him.
+<P>
+Alexis showed off his debadged grill and Ian his Seat Ibiza front splitter
+derived rear skirt. Antz handed out some bits from his car including a strut brace
+for Alexis. The photographer from AutoItalia almost took a picture of Alexis' car
+until Alexis pointed out that the strut brace was only resting on the suspension
+turrents to see what it would look like. You have to feel for Antz having
+recently crashed his car. He had to leave
+early after seeing all our Tipos but with a newly found drive to get his own Tipo
+back on the road.
+<P>
+<A HREF="stanford_jun2001/thumb3.html"><IMG ALIGN=RIGHT SRC="stanford_jun2001/tipos.jpg" BORDER=0 WIDTH=100 HEIGHT=71 ALT="(63K)" HSPACE=10></A>
+The club atmosphere was well and truely alive. It was really great to see the
+Tipo owners chatting away to one another, even when it started to 
+rain lightly. The Fiat Coupe owners we had driven up with however seemed an
+antisocial bunch and just sat in their own cars.
+<P>
+I met up with Garinder Notta who I had been in contact with via the forum. His
+friend has transplanted a 2.5 litre V6 engine out of an Alfa 156 into his Alfa 145
+Cloverleaf (same floorpan as Tipo). The conversion looked very professionally done and quite a tight fit!
+Ideally he would have liked to have fitted the 3.0 litre engine but the 2.5 litre
+donor engine was found first. They had been able to get around the keycode immbolizer system
+fitted to the ECU although, I presume for security reasons, they did not want to
+tell me how. The exhaust note was intoxicating although the engine was not running
+perfectly. They have a problem with the ECU which uses the ABS
+sensors to detect wheel spin and switches off one of the injectors to limit the
+power.
+<P>
+<A HREF="../owners/george_roberts.html">George Roberts</A> turned up in a Lancia Thema
+2.0 Turbo. The car was immaculate. Bodywork in perfect condition, alloys had been
+refurbished and the cream leather interior had been retrimmed. It was for sale
+at &pound;4250 but not really
+my type and a bit too heavy. George said he was very impressed with the
+performance and the car was probably a good indication of what our Turbo
+conversions would end up like.
+<P>
+Auto Delta had a large display with many bodykitted and turbo converted cars. The
+turbo conversions looked very tidy and gave the cars awesome performance. They
+had some 4 pot Brembo calipers fitted to a Fiat Barchetta. I was dissapointed to
+find out that they would not fit on a Tipo only on a Punto. They also had an
+artists impression of their interpretation of what the new Alfa 147 would look like
+which was lush.
+<P>
+<A HREF="../owners/ian_cull.html">Ian Cull</A> was nominated for luckiest Tipo owner
+of the day. This was due to managing to talk a Fiat Coupe owner into giving him his
+old 4 spoke 16&quot; titanium coloured alloy wheels for free.
+<P>
+<A HREF="stanford_jun2001/thumb2.html"><IMG ALIGN=RIGHT SRC="stanford_jun2001/coupe.jpg" BORDER=0 WIDTH=100 HEIGHT=68 ALT="(82K)" HSPACE=10></A>
+Several of us spent some time talking to a guy called John Snook about his 20VT Fiat Coupe.
+Externally it had different side skirts, F50 style bonnet vents, boot spoiler and
+18&quot; alloy wheels. Internally it had a Playstation 2 with a large LCD monitor and
+a nicely trimmed ICE install. Engine wise it hadn't had anything done except chipping
+and a different exhaust (catalytic converter still fitted). Reving the car whilst
+stationary the exhaust was silent
+except a sound almost like sucking when he lifted off. However when under load the
+exhaust note was fabulous, more like a jet engine.
+<P>
+There was a lovely Masserati 3200 GT and I can now understand why Nareman loves them
+so much. This one looked amazing although it did include several thousand pounds
+worth of extras including same huge 19&quot; alloy wheels. Yours for a
+cool &pound;69000.
+<P>
+There were a group of old but intimidating De Tomaso cars. These cars were powered by
+a 5.8 Ford V8 exiting through four ANSA exhausts which sounded awesome. One was in mint
+condition. It looked like it had just been built and then cleaned!! I talked to the
+owner of the another one that was used daily. 12mpg but it could put power down without
+any drama. He was really annoyed with the owner of the mint condition one picking on
+things such as the lights being the wrong shape, painted in metallic paint not
+a base colour and the period radio for show and not connected etc.
+<P>
+The end of the day saw most owners giving their cars some stick up the driveway leading
+to the hall.
+<H2>
+<FONT COLOR="#ff0000">Brooklands February 18th 2001</FONT>
+</H2>
+
+At <a href="http://www.motor-software.co.uk/brooklands/index.htm" target="_blank">Brooklands</A>
+on February 18th is a <A HREF="http://www.motor-software.co.uk/brooklands/events/motorsport/index.htm" target="_blank">motorsport</A>
+event with lots of motor sport shangigans.
+A fascinating look at every aspect of the sport including many of the
+&quot;behind the scenes&quot; heroes and heroines.  
+
+<p>
+
+Please <A HREF="mailto:brooklands@tipo16v.co.uk">email</A> me to be added to the
+list of people attending. Of course you can
+still attend without emailing me but it's nice to know which will be there.
+<UL>
+<LI>John Lee</A></LI>
+<LI><A HREF="../owners/alexis_grant.html">Alexis Grant</A></LI>
+<LI><A HREF="../owners/alex_wakefield.html">Alex Wakefield</A></LI>
+<LI><A HREF="../owners/keith_meredith.html">Keith Meredith</A></LI>
+<LI><A HREF="../owners/martin_hodges.html">Martin Hodges</A></LI>
+<LI>Mike Jukes</LI>
+</UL>
+
+More details can be found <A HREF="brooklands_feb2001/itinery.html">here</A>.
+
+<H2>
+<FONT COLOR="#ff0000">Santa Pod January 18th 2001</FONT>
+</H2>
+<A HREF="santapod_jan2001/thumb1.html"><IMG ALIGN=RIGHT SRC="santapod_jan2001/thumb1.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(4K)" HSPACE=10></A>
+As we all know and love what Santa Pod is about, watching dragsters blast a &frac14 mile
+run in about 5 seconds, but on some days they do a RYWB session (Run What Ya Brung).
+Unfortuantly the first time this was arranged, it tipped it down with rain and made it
+a bit of a no go session. So the next RYWB session was planned for January 18th 2001.
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb4.html"><IMG ALIGN=LEFT SRC="santapod_jan2001/thumb4.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+Obviously on this day the weather God's were pleased as it was bright sunshine,
+although a bit chilly. This allowed the session to go ahead. After a bit of
+orgainsing with other Tipo members five managed to turn up
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A>, 
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>,
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A>,
+<A HREF="../owners/ian_cull.html">Ian Cull</A>,
+<A HREF="../owners/antonio_damiano.html">Antonio Damiano</A> and
+Nareman Virk (minus his car).
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb6.html"><IMG ALIGN=RIGHT SRC="santapod_jan2001/thumb6.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(4K)" HSPACE=10></A>
+When we got there the strip wasn't open due to it being frozen, but they said it would
+soon be ready to run, although only one lane. As soon as we got up there they started
+running, so everyone went and queued up for their run, apart from Antz who was
+playing it safe after having recently had another engine put in.
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb8.html"><IMG ALIGN=LEFT SRC="santapod_jan2001/thumb8.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+The idea was to time yourself using the &quot;Christmas Tree&quot; lights,
+where the lights, start from the top and work their way down. Unfortunately for Ian,
+this confused him a bit and resulted in a 5 second reaction time.
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb3.html"><IMG ALIGN=RIGHT SRC="santapod_jan2001/thumb3.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+Everyone managed to get some good times in with Alex being the best at 16.563
+and Nareman (using Martin's car) with nitrous running got 15.869, obviously showing
+that nitrous makes a hell of a difference because no one got near that time!
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb5.html"><IMG ALIGN=LEFT SRC="santapod_jan2001/thumb5.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+There were some wierd and wonderful cars there, a MG Mastero turbo, that was
+hurting every car it raced against, yes a MG Mastero even beat a Nissan Skyline
+R33!!! A Renualt 5 on 18's, which didn't run, just a case of
+show-and-dare-not-break-my-car and of course far too many Saxo's!
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb2.html"><IMG ALIGN=RIGHT SRC="santapod_jan2001/thumb2.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+If you can't work out why some cars finish first with a slower top speed you have
+to remember that it's a distance race not first to a given speed. 
+Imagine a car with low gearing, it will get to 60 relatively quickly but in
+doing so won't have covered much ground. Compare to another car with
+high gearing, it may take the same amount of time to get to 60 but it will
+have travelled further down the strip. It's terminal velocity may not be
+as high but it may well finish first.
+<BR CLEAR=ALL>
+<P>
+<A HREF="santapod_jan2001/thumb7.html"><IMG ALIGN=LEFT SRC="santapod_jan2001/thumb7.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="(3K)" HSPACE=10></A>
+Overall it was a good day and interesting to find out how the times of the car
+differs with those of the journo test car's.
+<BR CLEAR=ALL>
+<P>
+
+<CENTER><TABLE>
+<TR><TD VALIGN=TOP>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0">
+<TR><TD COLSPAN=2><CENTER><B>Alexis</B></CENTER></TD></TR>
+<TR><TD>Time (secs)</TD><TD>Speed (mph)</TD></TR>
+<TR><TD><CENTER>16.669</CENTER></TD><TD><CENTER>83.45</CENTER></TD></TR>
+<TR><TD><CENTER>16.835</CENTER></TD><TD><CENTER>84.23</CENTER></TD></TR>
+<TR><TD><CENTER>16.892</CENTER></TD><TD><CENTER>82.57</CENTER></TD></TR>
+<TR><TD><CENTER>16.908</CENTER></TD><TD><CENTER>83.18</CENTER></TD></TR>
+<TR><TD><CENTER>16.962</CENTER></TD><TD><CENTER>83.71</CENTER></TD></TR>
+<TR><TD><CENTER>16.973</CENTER></TD><TD><CENTER>83.60</CENTER></TD></TR>
+<TR><TD><CENTER>16.981</CENTER></TD><TD><CENTER>82.47</CENTER></TD></TR>
+<TR><TD><CENTER>17.032</CENTER></TD><TD><CENTER>84.10</CENTER></TD></TR>
+<TR><TD><CENTER>17.052</CENTER></TD><TD><CENTER>82.66</CENTER></TD></TR>
+<TR><TD><CENTER>17.065</CENTER></TD><TD><CENTER>83.22</CENTER></TD></TR>
+<TR><TD><CENTER>17.221</CENTER></TD><TD><CENTER>82.23</CENTER></TD></TR>
+<TR><TD><CENTER>17.236</CENTER></TD><TD><CENTER>83.22</CENTER></TD></TR>
+<TR><TD><CENTER>17.249</CENTER></TD><TD><CENTER>82.87</CENTER></TD></TR>
+<TR><TD><CENTER>17.442</CENTER></TD><TD><CENTER>83.04</CENTER></TD></TR>
+</TABLE>
+</TD>
+
+<TD VALIGN=TOP>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0">
+<TR><TD COLSPAN=2><CENTER><B>Alex</B></CENTER></TD></TR>
+<TR><TD>Time (secs)</TD><TD>Speed (mph)</TD></TR>
+<TR><TD><CENTER>16.563</CENTER></TD><TD><CENTER>84.51</CENTER></TD></TR>
+<TR><TD><CENTER>16.707</CENTER></TD><TD><CENTER>85.14</CENTER></TD></TR>
+<TR><TD><CENTER>16.719</CENTER></TD><TD><CENTER>83.95</CENTER></TD></TR>
+<TR><TD><CENTER>16.752</CENTER></TD><TD><CENTER>83.19</CENTER></TD></TR>
+</TABLE>
+
+</TD></TR></TABLE></CENTER>
+
+<H2>
+<FONT COLOR="#ff0000">Brooklands October 8th 2000</FONT>
+</H2>
+
+This was by far the biggest turn out of Tipo 16V cars to date.
+Several owners met up at various points around London before
+decending on the Toby Jug car park in Tolworth on the A3.
+<P>
+<CENTER>
+<A HREF="brooklands_oct2000/thumb8.html"><IMG SRC="brooklands_oct2000/thumb8.jpg" BORDER=0 WIDTH=100 HEIGHT=49 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb7.html"><IMG SRC="brooklands_oct2000/thumb7.jpg" BORDER=0 WIDTH=100 HEIGHT=62 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb9.html"><IMG SRC="brooklands_oct2000/thumb9.jpg" BORDER=0 WIDTH=100 HEIGHT=48 ALT="Brooklands October 2000" HSPACE=10></A>
+</CENTER>
+<P>
+<A HREF="brooklands_oct2000/thumb4.html"><IMG SRC="brooklands_oct2000/thumb4.jpg" BORDER=0 WIDTH=100 HEIGHT=53 ALIGN=LEFT ALT="Brooklands October 2000" HSPACE=10></A>
+There were
+so many of us (
+<A HREF="../owners/keith_meredith.html">Keith Meredith</A>, 
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>, 
+Mike Jukes, 
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>, 
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A>, 
+<A HREF="../owners/andy_whittle.html">Andy Whittle</A>, 
+Nareman Virk,
+Baber Sheikh, 
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A>, 
+<A HREF="../owners/ian_grist.html">Ian Grist</A>, 
+<A HREF="../owners/george_roberts.html">George Roberts</A>, 
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A> and myself
+) that I was concerned we wouldn't fit into the pub's car park.
+Once we'd all arrived we headed off towards Brooklands in convoy. This was slightly difficult
+since the junction leaving the pub was very busy and we got split up a bit. However
+by the time we arrived at Brooklands we'd all grouped back up as you can see from
+the pictures.
+<P>
+Phil Ward, the editor of AutoItalia magazine had reserved a space for us
+next to the Fiat Puntos and opposite the Fiat Cinquecentos. There were too many
+Tipos for a single line so after a bit of manuvering we had a nice 'J' shaped display
+which looked pretty impressive. A short time later
+<A HREF="../owners/alex_meyrick.html">Alex Meyrick</A> joined the display. We
+now had a grand total of 14 Tipo 16Vs.
+<P>
+<A HREF="brooklands_oct2000/thumb5.html"><IMG SRC="brooklands_oct2000/thumb5.jpg" BORDER=0 WIDTH=63  HEIGHT=100 ALIGN=RIGHT ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb6.html"><IMG SRC="brooklands_oct2000/thumb6.jpg" BORDER=0 WIDTH=100 HEIGHT=53  ALIGN=LEFT ALT="Brooklands October 2000" HSPACE=10></A>
+We spent some time examining one anothers cars as several owners had been working on
+special modifications for the meeting. These had been kept top secret until the day
+so it was quite interesting to see what one another had been up to:
+<UL>
+<LI>I had replaced the square black plastic grill mesh with diagonal wire mesh. I'd also
+    cut away a large area of the front bumper between the fog lights and replaced
+    with black wire mesh. This gives the car a more aggressive look as well as keeping
+    the engine much cooler.
+<LI>Alexis had treated himself to some new 15&quot; Integrale style wheels. He'd
+    also colour coded his door handles and fitted a pipe to move his K&amp;N air filter
+    into the front wing where it picks up nice cold air.
+<LI>Nareman had brought the Fiat Coupe interior off George and fitted it into his Tipo. He had
+    also removed the inner door lock pins and replaced them with alarm leds.
+<LI>Martin had fitted a 4&quot; pipe from behind the front bumper up to and over
+    his K&amp;N to keep it cold and shield it from the heat of the engine.
+<LI>George had colour coded his wheels with a subtle shade of blue.
+</UL>
+If I've missed off anyone's modifications then please let me know.
+<P>
+There were some spectacular looking Punto's on display. Beautiful condition, huge wheels
+and retrimmed interiors. These guys have it easy through as the body kits and parts
+are readily available it's just a matter of putting the right combination together.
+<P>
+With some time to spare several of us had a look inside the museum which was
+fascinating. Amongst other items on display, in the 'Bellman' aircraft hanger,
+was a WWII Wellington Bomber 'R for Robert' that ditched in Lock Ness. They had pulled
+it out in 1985 and have restored it. Most of the fabric skin to the airframe
+had rotted. However this made it all the more interesting to see the inner workings
+pf the aircraft and the
+cramp conditions the flight crew had to move around in.
+You'll find more information about
+<a href="http://www.motor-software.co.uk/brooklands/index.htm">Brooklands</A>
+here.
+
+<P>
+<A HREF="brooklands_oct2000/thumb10.html"><IMG SRC="brooklands_oct2000/thumb10.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALIGN=LEFT ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb11.html"><IMG SRC="brooklands_oct2000/thumb11.jpg" BORDER=0 WIDTH=100 HEIGHT=75  ALIGN=RIGHT ALT="Brooklands October 2000" HSPACE=10></A>
+Parked up around the site were all sorts of Italian cars including Fiat, Lancia, Masserati,
+Ferrari, Lamboughini. These weren't just for show though as entertainment
+was laid on in the form of a hill climb. A test hill was constructed in 1909 for
+acceleration and braking tests. It's gradients range from 1-in-8 at the bottom to
+1-in-4 at the top. The record for cars was set by R.G.J. Nash at 7.45
+seconds in a Frazer Nash in 1932. Phil Ward asked for several cars from each model
+to drive up this hill as fast as they wanted. Alexis, Martin and Alex volunteered
+to take part. They had two runs up the hill each and all survived which is more than
+could be said for a certain Lamboughini Countach. Videos of all these cars will be
+available shortly.
+<P>
+<CENTER>
+<A HREF="brooklands_oct2000/thumb12.html"><IMG SRC="brooklands_oct2000/thumb12.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb13.html"><IMG SRC="brooklands_oct2000/thumb13.jpg" BORDER=0 WIDTH=100 HEIGHT=75 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb14.html"><IMG SRC="brooklands_oct2000/thumb14.jpg" BORDER=0 WIDTH=100 HEIGHT=68 ALT="Brooklands October 2000" HSPACE=10></A>
+</CENTER>
+<P>
+The weather held out for us and owners drifted away during the day. However I did
+manage to take some group shots before the last of us went home.
+
+<P>
+<CENTER>
+<A HREF="brooklands_oct2000/thumb2.html"><IMG SRC="brooklands_oct2000/thumb2.jpg" BORDER=0 WIDTH=100 HEIGHT=58 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb1.html"><IMG SRC="brooklands_oct2000/thumb1.jpg" BORDER=0 WIDTH=100 HEIGHT=36 ALT="Brooklands October 2000" HSPACE=10></A>
+<A HREF="brooklands_oct2000/thumb3.html"><IMG SRC="brooklands_oct2000/thumb3.jpg" BORDER=0 WIDTH=100 HEIGHT=53 ALT="Brooklands October 2000" HSPACE=10></A>
+</CENTER>
+
+<P>
+From the feedback I
+got I think everyone enjoyed the day:
+<UL>
+<LI>Roy wrote &quot;Best Sedici turn out yet.
+Nice meeting you all again&quot;.
+<LI>Alex wrote &quot;
+I think most of us said this already but I'll say it again, thanks 
+for sorting out a great meeting yesterday, and in fact all the meetings so 
+far this year!
+<P> These meetings have made my first sedici year a real pleasure,
+and it's great to get much more involved in the whole Italian car scene rather
+than just commuting in my teapot.  Certainly a year ago, when I was driving round in my 
+humble Clio, I didn't think that within another year I'd get waved up the 
+Brooklands test hill in my car following in the footsteps (ahem) of Lambos 
+and Ferraris.
+<P> 
+I think momentum is really picking up with the whole 'club' thing, as was 
+proved in no uncertain terms yesterday, with a big turnout.
+&quot;
+<LI>Mike wrote &quot;Brooklands was a great day out,  thank you for
+organising it,  my fiance had a lovely time&quot;.
+</UL>
+
+
+<!--
+<P><H2><FONT COLOR="#ff0000">Summer Sedici Spectacular September 8th - 10th</FONT></H2>
+
+For the summer I've planned a meeting at Santa Pod drag strip.
+This is in Northants so will be more central than previous meetings.
+<P>
+I tried to find a date that had both top fuel dragsters and a RWYB
+(Run What You Brung) session.
+The RWYB is typically held on the second day of the weekend. Sign up and pay a
+small fee (about &pound;10) show them your driving license and have a race down the
+track. You will be given 0 - 60 mph times as well as a 1/4 mile time and speed.
+Unfortunately no such event is being held over the summer. There are
+RWYB sessions and Dragster meetings but not both.
+<P>
+For something a little different I decided on the following.
+September 8th - 10th is the FIA European drag racing championships.
+Friday is a night time qualifying session. Saturday
+and Sunday are various competitions including: Top Fuel, Top
+Methanol, Pro Stock and Drag Bike racing.
+<P>
+I went last year for Bonfire Night and
+was taken back by the pure power these cars have, not to mention the insanity of the
+drivers. Your heart will shake with the noise. We are talking 6000 bhp, 0 - 100 mph in
+under 1 second, yes one second. They will do a 1/4 mile in about 5 seconds and hit nearly 300 mph
+in that time. To put this into perspective a very fast motor bike takes 11 seconds to cover
+the same distance and gets up to about 130 mph.
+<P>
+I'm hoping to make a weekend of it. People can therefore turn up either for the
+Saturday or the Sunday or both. You can camp overnight, have a BarBQ, drink and generally
+party the night away. No pets are allowed and no glass bottles.
+<P>
+Prices are roughly &pound;25 in advance for the weekend or &pound;30 on the gate. For
+individual days it's &pound;15 in advance and &pound;18 on the gate. Camping is free.
+<P>
+<a HREF="santapod_sep2000/itinery.html">More details</a>
+<P>
+If your interested send me an
+<A HREF="mailto:santapod@tipo16v.co.uk">email</A> and I'll add you to the list below:
+<UL>
+<LI>Mike Jukes</LI>
+<LI><A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A></LI>
+<LI><A HREF="../owners/ian_grist.html">Ian Grist</A></LI>
+</UL>
+-->
+
+<P><H2><FONT COLOR="#ff0000">Kentwell Hall July 16th 2000</FONT></H2>
+
+<A HREF="http://www.kentwell.co.uk" target="_blank">Kentwell Hall</A> 
+is near Bury St Edmunds on the Suffolk/Essex border. 
+This meeting took some organising but with the aid of the meeting points
+and owners registering prior interest it was far easier than the previous
+ones.
+<P>
+
+On the day
+I met <A HREF="../owners/emma_karwacki.html">Emma Karwacki</A>, a new
+member in her very clean red 16V with Momo Ferarri wheels at
+the A34/M40 junction.
+
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>,
+<A HREF="../owners/ben_sleeman.html">Ben Sleeman</A>,
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> met with
+Alexis' Dad at the Toby Jug car park in Tolworth on the A3. We all met up
+with another new member Lee Woolley at the M25/M40 junction. We waited for
+a while for 
+Nareman Virk and
+<A HREF="../owners/george_roberts.html">George Roberts</A> to
+arrive from London. We were all getting hungry by this time and considered
+stopping for some breakfast at South Mimms Service station. However we were
+running behind time and had to meet 
+<A HREF="../owners/nigel_gladstone.html">Nigel Gladstone</A> and
+another new member
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A> at the
+M11/M25 junction. George stopped en-route at South Mimms for some fuel.
+Thankfully it did not take very long to travel around the
+M25 and we made up most of the time. It was quite a sight as we travelled in convoy at times
+hogging the outside lane with our lights blazing. We arrived at the
+meeting point only to find that Martin and Nigel had sneaked into the
+Hotel for a coffee. There were now 9 Tipos. We travelled up the M11 and
+turned off onto A roads only to find we were all stuck behind a milk tanker
+doing 40 mph. We couldn't believe our luck, beautiful roads and stuck at
+what seemed like a crawl. After about 20 miles we got to a wide section of road where the
+driver kindly pulled over and let us past. We eventually arrived at the
+event at about 12:30pm.
+<P>
+
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A> was there, however
+not in his Tipo 16V as one of the front springs had broken. An old friend
+<A HREF="../../owners/stefan_starkie.html">Stefan Starkie</A> was also
+there in his Tipo 16V.
+<P>
+
+<A HREF="kentwell_jul2000/thumb2.html"><IMG SRC="kentwell_jul2000/thumb2.jpg" BORDER=0 WIDTH=100 HEIGHT=56 ALIGN=LEFT ALT="Kentwell Hall July 2000" HSPACE=10></A>
+<A HREF="kentwell_jul2000/thumb1.html"><IMG SRC="kentwell_jul2000/thumb1.jpg" BORDER=0 WIDTH=100 HEIGHT=56 ALIGN=LEFT ALT="Kentwell Hall July 2000" HSPACE=10></A>
+
+We weren't very lucky with the weather. The day before had been beautiful
+sunshine but today was overcast and it spotted with rain just as we
+arrived. We parked up in a long line in the centre of a field which
+was part of the grounds to Kentwell Hall. Apart from looking around the
+Hall which the weather did no inspire there was nothing really to do.
+One advantage of this was that we all
+stuck together and had a good old chat about the cars. Previously
+we have tended to drift away and several people commented that this
+was the best meeting to date for this very reason. There was one other Tipo
+16V there which we promptly carded.
+<P>
+
+Phil Ward from AutoItalia magazine was there,as promised, and he came over and
+introduced himself to me. He wanted to take some group shots however
+the field was flat preventing him from getting an aerial shot. He settled
+for just a couple of cars, a 3dr and a 5dr choosing mine and Emma's. He
+was not bothered that they were not in standard specification as he wanted
+real owners cars.
+We drove the two cars over to a corner of the field where he took lots
+of pictures. He used some dark filters on a couple of the shots which
+should result in a some very atmospheric pictures. Phil's assistant
+used to own a 16V and the sight of so many brought back fond memories.
+
+<P>
+I was very conscious that he was only taking pictures of two of the cars.
+Everyone who turned up has made special effort to prepare their cars.
+Alex had even had his wheels refurbished. Eva convinced him that he had
+to take a group shot. Within seconds the rest of the group
+were descending on us across the field. Phil arranged them into a
+herring bone pattern such that every Tipo should be visible. I think
+Phil was very pleased with the result and was sure it was going to
+be a large article. He said he would be in contact with me for further
+details.
+<P>
+George showed us the Fiat Coupe seats that he had fitted to his Tipo. The
+front seats were easy enough to fit however the back ones required some
+work to make up brackets. They looked very smart in black.
+However he was unable to find any buyers. Alex's wheels looked very
+smart having been refurbished. They are the original flat brushed effect
+ones and most people agreed that they were classier that the later
+dished finish. Lee had fitted an after market Momo Millenium steering
+wheel and the previous owner had fitted Corbeau front seats which were
+very supportive. Nareman confused us all by turning up in a 3dr version
+of his car. He had brought Jim Coyles Tipo 16V and fitted his
+own wheels and interior.
+<P>
+After everyone had settled down there was not a lot else to do. Some of
+us had a walk around a display of the best cars on the day, others
+drifted away.
+<P>
+Alex, George, Nareman, Alexis, Nigel and myself all left together and decided
+to find a McDonnalds. Seems to be getting a bit of a tradition. I was at the
+back of the group this time which is completely different experience
+from leading the group. It's wonderful to see a stream of Tipos snaking
+down the road in front of you. However as George says &quot;It
+takes 6 Tipos to turn heads compared to one Lamborgini&quot;. We did not
+have any luck with the traffic heading home either, leaving the event
+we were stuck behind a silver Vectra doing, once again, 40 mph. I think it
+was Nigel who overtook the car only to pull over and join in the
+convoy again. I got separated from the group by about 20 seconds
+and spotted a McDonnalds the other side of a roundabout. Leaving the
+roundabout on what I thought was the correct exit turned out to be
+a
+dual carriageway. Cursing and swearing I continued down the road with the
+aim of turning around at the next junction only to see the other's,
+who'd also taken the wrong turning, lined up
+in a lay by. We joined up once again and headed back to McDonnalds.
+<P>
+<A HREF="kentwell_jul2000/thumb4.html"><IMG SRC="kentwell_jul2000/thumb4.jpg" BORDER=0 WIDTH=100 HEIGHT=56 ALIGN=RIGHT ALT="Kentwell Hall July 2000" HSPACE=10></A>
+<A HREF="kentwell_jul2000/thumb5.html"><IMG SRC="kentwell_jul2000/thumb5.jpg" BORDER=0 WIDTH=100 HEIGHT=56 ALIGN=RIGHT ALT="Kentwell Hall July 2000" HSPACE=10></A>
+Suitably refreshed we were now in search of fuel.
+Don't let anyone tell you these
+cars are fuel efficient. We found a petrol station just before the M11
+and took it over as you can see from the pictures above.
+<P>
+<A HREF="kentwell_jul2000/thumb3.html"><IMG SRC="kentwell_jul2000/thumb3.jpg" BORDER=0 WIDTH=100 HEIGHT=56 ALIGN=RIGHT ALT="Kentwell Hall July 2000" HSPACE=10></A>
+We got separated leaving the petrol station as the traffic was quite
+heavy. We eventually grouped back together somewhere on the M40 where we
+performed the next ritual, taking photographs of one another.
+
+<P><H2><FONT COLOR="#ff0000">Stockley Park (Mini Meet) April 30th 2000</FONT></H2>
+
+This was a mini meet organised by Nareman for those local to London. Stockley Park is a
+very smart business park just up the A408 off J4 on the M4 at Heathrow Airport. Myself,
+Nareman Virk,
+<A HREF="../owners/george_roberts">George Roberts</A>,
+Mike Jukes,
+Mike and
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> turned up at 1pm. We waited at the entrance to
+the park for several others who had been invited but when they failed to show we went into the
+park for a photo shoot. We'd just got the cars set up infront of one of the small lakes scattered
+throughout the park when a security guard came over and told us we could not take any pictures
+and that we would have to leave. We drove out of the park and found another location to take some
+pictures. Nareman had brought his digital camcorder and made some small movies of us
+driving about.
+<P>
+<CENTER>
+<A HREF="http://www.sedicivalvole.co.uk/mirror/tipo/multimedia/stockley3.mpg"><IMG SRC="../multimedia/stockley3.jpg" BORDER=0 WIDTH=160 HEIGHT=120 ALT="1,242KB MPEG"></A>
+<A HREF="http://www.sedicivalvole.co.uk/mirror/tipo/multimedia/stockley1.mpg"><IMG SRC="../multimedia/stockley1.jpg" BORDER=0 WIDTH=160 HEIGHT=121 ALT="1,115KB MPEG"></A>
+<A HREF="http://www.sedicivalvole.co.uk/mirror/tipo/multimedia/stockley2.mpg"><IMG SRC="../multimedia/stockley2.jpg" BORDER=0 WIDTH=160 HEIGHT=120 ALT="1,178KB MPEG"></A>
+</CENTER>
+<P>
+Here are some stills from the day from the same camcorder.
+<P>
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
+
+<TR>
+<TD><A HREF="stockleypark_apr2000/thumb1.html"><IMG SRC="stockleypark_apr2000/thumb1.jpg" BORDER=0 ALT="74KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb2.html"><IMG SRC="stockleypark_apr2000/thumb2.jpg" BORDER=0 ALT="58KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb3.html"><IMG SRC="stockleypark_apr2000/thumb3.jpg" BORDER=0 ALT="58KB" WIDTH=100 HEIGHT=86></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb4.html"><IMG SRC="stockleypark_apr2000/thumb4.jpg" BORDER=0 ALT="69KB" WIDTH=100 HEIGHT=75></A></TD>
+</TR><TR>
+<TD><A HREF="stockleypark_apr2000/thumb5.html"><IMG SRC="stockleypark_apr2000/thumb5.jpg" BORDER=0 ALT="57KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb6.html"><IMG SRC="stockleypark_apr2000/thumb6.jpg" BORDER=0 ALT="56KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb7.html"><IMG SRC="stockleypark_apr2000/thumb7.jpg" BORDER=0 ALT="66KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="stockleypark_apr2000/thumb8.html"><IMG SRC="stockleypark_apr2000/thumb8.jpg" BORDER=0 ALT="59KB" WIDTH=100 HEIGHT=75></A></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+We drove down to the McDonnalds by
+Heathrow airport where we grabbed a bite to eat. We each made our own way home at about 6pm.
+I think everyone enjoyed the gathering, it was good to see everyone and discuss changes
+poeple had made and wish to make to their cars. George's Sedici lookalike looked even better
+on the wheels I'd sold him. Alex was dissapointed as looking at his car it didn't look
+possible to squeeze a 57i kit next to his struct brace. The spoiler on Mike's car looked
+very good as blended in well with the car.
+
+
+<P><H2><FONT COLOR="#ff0000">Brooklands February 20th 2000</FONT></H2>
+
+The first meeting of the new year. After meeting up at various places on route we
+eventually had a convoy of 8 Tipo 16Vs, a Alfa Romeo 75, a Fiat Cinquecento and a Lancia
+Delta HF 4x4 Turbo.
+<P>
+By the time we arrived at the circuit it was about 1pm and nearly everyone had already
+arrived. It was quite an experience driving past the crowds of
+people with them looking at a line of eight Tipo 16Vs snaking through them.
+You could almost imagine them saying
+&quot;Oh look there's a Fiat Tipo 16V, you don't see one of those very often &quot;
+followed by &quot;... and there's another, and another...&quot;.
+<P>
+<A HREF="brooklands_feb2000/thumb1.html"><IMG SRC="brooklands_feb2000/thumb1.jpg" BORDER=0 WIDTH=100 HEIGHT=72 ALIGN=LEFT ALT="Brooklands February 2000" HSPACE=10></A>
+We all managed to park together in a line right by the central cicuit. It looked
+very impressive. The &quotFiat Tipo 16V Owners Club&quot; flags that I had sent out
+with everyone's car number on looked very professional and there were some novel uses
+made of them. All we need at the next meeting is a Gazebo and some chairs. I
+will get some name badges made up so we know who's car is whose as it's difficult to
+remember once everyone moves away from their cars.
+<P>
+Most of the day was spent watching the racing in the middle of the circuit. You could
+take your own car around if you were prepared to queue. There was a wide variety of cars
+taking part including a couple of Lamborghini Countachs, various Ferraris, Lancia Integrales.
+I think I speak for everyone when I say the most fun to watch was an ex rally Metro 6R4,
+awesome handling and acceleration. Tiff Needell even turned up to watch.
+<P>
+One of the funniest moments must have been where George's friend Richie parked his Alfa 75.
+Right opposite the main racing event was a company showing off about 4 of their modified Alfas.
+Richie managed to park his Alfa right in the middle of their display without asking!!!
+<P>
+<A HREF="brooklands_feb2000/thumb2.html"><IMG SRC="brooklands_feb2000/thumb2.jpg" BORDER=0 WIDTH=100 HEIGHT=73 ALIGN=RIGHT ALT="Brooklands February 2000" HSPACE=10></A>
+We got together at various times during the day and examined one another's cars, discussed
+problems and ideas. George showed off his new project which started life as a 1.4 white
+Tipo. It's now been completely resprayed in a dark blue with purple pearlsent paint,
+It has had all the Sedicivalvole
+trimmings added including alloy wheels, bumpers, stickers and red strips. The bumpers
+started off as the standard black plastic and everyone was amazed as to how well they
+looked after they had been painted. Top job George.
+<P>
+We had a look around the car parks to try and find any other Tipo 16V but the only one
+we found turned out to belong to 
+<A HREF="../owners/keith_meredith.html">Keith Meredith</A>.
+<P>
+Come 6pm and the light was fading and we all decided to head off home. 
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says
+&quot;It was great to meet everyone who attended today, and I'm looking forwards
+to the next gathering.&quot;
+<A HREF="../owners/nigel_gladstone.html">Nigel Gladstone</A> says
+&quot;Chuffin Marvellous day, I must have been driving like a looney,
+nearly a full tank for just short of 200 miles!! great to see everyone though,
+excellent turnout!&quot;
+<A HREF="../owners/keith_meredith.html">Keith Meredith</A> says
+&quot;It was nice to finally meet some of you guys at last, especially those like Alex
+and John who I have had contact with by email and Andy Forsdyke who I have spoken to on
+the phone when ordering new badges and strips.&quot;
+
+<H2><FONT COLOR="#ff0000">Brooklands June 25th 1999</FONT></H2>
+The was the first meeting organised by myself through the website for owners of the
+Fiat Tipo 16V. It went surprisingly well which made all the hard work organising meeting
+points worth while. On route we met up with other owners at various points and by
+the time we got to Brooklands there were five Tipo 16V in the convoy.
+It was great to at last be able to put faces to the people using
+the forum. Here are a few pictures of the event.
+<P>
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
+
+<TR>
+<TD><A HREF="brooklands_jun1999/thumb1.html"><IMG SRC="brooklands_jun1999/thumb1.jpg" BORDER=0 ALT="65KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="brooklands_jun1999/thumb2.html"><IMG SRC="brooklands_jun1999/thumb2.jpg" BORDER=0 ALT="67KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="brooklands_jun1999/thumb3.html"><IMG SRC="brooklands_jun1999/thumb3.jpg" BORDER=0 ALT="65KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="brooklands_jun1999/thumb4.html"><IMG SRC="brooklands_jun1999/thumb4.jpg" BORDER=0 ALT="67KB" WIDTH=100 HEIGHT=75></A></TD>
+<TD><A HREF="brooklands_jun1999/thumb5.html"><IMG SRC="brooklands_jun1999/thumb5.jpg" BORDER=0 ALT="61KB" WIDTH=100 HEIGHT=59></A></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
+
+
+

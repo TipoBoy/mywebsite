@@ -1,0 +1,79 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Meeting Point 'A' - Junction 9 on M40</FONT>
+</CENTER>
+</H3>
+
+<P>
+<CENTER><IMG SRC="map_a_large.gif" ALIGN=TOP BORDER=0 HEIGHT=600 WIDTH=600 ALT="Large Scale">
+<BR><I><FONT SIZE=-1>(1 grid square on the above map represents 500m)</FONT></I>
+</CENTER>
+<P>
+The blue road is the M40 and the red road is the A34 which has just passed Oxford. The A41 is
+heading towards Bicester.
+If you are travelling South down the M40 make sure you don't miss Junction 9 as
+the next Junction (number 8) is another 15 miles towards London.
+Come off the M40 at junction 9 and
+take the A34 turning off the roundabout. You will go down a steep sliproad and immediately
+on your left there will be a large lay-by. There is one either side of the road
+indicated on the map by the telephone symbols. It's the sort of lay-by
+lorry drivers park up in for the night and there is a verge between the lay-by and the
+main road. The meeting point is in the lay-by. Once you've met up to get
+back onto the M40 join the A34 Southbound. About 1km down the road there is a turning off.
+This will take you up over the A34 and down onto the Northbound side. Continue up
+the A34 until you reach the M40 junction.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+
+</FONT>
+</BODY> 
+</HTML> 
+
+

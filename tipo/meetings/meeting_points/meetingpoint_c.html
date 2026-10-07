@@ -1,0 +1,82 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Meeting Point 'C' - Junction 26 on M25</FONT>
+</CENTER>
+</H3>
+
+<P>
+
+<CENTER><IMG SRC="map_c_small.gif" ALIGN=TOP BORDER=0 HEIGHT=599 WIDTH=601 ALT="Small Scale">
+<BR><I><FONT SIZE=-1>(1 grid square on the above map represents 1km)</FONT></I>
+</CENTER>
+
+<P>
+The blue road is the M25. Junction 26 is half way between the A10 and M11, pretty much 
+directly North of London. The map below contains more detail:
+<P>
+
+
+<CENTER><IMG SRC="map_c_large.gif" ALIGN=TOP BORDER=0 HEIGHT=374 WIDTH=748 ALT="Large Scale">
+<BR><I><FONT SIZE=-1>(1 grid square on the above map represents 500m)</FONT></I>
+</CENTER>
+
+<P>
+Leave the M25 at Junction 26. If travelling clockwise aroung the M25 the slip road
+will end at a large roundabout. You want to go stright over the roundabout
+into Old Shire Lane. The road is quite wide and quiet. Drive to the end,
+turn around and park on the side opposite the Swallow Hotel indicated by the red circle.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+
+</FONT>
+</BODY> 
+</HTML> 
+
+
