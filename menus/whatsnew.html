@@ -1,0 +1,173 @@
+<HTML> 
+
+<!-- Black background and inform browser which function to run when page is loaded. -->
+<BODY onload="PageLoaded()" BGCOLOR="#000000" >
+
+<SCRIPT language="JavaScript">
+<!--
+   function PageLoaded()
+   {
+      LoadImages();
+
+      // Only need to drop down menus on IE.
+
+      if (navigator.appName == "Microsoft Internet Explorer")
+         DropDownMenu();
+   }
+
+   function DropDownMenu()
+   {
+      if (complete.style.posTop < 0) {
+         complete.style.posTop += 5;
+
+         setTimeout("DropDownMenu()", 1)
+      }
+   }
+
+   function Pressed() {
+
+      // User pressed a button so give focus to frame called "bar"
+      // to remove focus box from button.
+
+      if (document.images) {
+         top.bar.focus();
+      }
+   }
+
+   function TurnOn(imageName, statusBarText) {
+
+      // Displays image and updates status bar with supplied message.
+
+      if (document.images) {
+
+         document["leftarrow_"  + imageName].src = "images/leftsingle.gif";
+         document["rightarrow_" + imageName].src = "images/rightsingle.gif";
+
+	 window.status = statusBarText;
+      }
+   }
+
+   function TurnOff(imageName) {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["leftarrow_"  + imageName].src = "images/blank.gif";
+         document["rightarrow_" + imageName].src = "images/blank.gif";
+
+	 window.status = '';
+      }
+   }
+
+   function AddRecord(imageName, imageWidth, helpText, linkName)
+   {
+      var separatorHeight = 5;
+      var imageHeight = 13;
+      var horizontalPadding = 2;
+   
+      // Write out html that places the left and right borders of the button
+      // with the menu graphic centered in the middle. Also sets up Javascript
+      // to run when the mouse moves into and out of the graphic. Initial
+      // image is blank and such that when the menu scrolls down it looks
+      // complete. Later the real images are loaded and filled in.
+      
+      document.write("<TR>");
+      document.write("<TD width=6>");
+      document.write("<img src=\"images/left.gif\" width=6 height=" + (imageHeight + separatorHeight) + ">");
+      document.write("</TD>");
+
+      document.write("<TD bgcolor=#820000 width=102>");
+      document.write("<center><img name=\"leftarrow_" + imageName + "\" src=\"images/blank.gif\" width=10 height=" + imageHeight + "><img src=\"images/blank.gif\" width=" + horizontalPadding + " height=" + imageHeight + "><a href=\"" + linkName + "\" target=\"body\"");
+      document.write("onMouseOver=\"TurnOn('" + imageName + "', '" + helpText + "'); return true;\"");
+      document.write("onMouseOut=\"TurnOff('" + imageName + "'); return true;\"");
+      document.write("onClick=\"Pressed();\">");
+      document.write("<img name=\"" + imageName + "\" alt=\"" + helpText + "\" src=\"images/blank.gif\" width=" + imageWidth + " height=" + imageHeight + " border=0></A><img src=\"images/blank.gif\" width=" + horizontalPadding + " height=" + imageHeight + "><img name=\"rightarrow_" + imageName + "\" src=\"images/blank.gif\" width=10 height=" + imageHeight + "></center>");
+      document.write("</center>");
+      document.write("</TD>");
+
+      document.write("<TD width=6>");
+      document.write("<img src=\"images/right.gif\" width=6 height=" + (imageHeight + separatorHeight) + ">");
+      document.write("</TD>");
+
+      document.write("</TR>");
+
+   }
+
+//-->
+</SCRIPT>
+
+<!-- Create top of table as one division. We can therefore slide the -->
+<!-- middle of the table from under it using a different Z value -->
+
+<SCRIPT language="JavaScript">
+<!--
+   // Only IE supports div so use javascript to switch it off for Netscape.
+
+   if (navigator.appName == "Microsoft Internet Explorer")
+      document.write("<DIV ID = top cat STYLE = \"POSITION: relative; Z-INDEX: 2\">");
+//-->
+</SCRIPT>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD COLSPAN=3 bgcolor=#000000 height=15>
+<center><img src="../bar/bar_vertical_top.gif" width=40 height=15></center>
+</TD></TR>
+<TR>
+<TD><img src="images/topleft.gif"   width=6   height=13></TD>
+<TD><img src="images/topmiddle.gif" width=102 height=13></TD>
+<TD><img src="images/topright.gif"  width=6   height=13></TD>
+</TR>
+</TABLE>
+</DIV>
+
+<SCRIPT language="JavaScript">
+<!--
+   // Only IE supports div so use javascript to switch it off for Netscape.
+
+   if (navigator.appName == "Microsoft Internet Explorer")
+      document.write("<DIV ID = complete cat STYLE = \"POSITION: relative; TOP: -140px; Z-INDEX: -1\">");
+//-->
+</SCRIPT>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<SCRIPT language="JavaScript">
+<!--
+   AddRecord("year2004",  27, "View History of changes made to the Web Site this year", "../history/2004.html");
+   AddRecord("year2003",  27, "Changes made to web site in 2003",                       "../history/2003.html");
+   AddRecord("year2002",  27, "Changes made to web site in 2003",                       "../history/2002.html");
+   AddRecord("year2001",  27, "Changes made to web site in 2001",                       "../history/2001.html");
+   AddRecord("year2000",  27, "Changes made to web site in 2000",                       "../history/2000.html");
+   AddRecord("year1999",  26, "Changes made to web site in 1999",                       "../history/1999.html");
+   AddRecord("year1998",  26, "Changes made to web site in 1998",                       "../history/1998.html");
+   AddRecord("year1997",  26, "Changes made to web site in 1997",                       "../history/1997.html");
+
+   function LoadImages()
+   {
+      document["year2004"].src  = "labels/2004.gif";  
+      document["year2003"].src  = "labels/2003.gif";  
+      document["year2002"].src  = "labels/2002.gif";  
+      document["year2001"].src  = "labels/2001.gif";  
+      document["year2000"].src  = "labels/2000.gif";  
+      document["year1999"].src  = "labels/1999.gif";
+      document["year1998"].src  = "labels/1998.gif";
+      document["year1997"].src  = "labels/1997.gif";
+   }
+   
+//-->
+</SCRIPT>
+
+
+<!-- Bottom of list -->
+
+<TR>
+<TD><img src="images/bottomleft.gif"   width=6   height=13></TD>
+<TD><img src="images/bottommiddle.gif" width=102 height=13></TD>
+<TD><img src="images/bottomright.gif"  width=6   height=13></TD>
+</TR>
+</table>
+</DIV>
+
+</BODY>
+</HTML>
