@@ -1,0 +1,111 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:nareman@virk.co.uk">Nareman Virk</A></FONT></CENTER></H3>
+
+
+
+        Nareman has a 1992 Fiat Tipo 2.0 16V, five door in Bianco
+        white - not many of those around! It's now covered 97,000 miles.
+        He has owned five Fiat Tipos since
+        he passed his driving test in 1991 and he strongly believes that
+        the Tipo 16V is the best hot hatch that you can buy. He has
+        been approached by a complete stranger in a car park who offered
+        to buy his car but Nareman says what would he replace it with?
+        <P>
+        Nareman has not had the best of luck with the car, one of it's
+        spark plugs melted and fell into the engine. Needless to say,
+        his engine was not happy and sounded like a tractor. Luckily, it
+        happened near his house, so he managed to get home. It needed
+        a new head and was in the garage for 2-3 weeks. To make things
+        worse the bottom end of the engine had only been rebuilt about
+        six months earlier and he had been without the car for almost
+        two months. During this rebuild (65,000 miles) he had a
+	new clutch, new brake pads and discs all round and a new radiator.
+        <P>
+        He has had his latest Sedicivalvole since 1996 and has made several
+        modifications to it including removing the catalytic converter, a
+        K&amp;N performance filter and a full Remus exhaust system. Removing
+        the catalytic converter gives a dramatic improvement in mid-range
+        performance. Nareman estimates his car now produces 160 bhp and
+        0-60 mph acceleration has come down from 7.9 to 7.3 seconds.
+        <P>
+        Nareman believes, like the rest of us, that he is addicted to driving
+        the car. He regularly takes it to 7000 rpm when warmed up and
+        second gear acceleration through a tunnel is awesome - the noise
+        with the windows down is...well, frightening!
+        <P>
+        Nareman has 15&quot; Momo Extreme wheels fitted to his car. He also
+        has clear oval side repeaters and a 16V badge on the front grill
+        off the Fiat Coupe. The car also has Momo Aluminium Sport gear
+	knob which is basically like the Ferrari ones. Nareman says they
+	are exceptionally good quality.
+        <P>
+        Nareman's friend also has a Tipo 16V and is looking for a written
+        off Fiat Coupe 16V Turbo so that he can use the Turbo engine and
+        gearbox in his Tipo. This should be an interesting project.
+	<P>
+	Towards the end of 1999 Nareman spent a fortune on repairing his
+	Tipo. New clutch slave cylinder, new offside CV joint, new cambelt,
+	new cambelt bearing, new cam-cover gasket, new exhaust, new hub-nuts,
+	new gearbox oil, new power steering belt. In the summer of 1999
+	he had a new gearbox, new brake master cylinder and replaced the
+	sump gasket.
+	<P>
+	In July 1999 Nareman's gearbox broke, it didn't quite make it
+	to 90,000 miles.
+	 
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb14.html"><IMG SRC="../gallery/16v/thumb14.jpg" BORDER=0 ALT="59KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb15.html"><IMG SRC="../gallery/16v/thumb15.jpg" BORDER=0 ALT="60KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

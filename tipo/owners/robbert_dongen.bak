@@ -1,0 +1,62 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:christian_anita@freenet.de">Christian Reichelt</A></FONT></CENTER></H3>
+
+        Christian (22 yrs old) and his partner Anita (19 yrs old) live near Berlin and
+	spend a lot of time driving and washing the car.
+	<P>
+	They bought the car in August 2000 and love to drive it. They will do anything
+	to keep it in good condition. Just before Christmas 2000 their 16V suffered
+	engine damage. However they have two Tipo 16V cars. The other they bought in
+	October 2000 just in case anything happened to the other.
+	<P>
+	They have to register the car in order to drive it (I guess a bit like the UK
+	road tax) which costs a lot of money in Germany. However they say they
+	would register this car a thousand times.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,81 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:tmtkanatli@yahoo.com">Timu&ccedil;in Kanatli</A></FONT></CENTER></H3>
+
+	Timu&ccedil;in has an Italian 3 door 1994 model Tipo 2.0 ie 16V.
+	He recently added multi-throttle bodies and got more power than he expected.
+        Went up from 152 bhp 210 Nm to 171 bhp and 235 Nm.
+<P>
+As you can see from the pictures it's not possible to fit the throttle bodies under
+the standard bonnet so Timu&ccedil;in has fitted something akin to the
+Subaru Impreza Turbo bonnet scoop. This is giving a ram air
+effect as well, but he has to take care in hard rain.
+<P>
+Another interesting points: When he put the isolated manifold on, the manifold
+pressure dropped 50% on idle. The ecu started to correspondingly only use
+50% of the injection
+and advance maps. So he decided to remove the map sensor. He put a simple
+circuit connected to the (new linear) throttle position sensor, the output
+is connected to the map input of ecu. Now he is simulating map values as a
+function which is nearly the opposite of the tipo's. This gives a very fast
+throttle response which is what he was dreaming of.
+<P>
+He then found where the lambda (O2) sensor is handled in the program and removed
+that too. Now at any rpm and any load he can get the exact CO% level he wants.
+The program reads injection duration and just uses it. This is no longer
+effected by the the lambda's value. He finds the best power is between
+3.5% and 5.5% CO.
+
+<CENTER>
+        <A HREF="../gallery/16v/thumb75.html"><IMG SRC="../gallery/16v/thumb75.jpg" BORDER=0 ALT="59KB" WIDTH=100 HEIGHT=65></A>
+        <A HREF="../gallery/16v/thumb76.html"><IMG SRC="../gallery/16v/thumb76.jpg" BORDER=0 ALT="69KB" WIDTH=100 HEIGHT=62></A>
+</CENTER>
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

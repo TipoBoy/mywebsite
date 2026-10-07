@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:cilb@mail.telepac.pt">Pedro Baioes</A></FONT></CENTER></H3>
+
+
+        Pedro saved for 3 years to buy his white 3 door FIAT
+        Tipo 2.0 16V 148hp Sportiva. Not bad when you consider this guy is
+        only 21 years old. It was difficult to find as FIAT have only
+        sold 6 in Portugal. He is now saving more money to pay for some
+        improvements. Pedro also has another Tipo 1.1 with 56 bhp, that's a
+        very small engine for such a heavy car. He has modified it already by
+        converting it to capacitive discharge ignition making such a
+        diference! 
+
+<P>
+<CENTER>
+         <A HREF="../gallery/16v/thumb6.html"><IMG SRC="../gallery/16v/thumb6.jpg" BORDER=0 ALT="9KB" WIDTH=100 HEIGHT=67></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

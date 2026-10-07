@@ -1,0 +1,61 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:robbie.keyworth@uk.dreamcast.com">Robbie Keyworth</A></FONT></CENTER></H3>
+
+
+        Robbie has a 93 'K' registration Silver 5dr Tipo 16V which he has owned for
+	around 3 years. The car has been fabulous for most of this until the
+	balancer shaft belt snapped fouling the cambelt and taking all 16 valves
+	out. The engine had done 90,000 miles so he bought a complete
+	1991 Thema 16v Turbo engine and he currently in the process of converting.
+	<P>
+	A word of advice to anyone considering a turbo transplant. Use a Coupe's.
+	The Thema and Delta use completely different engine mounts to the front
+	and rear of both engine and gearbox and it's not a straight swap.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

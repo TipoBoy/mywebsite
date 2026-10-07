@@ -1,0 +1,78 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:O-Zwei@t-online.de">Oliver Okon</A></FONT></CENTER></H3>
+
+Oliver has a red 1991 Sedicivalvole with 108,000 Km. The car is
+really going like hell, as it reaches 7000 rpm. It would go further except for the
+rev limiter. In 5th gear on a nearly straight motorways it showned an indicated
+235 Km/h. Unfortunately the faster the car is going the more oil it drinks. Oliver's
+car is consuming about 2 litres every 1000 km.
+<P>
+He really likes the car, because in his eyes it is a underdog.
+If it was not for the sake of the engine, he really would like to see
+how far the revs would go. It really did not seem to want to stop at
+7000 rpm.
+<P>
+Changes made so far:
+<UL>
+<LI>MOMO steering wheel - 30 cm Top Power.</LI>
+<LI>MOMO Gear Knob and red gaiter.</LI>
+<LI>CMS alloys 7*15 with 195/50 15 Bridgestone B 530</LI>
+<LI>Red side indicators from the VW Golf II</LI>
+<LI>K&amp;N filtercharger, as the 57i Kit is far too loud for the city.</LI>
+</UL>
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb14.html"><IMG SRC="../gallery/16v/thumb14.jpg" BORDER=0 ALT="59KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb15.html"><IMG SRC="../gallery/16v/thumb15.jpg" BORDER=0 ALT="60KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

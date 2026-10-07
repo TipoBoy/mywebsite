@@ -1,0 +1,65 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#90ffff"><U>Peter Chan</U></FONT></CENTER></H3>
+
+        Peter has a Silver 1993 5 door Tipo 16V thats covered 59,000 miles.
+        Peter's car has wipers on the headlights but no anti lock brakes!
+        Peter says that this way he can see the car that he's going to hit
+        clearly with clean lights but that he won't be able to stop in
+        time due to lack of ABS. According to Fiat he has a very rare 158 BHP
+        model. This model was only produced during 1992 - 1993 K plate.
+        Peter's car has an electric sunroof and Abarth center caps on it's
+        wheels.
+        Peter says that if you want to improve the look of your Tipo 16V,
+        you can add small 1&quot; Abarth badges to the door pillars in a
+        similar way to the Lancia Integralie has small Lancia badges
+        in the same place.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

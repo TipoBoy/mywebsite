@@ -1,0 +1,166 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:Mookistar@yahoo.com">Mike Jukes</A></FONT></CENTER></H3>
+
+        <BR><BR>
+	Mike is now on his second sedicivalvole,  thanks to a
+	BMW and a very confusing accident writing off his old
+	black 3 door. Immediately after the accident,  his
+	fiance' offered to lend him the funds to get a new
+	car,  and his immediate choice was another Tipo 16v.
+	By chance he had seen just a week earlier an  L reg 3
+	door, finished in Estoril blue, in the autotrader,
+	and gave the guy a call.
+	<P>
+	As soon as he could he went all the way to Leicester
+	to test drive it and came away very impressed.
+	However despite offering money there and then,  the
+	owner had given first refusal to somebody else.
+	Mike had 7 days of hell,  waiting to see if the car
+	would sell,  but it was worth it,  as he got a call to
+	say the other guy had changed his mind.
+	<P>
+	The car needed a few obligatory jobs doing to it,  so
+	despite driving it home,  he didn't drive the car for
+	a week as he waited for ALL the belts to be replaced.
+	A wise move as it happened as the cambelt,  deposit
+	being changed just 6,000 miles earlier,  was extremely
+	loose,  and could have jumped at any minute.
+	New disks and belts later and Mike was the proud owner
+	of a 1994 L registration, 3 door sedici with 68,000
+	miles on the clock.  The car is totally standard with
+	the newer 3 door style wheels and usual interior and
+	exterior styling,  apart from the addition of a very
+	tidy boot spoiler.
+	<P>
+	About 5 months after the black sedici accident,  Mike
+	received a 50/50 pay out of &pound;1100 and got to keep his
+	black sedici.  Which he stripped with the help of
+	George Roberts. So far he has fitted the exhaust from
+	his old car, a brake caliper, the windscreen wiper
+	assembly along with many other smaller bits.  He has
+	easily saved the &pound;500 or so pounds offered for his old
+	car by breakers by using parts from his old car,  and
+	of course he still has a spare engine and gearbox, 2
+	doors, radiator and a whole host of the usual dodgy
+	Fiat electric components.
+	<P>
+	Since owning the New Sedici,  he has fitted a K&N 57i
+	induction kit, with increased  ventilation, a
+	Superchips chip and uprated shocks. Overall Mike is
+	very happy with his sedici despite catching the Turbo
+	bug after advising his Fiance to buy a Punto GT Turbo,
+	however he intends to keep his 16v for a few years
+	yet.
+	<P>
+	Mike recently fitted Fiat Coupe front seats in his car.
+	<P>
+        Mikes old Tipo was a 3 door black 93 L registration
+        Tipo 16v. Mike is 20 years old and lives in Chingford, East London.
+        Mike says that the car is an absolute dream to drive, and hasn't
+        found anything else on the road that can even touch it for
+        performance and subtlty. Currently the car has a direct replacement
+        K&amp;N filter and a Starchip which Mike claims produces
+        about 155 bhp. Mike has only had the car for about 4 months
+        (April 1999) but says he finds the handling a little bit
+        &quot;boaty&quot;.
+        <P>
+        Mike loves the subtlty of the car. He recently had an XR2 in front
+        of him, and they thought he was trying to race them.  As they
+        pulled away with all their might,  Mike pulled out and
+        went straight past them. At the next set of lights, side by side,
+        the passenger winds down his window, and asks Mike what the
+        F#@K the car is!! Mike has raced his brothers Citro&euml;n ZX
+        2.0 16v and it couldn't keep up with him. However his other brothers
+        3.0 Carlton CDX is a bit quicker after 60mph.
+        <P>
+        Mike had only had the car for 3 days before he took it a gentle
+        drive around the roads of Epping and Abridge. He knew these roads
+        very well. However, not being completely familiar with the Tipo he
+        was taking it easy.
+        <P>
+        Certain fields along this route have very poor drainage. Water
+        therefore tends to run over the surface of the road throughout the
+        year. Unfortunately two months of winter weather had wreaked havoc
+        by stripping away parts of the tarmac exposing the original concrete
+        surface.
+        <P>
+        As Mike approached the corner at 40 mph he unfortunately managed
+        to dab the brakes just as the wheels hit the pools of standing
+        water that had formed causing the car to aquaplane. Before he could
+        even think about pumping the brake pedal (no ABS) he was on the
+        grass. The car hit three boulders that lined a driveway before
+        stopping two inches away from a telegraph pole.
+        <P>
+        The front bumper was cracked in two. The radiator now an interesting
+        V-shape as all its mountings had been bent. The oil filter and all of
+        its oil were all over the place. The front sub-frame cross member
+        now had added contours. The rear exhaust system was beaten into a
+        new and much noisier shape. There was a hole the size of Mike's fist
+        in the passenger floor compartment. An alloy wheel and associated
+        tyre looked rather beaten up. One of the side skirts was smashed
+        up and there was a hole in the gearbox.
+        <P>
+        To get it back on the road Mike needed oil and an oil filter. A new
+        radiator and sub-frame. The gearbox was repaired as it was a pin
+        hole fracture. The exhaust still works and the body work is still
+        cracked. This lot cost &pound;700 just for roadworthiness.
+        However Mike is suing the council for the accident (good luck).
+        With a new bumper, side skirts and exhaust the total damage will
+        be more like &pound;2500. Since the accident the road has been
+        resurfaced and the drainage sorted out.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb84.html"><IMG SRC="../gallery/16v/thumb84.jpg" BORDER=0 ALT="56KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

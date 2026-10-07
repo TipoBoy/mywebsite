@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:sascha.wetzstein@netway.at">Sascha Wetzstein</A></FONT></CENTER></H3>
+
+        Sascha has a white 1991 Fiat Tipo 16V (sedicivalvole). It has been
+        modified with H&amp;R lowered springs, Fichtel&amp;Sachs K&amp;N 57i air filter
+        and a Supersprint Exhaust system. Like me he agrees that the sound
+        off this combination is awesome. In the future he plans to remove
+        the catalytic converter.
+	<P>
+	Sascha has fitted a ride-height adjustable suspension on his Fiat
+	Tipo with yellow Konis
+	<P>
+	He has also fitted some new wheels - Revolution Modern-Line in 8J15
+	ET25 with a Toyo 195/45/15 tyres
+	<P>
+	Finally he has fitted a new steering wheel.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,68 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#90ffff"><U>Steve Morrison</U></FONT></CENTER></H3>
+
+        Steve has a five door 16V with Recaro seats. He knows quite a lot
+        about the engines as he has had to rebuild it a couple of times. The
+        first time was because the timing belt had snapped during it's life
+        with it's previous owner. They had repaired it but did not set up the
+        balancer shafts correctly. As a result the engine vibrated itself
+        to death. The last I heard from Steve was that he was going to try
+        supercharging his Tipo as a mechanical engineering project. Nobody
+        knows if this ever succeeded. Another alternative was going to be
+        junking the 16V injection engine and fitting a
+        16V Turbo instead. The engine can be found in Integrales, Themas and
+        he thinks, the early Fiat Coupe Turbo Steve reckons it would cost
+        around &pound;1000 to buy a low mileage one, and another &pound;500
+        to fit it. This would give an instant 200+ bhp with the potential
+        for a whole lot more. Steve says there are only 5 Tipo 16V cars in
+        the whole of Edinburgh.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>
