@@ -1,0 +1,153 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Frequently asked questions about FIAT Tipo 16V</FONT>
+</CENTER>
+</H3>
+
+<A NAME="locking"><B><FONT COLOR="#3366ff">Why does the central locking not work?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/trevor_byne.html">Trevor Byne</A>
+has problems with his Tipo's central locking.
+Sometimes, but not all the time, his central locking will unlock but then
+it becomes impossible to lock. The key will not turn to the lock
+position in either door. The only solution seems to be to
+force down an inside button.
+<P>
+I had a similar problem with the central locking. Turning the key in the
+drivers door would not open the door and I had to use the passenger door.
+On other occasions when I tried to open the door it would unlock and then
+immediately lock again. It turned out to be a broken central locking
+solenoid in the drivers door. I was suprised to find they were only
+&pound42.88 for a new one. It took the garage less that half an hour to
+fit since I had removed the inner trim off the door. It should still take
+less than an hour if the garage have to remove and refit the trim.
+<P>
+<A HREF="../owners/stefan_starkie.html">Stefan Starkie</A> says that
+his car had a problem with central locking. Rather than the key not
+turning in the lock, he would unlock the car, and after a second it would
+all pop down and lock again. Or, conversely, I would try to lock it and it
+would all unlock again. This ment that the car had to be left
+unlocked for an afternoon outside a friend's house.
+<P>
+Eventually, he traced the problem to the passenger door lock not
+activating remotely, and the system would sense that the door had not 
+locked so it would unlock thw whole car. So by putting the key in the
+passenger lock and locking/unlocking the car manually, he could get the car
+to lock. After taking it to my local mechanic (who used to work at a
+Lancia dealership) he spent an hour and sussed that it just needed some
+oil at a particular place in the mechanism. Problem solved and has not
+recurred, for just twenty quid. Not good, though, having your car left
+outside unlocked!
+
+<BR>
+<HR>
+
+<A NAME="locking_boot"><B><FONT COLOR="#3366ff">How do I keep the boot locked?
+</FONT></B></A><BR><BR>
+For security reasons it is possible to lock the boot of the car such that
+if the driver or passenger door is opened using the central locking the
+boot remains locked. This is useful if someone breaks into the car and
+unlocks the drivers door. The boot will remain locked, thus hopefully any
+valuables in the boot will be safe. To lock the boot in this manour,
+insert the key
+into the boot and turn it such that the keyhole is horizontal rather than
+vertical. Test that the boot is indeed locked by pressing the button. To
+unlock the boot insert the key and turn it such that the keyhole
+is vertical.
+<P>
+I hear you say, ah but what about the rear seat, can't they just fold them
+down and gain access that way. Yes normally they would but if you look behind
+the seat from inside the boot you will see two catches below the plungers
+used to release the seat. These can be turned such that the plungers
+have no effect. As an extra precaution the plungers can also be removed.
+
+<BR>
+<HR>
+
+<A NAME="removing_central_locking"><B><FONT COLOR="#3366ff">How do I remove the central locking mechanism?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+Once you've removed the inner door trim disconnect the 2 rods that lead
+to the motor. One is for the door handle, and the other is to move the
+button up and down. Disconnect the wiring from the motor.
+Open the door and undo the 3 bolts (10mm he thinks), these are the only
+bolts that hold the motor. Slid motor out through the largest gap in
+the subframe, and it will fit through, just takes a while to get
+the angle right.
+
+<BR>
+<HR>
+
+<A NAME="stuck_bonnet"><B><FONT COLOR="#3366ff">My bonnet is stuck shut, how can I open it?
+</FONT></B></A><BR><BR>
+Nareman Virk says that
+sometimes all that happens is that the cable un-clips from the bonnet release handle.
+Is is fairly easy to re-attach if you get down on your knees and use a torch to
+see what's going on.
+
+<BR>
+<HR>
+
+<A NAME="replacement_fob"><B><FONT COLOR="#3366ff">Can I get another alarm key fob &quot;cut&quot;?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/jara_shaw.html">Jara Shaw</A> said his car had the original
+Fiat alarm fitted however he only had the one key fob and wanted another one.
+He says the code for my alarm is on a sticker on the tailgate. 
+The code is needed to program the key. The alarm system's have a primary key
+and secondary key. Either key can be used with the car however only the primary
+key can be used for making duplicates. A new key fob costs &pound;40 and programming
+the fob costs a further &pound;45.
+
+<BR>
+<HR>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
+
+

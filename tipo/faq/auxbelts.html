@@ -1,0 +1,84 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=3>
+<TR><TD COLSPAN=6><B><CENTER>Auxiliary Drive Belts</CENTER></B></TD></TR>
+<TR><TD ROWSPAN=2><CENTER>BELT</CENTER></TD>
+    <TD ROWSPAN=2><CENTER>TYPE</CENTER></TD>
+    <TD ROWSPAN=2><CENTER>SIZE (mm)</CENTER></TD>
+    <TD COLSPAN=2><CENTER>DEFLECTION (mm)</CENTER></TD>
+    <TD ROWSPAN=2><CENTER>LOAD (kg)</CENTER></TD></TR>
+
+<TR><TD><CENTER>NEW</CENTER></TD>
+    <TD><CENTER>USED</CENTER></TD></TR>
+
+<TR><TD><B><CENTER>A</CENTER></B></TD>
+    <TD><B><CENTER>PV</CENTER></B></TD>
+    <TD><B><CENTER>5 &times; 1013</CENTER></B></TD>
+    <TD><CENTER>500-600N<SUP>1</SUP></CENTER></TD>
+    <TD><CENTER>350-450N<SUP>1</SUP></CENTER></TD>
+    <TD><CENTER>-</CENTER></TD>
+</TR>
+<TR><TD><B><CENTER>B</CENTER></B></TD>
+    <TD><B><CENTER>V</CENTER></B></TD>
+    <TD><B><CENTER>12.5 &times; 850</CENTER></B></TD>
+    <TD><CENTER>500-650N<SUP>1</SUP></CENTER></TD>
+    <TD><CENTER>300-400N<SUP>1</SUP></CENTER></TD>
+    <TD><CENTER>-</CENTER></TD>
+</TR>
+</TABLE>
+<SUP>1</SUP>Using tension gauge 1895762000
+</CENTER>
+<P>
+
+<CENTER>
+<IMG SRC="auxbelts.jpg" WIDTH=400 HEIGHT=259>
+</CENTER>
+
+<BR><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

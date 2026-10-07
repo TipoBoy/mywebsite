@@ -1,0 +1,2608 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Frequently asked questions about FIAT Tipo 16V</FONT>
+</CENTER>
+</H3>
+
+<UL>
+<BR><B><FONT COLOR="#3366ff">BELTS</FONT></B>
+<LI><A HREF="#cambelt">When should the cambelt be changed?</A>
+<img src="../../images/red_arrow.gif" BORDER=0 ALIGN=ABSMIDDLE WIDTH=38 HEIGHT=19 ALT="Important">
+<LI><A HREF="#cambelt_change">How do I replace the cambelt?</A>
+<LI><A HREF="#cambelt_tensioner">When should the cambelt tensioner be changed?</A>
+<LI><A HREF="#balancer_shaft">What is the double sided toothed belt?</A>
+<LI><A HREF="#bad_vibration">I get bad vibration through the gearbox at high revs, what's wrong?</A>
+<BR><B><FONT COLOR="#3366ff">COOLING SYSTEM</FONT></B>
+<LI><A HREF="#radiator">What replacement radiators can be used on the 16V Tipo?</A>
+<LI><A HREF="#water_pump">When is the water pump likely to fail?</A>
+<LI><A HREF="#water">My cars losing water but I can't see from where?</A>
+<LI><A HREF="#replace_radiator">How do I replace the radiator?</A>
+<BR><B><FONT COLOR="#3366ff">TRANSMISSION</FONT></B>
+<LI><A HREF="#gearbox_oil">How and why should I replace the Gearbox oil?</A>
+<LI><A HREF="#gearbox_oil_choice">What oil should I use in my Gearbox?</A>
+<LI><A HREF="#gearbox_options">What gearboxes fit the Tipo?</A>
+<LI><A HREF="#lightened_flywheel">Should I lighten my flywheel?</A>
+<BR><B><FONT COLOR="#3366ff">FUEL/OIL CONSUMPTION</FONT></B>
+<LI><A HREF="#fuel">What fuel consumption should be expected?</A>
+<LI><A HREF="#excessive_fuel">Why is my car using too much fuel and has lower performance than normal?</A>
+<LI><A HREF="#tank">Just how big is the petrol tank?</A>
+<LI><A HREF="#dip_stick">I find it difficult to read the dip stick, what can I replace it with?</A>
+<BR><B><FONT COLOR="#3366ff">HANDLING</FONT></B>
+<LI><A HREF="#strut_brace">Do strut braces really make that much difference?</A>
+<LI><A HREF="#springs">Can I cut my existing springs to lower the car?</A>
+<LI><A HREF="#suspension">What is the best suspension set up?</A>
+<LI><A HREF="#tyre_wear">Will lowering my car effect the tyre wear?</A>
+<LI><A HREF="#tyre_pressure">What tyre pressure should I use?</A>
+<BR><B><FONT COLOR="#3366ff">SECURITY</FONT></B>
+<LI><A HREF="#locking">Why does the central locking not work?</A>
+<LI><A HREF="#locking_boot">How do I keep the boot locked?</A>
+<LI><A HREF="#removing_central_locking">How do I remove the central locking mechanism?</A>
+<LI><A HREF="#stuck_bonnet">My bonnet is stuck shut, how can I open it?</A>
+<LI><A HREF="#replacement_fob">Can I get another alarm key fob &quot;cut&quot;?</A>
+<BR><B><FONT COLOR="#3366ff">IGNITION</FONT></B>
+<LI><A HREF="#no_spark">No spark at the plugs?</A>
+<LI><A HREF="#cold_start">Starting Problems?</A>
+<LI><A HREF="#cold">Why does the car not idle when cold?</A>
+<LI><A HREF="#idle">My car won't idle properly when cold and overrevs when hot, why?</A>
+<LI><A HREF="#ignition">What ignition leads should I buy?</A>
+<LI><A HREF="#4000rpm">Why won't my car rev to more than 4000 rpm?</A>
+<LI><A HREF="#fuel_injectors">Why is my car only running on 3 cylinders?</A>
+<LI><A HREF="#ignition_module">How do I remove the ignition module?</A>
+<LI><A HREF="#pinking">How do I prevent my car from pinking?</A>
+<LI><A HREF="#idle_speed">How do I adjust the idle speed?</A>
+<LI><A HREF="#fuel_pressure">Does a fuel pressure regulator improve performance?</A>
+<LI><A HREF="#wiring_diagram">Is there a wiring diagram available for the ignition system?</A>
+<LI><A HREF="#spark_plugs">What spark plugs do you recommend?</A>
+<BR><B><FONT COLOR="#3366ff">BRAKES</FONT></B>
+<LI><A HREF="#abs">Which versions of the car have ABS systems fitted?</A>
+<LI><A HREF="#caliper">Are there any cheap replacement brake calipers?</A>
+<LI><A HREF="#squeeling_brakes">How do I stop my brakes from squeeling?</A>
+<LI><A HREF="#replacement_discs">What other brakes fit the tipo?</A>
+<BR><B><FONT COLOR="#3366ff">CLUTCH</FONT></B>
+<LI><A HREF="#clutch">Is the clutch hydraulic?</A>
+<LI><A HREF="#hydraulic">Why does the clutch not return properly?</A>
+<LI><A HREF="#high_clutch">Why does the clutch pedal sit about 1&quot; higher than the brake pedal?</A>
+<LI><A HREF="#heavy_clutch">Is it normal for the clutch pedal to be so hard to press?</A>
+<BR><B><FONT COLOR="#3366ff">EXHAUST</FONT></B>
+<LI><A HREF="#de_cat">My car does not have an i.e. badge so can I remove the catalytic converter?</A>
+<LI><A HREF="#catalytic_converter">Can I remove the catalytic converter on my Tipo?</A>
+<LI><A HREF="#exhaust_splitting">Is it possible for the exhaust manifold to split?</A>
+<LI><A HREF="#alternative_exhausts">Which aftermarket exhausts fit the Tipo 16V?</A>
+<LI><A HREF="#lamda_sensor">Does fitting a catalytic converter replacement pipe unset the Lamda Sensor?</A>
+<LI><A HREF="#rear_bpx">What's causing the Rear Exhaust Box to keep blowing?</A>
+<LI><A HREF="#removing_lambda">If I remove the catalytic converter what happens to the Lamda sensor?</A>
+<LI><A HREF="#cleaning_exhaust">What can I clean the exhaust with?</A>
+<LI><A HREF="#oil_burning">Oil seems to be burning on the exhaust but I can't see from where?</A>
+<BR><B><FONT COLOR="#3366ff">WHEELS</FONT></B>
+<LI><A HREF="#lose_hub_nuts">What causes funny noises from the wheels?</A>
+<LI><A HREF="#cleaning_wheels">How do I keep my wheels clean?</A>
+<LI><A HREF="#refurbishing_wheels">Should I refurbish my wheels or buy new ones?</A>
+<LI><A HREF="#refurbishing_who">Who should I get to refurbish my wheels?</A>
+<LI><A HREF="#locking_nuts">What Locking Wheel Nuts should I buy?</A>
+<LI><A HREF="#space_saver">It is legal to use a space saver spare wheel?</A>
+<LI><A HREF="#wheel_styles">What do the alloy wheels look like on the 5 door and 3 door models?</A>
+<BR><B><FONT COLOR="#3366ff">LIGHTING</FONT></B>
+<LI><A HREF="#uprated_headlights">Can I fit more powerful headlight bulbs?</A>
+<LI><A HREF="#dashboard_lights">What replacement bulbs do I need for the dashboard?</A>
+<LI><A HREF="#glove_box">My Glove Box light and Cigarette lighter socket don't work. What's wrong?</A>
+<BR><B><FONT COLOR="#3366ff">WINDSCREEN WIPERS</FONT></B>
+<LI><A HREF="#wiper">Why doesn't the rear wiper work?</A>
+<LI><A HREF="#wiper_replacement">Can I buy replacement wiper blades?</A>
+<LI><A HREF="#washer">How do I replace the windscreen washer motor?</A>
+<LI><A HREF="#alternative_rear_wiper">What alternative rear wipers can I fit?</A>
+<LI><A HREF="#special_rear_wiper">Is the rear wipe specific to the 16V?</A>
+<BR><B><FONT COLOR="#3366ff">PERFORMANCE</FONT></B>
+<LI><A HREF="#power_delivery">Is it normal to get a power surge after 4000 rpm?</A>
+<LI><A HREF="#traffic_lights">What cars can the Tipo 16V beat off the traffic lights?</A>
+<LI><A HREF="#turbo_charging">What can you tell me about Turbo Charging my Tipo 16V?</A>
+<LI><A HREF="#lift_off_jerk">My car jerks when coming off the throttle at high speed, is this normal?</A>
+<LI><A HREF="#chipping">What chip should I get for my car?</A>
+<LI><A HREF="#two_ecu">Why does your car use a Superchip ECU and a Unichip piggyback ECU?</A>
+<LI><A HREF="#replacement_camshafts">Should I replace my camshafts?</A>
+<BR><B><FONT COLOR="#3366ff">BODYWORK</FONT></B>
+<LI><A HREF="#skirts">Are 3 door side skirts compatible with 5 door models?</A>
+<LI><A HREF="#window_guides">My window guides have rusted what can I do?</A>
+<LI><A HREF="#door_handles">How do I remove the door handles?</A>
+<LI><A HREF="#door_trim">How do I remove the inner door trims (5 door)?</A>
+<LI><A HREF="#removing_dents">How easy is it to remove small dents in the bodywork?</A>
+<LI><A HREF="#weather_seal">How do I replace the weather seal around the rear windows?</A>
+<BR><B><FONT COLOR="#3366ff">ICE</FONT></B>
+<LI><A HREF="#poor_reception">I get poor Radio Reception. How can I improve it?</A>
+<LI><A HREF="#permanent_live">When fitting a radio, which is the permanent live wire?</A>
+<BR><B><FONT COLOR="#3366ff">ENGINE</FONT></B>
+<LI><A HREF="#compression_test">How do I check the health of my engine?</A>
+<BR><B><FONT COLOR="#3366ff">MISCELLANEOUS</FONT></B>
+<LI><A HREF="#seatbelt">Which replacement seat belt do I need?</A>
+<LI><A HREF="#building">Is the Tipo still manufactured anywhere?</A>
+<LI><A HREF="#club">Is there a FIAT Tipo club?</A>
+<LI><A HREF="#snow">What precautions should I take in a cold climate?</A>
+<LI><A HREF="#prices">How much are parts?</A>
+<LI><A HREF="#air_canister">What is the canister leading to the air filter for?</A>
+<LI><A HREF="#forum">Can I access the forum directly?</A>
+<LI><A HREF="#insurance">Where are the best places to buy Tipo 16V insurance?</A>
+<LI><A HREF="#heater_fan">How do I stop the heater fan making a noise?</A>
+<LI><A HREF="#first_tipo">What was the first 16V in the UK?</A>
+<LI><A HREF="#games">What do you have for us PC gamers?</A>
+<LI><A HREF="#ronin">Is the Tipo in the film Ronin a 16V?</A>
+<LI><A HREF="#cam_cover">How can I tidy up my Cam Cover?</A>
+<LI><A HREF="#floorpan">What cars does the Tipo share its floorpan with?</A>
+<LI><A HREF="#number_uk">How many Tipo 16V cars were made?</A>
+<LI><A HREF="#stationary_speed">My cars reporting speed/mileage when stationary?</A>
+<LI><A HREF="#sedicivalvole">What does Sedicivalvole mean?</A>
+</UL>
+
+<HR>
+
+<A NAME="cambelt"><B><FONT COLOR="#3366ff">When should the cambelt be changed?
+</FONT></B></A><BR><BR>
+If you don't read anything else in this site please make sure you read this.
+The scheduled cambelt replacement for the Tipo 16V is during it's
+63,000 mile service. Never ever leave it that late. My cambelt snapped at
+60,900 miles. At it's previous service (54,000 miles) I was getting nervous
+about the belt being on the car for so long. However I was assured by the
+service desk that it would be okay to leave it to the next service (if only
+I'd got that in writing!!!).
+<A HREF="../owners/brian_chapman.html">Brian Chapman's</A>
+cambelt failed within 60,000 miles. 
+<A HREF="../owners/jorge_santoro.html">Jorge Santoro's<A>
+cambelt broke taking with it all 16 Valves.
+<A HREF="../owners/karim_kassir.html">Karim Kassir's<A>
+cambelt jumped whilst he was starting the car.
+<A HREF="../owners/cleiton_krause.html">Cleiton Krause's<A>
+cambelt tensioners failed causing the belt to jump and
+<A HREF="../owners/steve_whiteside.html">Steve Whiteside's<A>
+cambelt snapped requiring a upper engine rebuild.
+<A HREF="../owners/andrew_edwards.html">Andrew Edwards'<A>
+cambelt snapped at 52,000 miles three days before it was due to be replaced.
+<A HREF="../owners/david_abel.html">David Abel's<A> cambelt snapped
+costing him &pound;1700 to fix.
+
+<BR><BR>
+Of course cambelts are one of those strange items that can last forever or
+fail relatively quickly. I'm not the only one that believes that they should
+be replaced at least every 36,000 miles and possibly every 24,000 miles.
+This should hopefully 
+reduce the chance of it failing again. It will probably cost about
+&pound;200 to replace both the cam belt and the
+<A HREF="#balancer_shaft">balancer shaft belt</A>. This
+is because the balancer shaft belt alone costs &pound;70.
+<P>
+The bearings should be checked and replaced if necessary, at each
+belt change.
+<HR>
+
+
+<A NAME="cambelt_tensioner"><B><FONT COLOR="#3366ff">When should the cambelt tensioner be changed?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/nigel_gladstone.html">Nigel Gladstone</A> spoke to
+<A HREF="../tuning/tuning.html">Barry WaterHouse Engineering<A>
+who said that the bearing should be replaced every time the cam belt
+is replaced. This obviously keeps the cost down.
+The part number is #5997325 costs a reasonable &pound;34.29 including VAT.
+
+<HR>
+
+<A NAME="abs"><B><FONT COLOR="#3366ff">Which versions of the car have ABS systems fitted?
+</FONT></B></A><BR><BR>
+
+ABS (antilock braking system) was an factory fitted option on all versions
+of the car. It cost about &pound;750 and I don't believe that it can be
+fitted after delivery. I was under the impression that it was standard
+equipment on all 16V models and regrettably did not bother to check.
+If you are unsure it is quite easy to detect the presence of ABS under
+the bonnet. If ABS is fitted to the car then there will be a small box of
+tricks located close to the master cylinder. The four brake pipes will
+come out of this unit. If the car does not have ABS fitted the four brake
+pipes will come straight out of the master brake cylinder and the area
+around this will look far simpler. 
+<P>
+Fiat made ABS an option on the 16v because they claimed that this gives the
+driver the more choice about their driving style
+(i.e. some drivers may want the natural non-ABS feel). 
+<HR>
+
+
+<A NAME="cold"><B><FONT COLOR="#3366ff">Why does the car does not idle when cold?
+</FONT></B></A><BR><BR>
+
+If the revs rise and fall at tickover when the engine is cold then
+suspect the cold start valve (solenoid). It's a mini coke can sized
+silver cylinder close to the throttle actuator, where the
+hose from your air filter enters the engine.
+Its got a wire coming from the top and its a stepped solonoid motor
+which varies the amount of air that the engine gets. 
+ This acts like a choke
+allowing air to bypass the throttle butterfly when the engine is cold. I
+had a problem with the engine not running fast enough when cold and was
+caused by the valve failing and sticking shut.
+<P>
+It you leave the ignition on
+without starting the engine the solenoid is switched on the whole time.
+If left for about an hour (I was cleaning inside of car with portable
+vacuum cleaner) it overheats and sticks. Worth bearing in mind as it's
+&pound;100 to replace.
+<P>
+Apparently the tolerences in it are very small so any dirt that gets
+into it will cause it to get stuck which results in an engine that
+won't run when cold.
+If the valve has simply stuck and not burnt out it can usually be
+freed up by cleaning it thoroughly in solvent. WD40 can be used as a quick
+fix, it washes out some of the carbon deposits and lubricates the solenoid.
+A longer lasting solution is to clean the solenoid with a carb cleaner.
+
+<HR>
+
+
+<A NAME="fuel"><B><FONT COLOR="#3366ff">What fuel consumption should be expected?
+</FONT></B></A><BR><BR>
+In general I get about 31 mpg on a long journey and about
+21-23 mpg on a day to day basis. I usually get about 200 miles out of
+a tank full. Travell about 50 miles for every major tick mark on the fuel gauge.
+The low fuel level indicator is so inaccurate that even when it shows reserve
+I can usually only put 45 litres in.
+<P>
+The best I got was
+travelling to Slovakia across Europe, a reasonably steady speed gave
+about 36 mpg, just as well when you have 1250 miles to do each way.
+Whilst running in my car I had to keep the revs under 4000 rpm and put as
+little load on the engine as possible. Whilst doing this I got 35.7 mpg.
+<BR><BR>
+<A HREF="../owners/lutfi_okay.html">Lutfi Okay<A>
+says that in heavy traffic such as in the city he gets about
+12-13 litres/100 km. Over a long distance at 120-140 (average) km/h it is
+9-9.5 litres/100 km.
+
+<HR>
+
+<A NAME="tank"><B><FONT COLOR="#3366ff">Just how big is the petrol tank?
+</FONT></B></A><BR><BR>
+
+In theory, the fuel tank is 51 litres in volume and the low fuel warning
+light should come on when there is between 5 and 8 litres of fuel left.
+The low fuel warning light seems to come on randomly in my car once the
+tank is less than 1/4 full. I failed to solve the problem by replacing the
+sender unit. I can drive for about 30 miles after the light is on and the
+guage reads zero and still only get about 40 to 43 litres of fuel into
+the tank. This is extremely annoying as it limits the range of the car.
+
+Only on a couple of occasions have I ever managed to get more than 50
+litres into the tank.
+This usually involved driving around all week with the reserve warning light on.
+I decided it was time I should fill it up when I went around a corner
+fast and the engine spluttered!!. This is not to be advised though as I
+once got 52 litres into the tank. Only then did I realize I
+must have been running on vapours.
+<HR>
+
+<A NAME="wiper"><B><FONT COLOR="#3366ff">Why doesn't the rear wiper work?
+</FONT></B></A><BR><BR>
+
+Rain tends to get down either the spine of the wiper arm, or down a split in the
+window gasket causing the spine to rust and cease up. 
+This makes it difficult for the motor to turn. To solve the
+problem, remove the trim off the rear tailgate and dismantle the gearbox for
+the wiper motor. After about an hour of turning the spine by hand it
+should free up nicely. Apply plenty of grease and reassemble. It should
+now work beautifully. Make sure you put some silicone sealant around the window
+gasket to seal it up.
+<HR>
+
+<A NAME="seatbelt"><B><FONT COLOR="#3366ff">Which replacement seat belt do I need?
+</FONT></B></A><BR><BR>
+This sounds like a rather strange question, however there are four possible
+seat belts for the Tipo 16v. If your car is a post 1993 three door model
+then it's simple, there is only one type of seat belt and this has a height adjuster.
+
+However, if your car is a pre 1993 five model then you have a choice of three
+types of seat belt. Two types are without a height adjuster, one of which
+is just a minor update on the other. The third
+type has a height adjuster and if you have this one then you are out
+of luck as FIAT have none left. The cost of standard seat belts are &pound;76 and
+with height adjustment &pound;130.
+
+<HR>
+
+<A NAME="water"><B><FONT COLOR="#3366ff">My cars losing water but I can't see from where?
+</FONT></B></A><BR><BR>
+If you regularly have to add more water to the cooling system there must be
+a leak. If you can't see where this is then check for water in the oil and
+vice versa. To check for water in the oil undo the oil filler cap and if
+there is a white residue on the underside then it's probably the head
+gasket that has perished. Detecting oil in the water is more difficult as
+the contents of the coolant overflow tank are difficult to see. If these
+tests are okay then undergo a cooling system pressure test. This will show
+up any weak points in your cooling system such as the radiator or water
+pump. 
+<BR>
+<HR>
+
+<A NAME="building"><B><FONT COLOR="#3366ff">Is the Tipo still manufactured anywhere?
+</FONT></B></A><BR><BR>
+The last place to produce Tipos was in Turkey until October 1999. They
+made the 1.4i, 1.6i, and 2.0i 16v engines but there are not more in
+stock. The models seemed to be the same as late Italian production,
+but with higher specs, avaliable in 1.4 and 1.6 litre versions.
+Interestingly the 1.6 retained the digital dash, dropped from series
+II cars in Italy in 1993.
+<BR>
+<HR>
+
+<A NAME="club"><B><FONT COLOR="#3366ff">Is there a FIAT Tipo club?
+</FONT></B></A><BR><BR>
+<A HREF="mailto:a.edwards@lrc.dartington.ac.uk">Andrew Edwards</A>
+is thinking of starting a performance Fiat club for owners of fast
+Fiats. Anyone who is interested should contact him via his own
+<A HREF="http://www.dartington.ac.uk/~a.edwards/abarth.html" target="_blank">Web Site</A>.
+<P>
+There is a &quot;Sporting FIATS Club&quot; in the UK. I have no idea how good this
+is but details and an information pack can be requested by calling 01926&nbsp335097.
+<BR>
+<HR>
+
+<A NAME="washer"><B><FONT COLOR="#3366ff">How do I replace the windscreen washer motor?
+</FONT></B></A><BR><BR>
+The windscreen washer bottle is located in the front right hand wing. To gain
+access first remove the three self tapping screws using a 8mm socket that
+hold the coolant expansion tank onto the wing. This can then
+be carefully lifted to one side.
+The washer motor should now be accessible. The motor can be removed simply
+by pulling it out of it's rubber seal.
+A single motor is used for both
+the front and rear wipers. Depending on which way the motor spins it will
+either pump water down the white tube to the rear wiper or down the black
+tube to the front wiper.
+<BR><BR>
+The tubes are made of plastic and care has to
+be taken to prevent kinks. I tried replacing the front wiper
+tubes with silicone tube which can be brought in Radio Control Model shops.
+However, the inner diameter of the tubes was too narrow resulting in
+inadequate water pressure at the nozzels. I tried instead using 5mm
+plastic
+tubing from a home improvement store and this I found was perfect. For the
+font washers you will need three lengths of tubing. These
+need to be 240cm, 80cm and 35cm.
+The rear washer tube is probably quite difficult to replace as it travels
+along the length of the car and also feeds
+down the inside of the rear hatch. However the front section of this is
+easy to replace whilst replacing the front tubes. For this you will need another
+section of tube 200cm long.
+<BR><BR>
+Both the front and rear tubes on my car
+had become blocked. The
+best way I found to free them up is to disconnect the nozzels and then
+pressurize the tubes using a foot pump.
+<BR><BR>
+The front tube splits via a Y
+adaptor to the two nozzels. The adaptor is located under the wind deflector
+that fills the gap between the bonnet and the base of the
+windscreen. The deflector can be removed after the wiper arms have been
+disconnected. The deflector on early Tipos is held on by self tapping
+screws. On early models these have a phillips head screws, however on
+later models you will need a Torx T-20 socket to remove them.
+<BR><BR>
+The adaptor contains a non return valve and in
+my car it had stuck shut. It's probably best to replace it with a new
+one but if you are careful you can dismantle it. The bottom can be
+eased off with a small screwdiver. Be careful because there is a very
+small spring and button inside that can shoot out.
+There is also a very thin rubber
+seal that you could tear. I cleaned the components with a drop of
+metholated spirits to remove what appeared to be a glue/resin. After five
+minutes soaking, the spring allowed the button to move freely up and down
+where as before it was sticking due to the resin.
+The unit can then be reassembled.
+<BR><BR>
+If the windscreen washer bottle itself needs to be removed then this is
+quite a painful task. First undo the remaining 2 self tapping screws using
+an 8mm socket that hold the washer bottle onto the wing.
+It is not possible to
+remove the washer bottle from the top and it needs to be dropped down through the
+wing. To do this jack the car up and remove the front right hand wheel.
+Undo several small screws to remove the inner wing's plastic splash
+guard. You will find it necessary to loosen the side skirt in order to
+gain access to one of these screws. Once the plastic splash guard has been
+removed full access to the washer bottle can gained allowing it to be
+removed from underneath the wing.
+<BR>
+<HR>
+
+<A NAME="springs"><B><FONT COLOR="#3366ff">Can I cut my existing springs to lower the car?
+</FONT></B></A><BR><BR>
+No, no, no, please don't do this. Yes you will lower the car but the ride
+will be terrible. There will now be less travel on the springs but at the
+existing spring rate, thus the car will have a tendency to hit the bump stops.
+The only way to lower the car is to buy a set of uprated lowered springs.
+These will have a higher spring rate and so the ride will be firmer but
+more importantly will not hit the bump stops. Hitting the bump stops is
+a bad thing as you end up with effectively no suspension and run the
+risk damaging the chassis of the car.
+
+<BR>
+<HR>
+
+<A NAME="idle"><B><FONT COLOR="#3366ff">My car won't idle properly when cold and overrevs when hot, why?
+</FONT></B></A><BR><BR>
+Calvin Jones'
+Tipo 16V had this problem. It stalled when cold and 
+also ran a little rough generally with an initial
+&quot;hiccup&quot; before launching itself. The problem was relieved
+somewhat by cleaning a blocked injector.
+Calvin thinks that the problem is still fuel
+related since that after using Redex to clean the injectors the cars
+performance has improved. Calvin may try using 
+ultrasound to clean the injectors fully before
+even thinking of replacing them as they cost &pound;162 each. Calvin is
+also thinking of cleaning the fuel tank in case there is any rubbish in it and
+then possibly investigating the fuel pressure regulator.
+<P>
+<A HREF="../owners/alexis_grant.html">Alexis Grant's</A>
+car had been misbehaving for the last two weeks. It would cut out,
+flood the engine when cold and when hot idle at about 2000rpm.
+It would also have surges when driving.  Alexis took is car to NJS
+to be looked at. NJS used their Fiat/Lancia ECU diagnosis tool to find
+the problem.
+<P>
+The problem is caused by a faulty coolant sensor. There are three
+coolant sensors on the Tipo, one that controls when the fan switches on/off,
+one for the dashboard gauge and one for the ECU. On Alexis car the sensor
+for the ECU was reporting the coolant temperature to be hotter than it
+really was. The coolant coolant sensor for the ECU sits underneath the
+idle valve, it has a blue clip and it quite awkward to get too. The unit
+needs replacing with a new one, which is about &pound;30. Once replaced
+the ECU gave the same reading as the gauge on the dash board. 
+<P>
+Alexis also found out that the J plate 92 ECU differs slightly from
+the K plate 93 and that his throttle position sensor which is found
+at the end of the plenum chamber should have read about 0.2 on the ECU
+when idle and his was way out. Now Alexis's car idles wonderfully.
+
+<BR>
+<HR>
+
+<A NAME="snow"><B><FONT COLOR="#3366ff">What precautions should I take in a cold climate?
+</FONT></B></A><BR><BR>
+Susanne Ambr&eacute;n
+asked what she should be prepared for when driving the car in a cold
+climate.
+
+I have taken my car to Slovakia in the height of winter and I 
+whilst there I was worried about the engine water freezing. I had
+not expected it to get quite as cold as it did (-30<SUP>o</SUP>c).
+I had only had 1 part antifreeze to 2 parts water which normally
+gives protection down to -17<SUP>o</SUP>c.
+If I had known it was going to get this cold I would have used
+1 part antifreeze to 1 part water which should have given me
+protection down to -36<SUP>o</SUP>c. Please check the label on the
+particular brand on antifreeze you use just to be sure.
+Remember that antifreeze spilt onto paintwork should be washed off
+immediately with water.
+Drain and replace antifreeze every 3 years and
+do not dispose of antifreeze down surface drains.
+<BR><BR>
+Despite only having a 1 part antifreeze to 2 parts water my car
+was okay. 
+Putting a sheet over the car when left overnight helped keep it warm.
+Parking next to a house rather than in an open space also helped keep
+the cold off.
+<BR><BR>
+Minor problems I experienced were that the locks would freeze.
+The key would turn in the lock but it would not trigger the central locking.
+You can buy some spray to put into the locks to de-ice them which helps.
+<BR><BR>
+Snow and ice tended to build up and pack into the front wheel arches.
+It would also form large lumps of ice under the side skirts.
+The only space free was where the wheels actually turned and had
+brushed the ice/snow away (have a look at my pictures in the
+<A HREF="../gallery/gallery.html">gallery</A>).
+I left it in place thinking I might
+cause more damage than good by chipping it away.
+<BR><BR>
+The biggest hazard was that the washer hoses and jets froze.
+This resulted in poor visibility after driving for a while. Ice would
+form over the front of the ice but providing the lights were left on whilst
+driving the heat of the bulbs would keep the headlights clear.
+<BR><BR>
+In general though the car started and drove without problems.
+Obviously please be careful when driving on snow and ice.
+It's probably also worth talking to a local FIAT garage to see if
+they have any extra advice.
+
+<BR>
+<HR>
+
+<A NAME="caliper"><B><FONT COLOR="#3366ff">Are there any cheap replacement brake calipers?
+</FONT></B></A><BR><BR>
+Calvin Jones'
+rear brake caliper seized. He was quoted &pound;150 for a new one which
+was more than he wanted to pay. He discovered that the rear brake 
+caliper from a FIAT 125 saloon (circa about 1968) could be
+used. Although the unit
+looked different, when stripped the parts were interchangeable. He thinks
+that the same running gear was also used on FIAT X-19s.
+
+<BR>
+<HR>
+
+<A NAME="ignition"><B><FONT COLOR="#3366ff">What ignition leads should I buy?
+</FONT></B></A><BR><BR>
+There is an extremely good
+<A HREF="http://www.nightrider.com/biketech/truth.htm" target="_blank">article</A>
+on the web. This details the
+different kinds of ignition leads, how ignition leads actually work, which
+manufacturer claims have scientific backing and how not to waste
+your money. Well worth reading.
+
+<BR>
+<HR>
+
+<A NAME="skirts"><B><FONT COLOR="#3366ff">Are 3 door side skirts compatible with 5 door models?
+</FONT></B></A><BR><BR>
+According to
+<A HREF="../owners/peter_chan.html">Peter Chan</A>
+the later 3 door side skirts can be fitted to older
+5 door Tipos. As well as looking better they are also cheaper. This is
+due to FIAT deciding that because the 5 door model has a 2 piece side skirt
+per side they can get away with charging &pound;48 per piece.
+However, the single peice side skirt for the 3 door car costs &pound;62
+per side.
+<P>
+Nareman Virk says that
+they need a slight modification before they will fit.
+The rear third of the side skirt has a slightly raised section. This fits
+against the 3 door cars rear quarter panel. However on a 5 door car this
+will be where the rear doors open. The raised section will therefore need
+to be trimmed down to prevent the rear doors catching on it when opened.
+It's not a big deal, the strip is only about the height of the red coloured
+trim in the middle of the bumpers.
+<P>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+that the skirts do match up nicely, and look even
+better. However the holes don't line up, along the side or even
+underneath the car. The side holes are easy enough to re-drill, but the
+bottom ones, are trickier due to them being square.
+
+<BR>
+<HR>
+
+<A NAME="balancer_shaft"><B><FONT COLOR="#3366ff">What is the double sided toothed belt?
+</FONT></B></A><BR><BR>
+Mike Jukes
+asks what purpose the double sided toothed belt serves as it came off
+when his engine hit the rev limiter (he was very lucky for it not to
+foul the cam belt). This is the belt
+that drives the twin counter rotating balancer shafts. These rotate in the
+opposite direction to the engine and are designed to make the
+engine feel smoother.
+<P>T he garage that rebuilt my engine removed the
+belt and locked the shafts. This is because they did not trust the belt
+to withstand high revs. As a side effect the engine is also slightly more
+responsive but not as smooth at high revs. It can also release about 5 to 6 bhp.
+<BR>
+<HR>
+
+<A NAME="radiator"><B><FONT COLOR="#3366ff">What replacement radiators can be used on the 16V Tipo?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+that the Tipo 1.9 TD radiator will fit to Tipo 16V
+quite nicely with no problems. It runs slightly colder but it's not a
+problem.
+
+<BR>
+<HR>
+
+<A NAME="clutch"><B><FONT COLOR="#3366ff">Is the clutch hydraulic?
+</FONT></B></A><BR><BR>
+Yes, the clutch on the 16V Tipo is hydraulic.
+<BR>
+<HR>
+
+<A NAME="hydraulic"><B><FONT COLOR="#3366ff">Why does the clutch not return properly?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/tim_abbott.html">Tim Abbott</A> asks
+why his clutch pedal does not return properly.
+The clutch and brakes are linked into the same reservoir. If
+the brake/clutch cylinder corrodes then under braking
+the clutch may not operate or may stick to the floor.
+This can be pretty scary at times. The clutch pedal can be freed by putting
+your toes under the pedal and lifting it up. This is only a temporary
+solution and the car should be taken to a garage to be repaired.
+Replace the slave clutch cylinder on the gear box
+and everything should be okay.
+<P>
+It could also be the seal on the master clutch
+cylinder as it's a know problem on Tipos. The seal eventually wears
+causing the fluid in the cylinder to leak past the piston. This can show
+itself as either the clutch pedal not returning properly or whilst
+the clutch pedal is pressed the fluid leaks back past the seal causing
+the clutch to engage - nasty.
+
+<BR>
+<HR>
+
+<A NAME="prices"><B><FONT COLOR="#3366ff">How much are parts?
+</FONT></B></A><BR><BR>
+I don't intend this to be a complete
+<A HREF="parts.html">list of parts prices</A>
+but simply those
+that owners have had to replace.
+As you will see, some parts are
+very expensive and some are surprisingly quite reasonable. Hopefully this
+list will avoid any surprises.
+
+<BR>
+<HR>
+
+<A NAME="locking"><B><FONT COLOR="#3366ff">Why does the central locking not work?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/trevor_byne.html">Trevor Byne</A>
+has problems with his Tipo's central locking.
+Sometimes, but not all the time, his central locking will unlock but then
+it becomes impossible to lock. The key will not turn to the lock
+position in either door. The only solution seems to be to
+force down an inside button.
+<P>
+I had a similar problem with the central locking. Turning the key in the
+drivers door would not open the door and I had to use the passenger door.
+On other occasions when I tried to open the door it would unlock and then
+immediately lock again. It turned out to be a broken central locking
+solenoid in the drivers door. I was suprised to find they were only
+&pound42.88 for a new one. It took the garage less that half an hour to
+fit since I had removed the inner trim off the door. It should still take
+less than an hour if the garage have to remove and refit the trim.
+<P>
+<A HREF="../owners/stefan_starkie.html">Stefan Starkie</A> says that
+his car had a problem with central locking. Rather than the key not
+turning in the lock, he would unlock the car, and after a second it would
+all pop down and lock again. Or, conversely, I would try to lock it and it
+would all unlock again. This ment that the car had to be left
+unlocked for an afternoon outside a friend's house.
+<P>
+Eventually, he traced the problem to the passenger door lock not
+activating remotely, and the system would sense that the door had not 
+locked so it would unlock thw whole car. So by putting the key in the
+passenger lock and locking/unlocking the car manually, he could get the car
+to lock. After taking it to my local mechanic (who used to work at a
+Lancia dealership) he spent an hour and sussed that it just needed some
+oil at a particular place in the mechanism. Problem solved and has not
+recurred, for just twenty quid. Not good, though, having your car left
+outside unlocked!
+
+<BR>
+<HR>
+
+<A NAME="air_canister"><B><FONT COLOR="#3366ff">What is the canister leading to the air filter for?
+</FONT></B></A><BR><BR>
+On 5 door versions of the car there is a canister of some sort underneath
+the air filter box. A tube joins the air filter box to this canister.
+Another tube which is about 2&quot; to 3&quot; in diameter leads from
+the canister to the radiator.
+Nothing actually covers the pipe at the radiator end. Does anyone
+know what its purpose is? I have not seen this canister on my 3 door version.
+<BR><BR>
+Pete Mirams (ex Tipo 16V owner) says that the plastic canister ahead
+of the airbox, and tucked under the front radiator pipework is some sort
+of resonance chamber.
+
+<BR>
+<HR>
+
+<A NAME="exhaust_splitting"><B><FONT COLOR="#3366ff">Is it possible for the exhaust manifold to split?
+</FONT></B></A><BR><BR>
+Pete Mirams (ex Tipo 16V owner) says that his exhaust manifold split. This
+caused excess noise from the engine. Pete came across a guy with the same
+problem at a recent Fiat Motor Club meeting. Apparently splits in the
+manifold are not rare and require stainless steel welding or a new
+manifold costing about &pound;400.
+
+<BR>
+<HR>
+
+<A NAME="strut_brace"><B><FONT COLOR="#3366ff">Do strut braces really make that much difference?
+</FONT></B></A><BR><BR>
+Mike Jukes
+asks whether strut braces really make that much difference on
+a road car? 
+<A HREF="../owners/alex_neagu.html">Alex Neagu</A>
+says that they are worth every penny.
+He gave his to
+<A HREF="../owners/moshe_tevet.html">Moshe Tevet</A>
+for a while and the difference was 
+amazing. He had totally forgotten what body roll meant until that day.
+The bar just holds everything together and really improves the car's 
+cornering ability. Omp, Sparco and Fly Motors make
+strut braces for the Tipo 16v. Sparco only appear tomake a brace for the non-abs
+Tipo 16V however OMP do.
+
+<BR>
+<HR>
+
+<A NAME="cleaning_wheels"><B><FONT COLOR="#3366ff">How do I keep my wheels clean?
+</FONT></B></A><BR><BR>
+Alloy wheels using for racing are made from magnesium and titanium and
+weigh 50% less than standard alloy wheels. Standard alloy wheels are made
+from 80% aluminum. The remaining 20% consists of other metals such as
+magnesium, silicon and copper. These are then painted silver and finally
+coated in lacquer.
+<P>
+The best way to keep them clean is to treat them the same as paintwork.
+Whenever you wax the body of the car wax the wheels as well. Try to clean
+them using normal car shampoo (NOT fairy liquid) as often as possible
+to prevent build up of brake dust. This can be very difficult to remove
+if allowed to bake onto the wheels. Sad as it may be I clean my wheels
+once a week and this seems to work okay. I tried using one of the after
+market wheel cleaners on my last set of alloys to remove some stubborn
+brake dust. Unfortunately I left it on just a little too long and it
+badly marked the surface of the alloys. If you have to use this type of
+product please be very careful and only attempt one wheel at a time.
+Make sure you have plenty of water before you begin to rinse the product off.
+
+<BR>
+<HR>
+
+<A NAME="locking_boot"><B><FONT COLOR="#3366ff">How do I keep the boot locked?
+</FONT></B></A><BR><BR>
+For security reasons it is possible to lock the boot of the car such that
+if the driver or passenger door is opened using the central locking the
+boot remains locked. This is useful if someone breaks into the car and
+unlocks the drivers door. The boot will remain locked, thus hopefully any
+valuables in the boot will be safe. To lock the boot in this manour,
+insert the key
+into the boot and turn it such that the keyhole is horizontal rather than
+vertical. Test that the boot is indeed locked by pressing the button. To
+unlock the boot insert the key and turn it such that the keyhole
+is vertical.
+<P>
+I hear you say, ah but what about the rear seat, can't they just fold them
+down and gain access that way. Yes normally they would but if you look behind
+the seat from inside the boot you will see two catches below the plungers
+used to release the seat. These can be turned such that the plungers
+have no effect. As an extra precaution the plungers can also be removed.
+
+<BR>
+<HR>
+
+<A NAME="forum"><B><FONT COLOR="#3366ff">Can I access the forum directly?
+</FONT></B></A><BR><BR>
+If you want to set up a bookmark directly the the forum page without
+having to go through the main Tipo pages then follow this
+<A HREF="http://www.delphi.com/tipo16v/messages" target="_blank">link</A>
+and bookmark the resulting page.
+
+<BR>
+<HR>
+
+<A NAME="cold_start"><B><FONT COLOR="#3366ff">Starting Problems?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>
+had difficulty starting his car from cold. This was traced to a
+hairline crack in the distributor. 
+<P>
+<A HREF="../owners/karim_kassir.html">Karim Kassir</A>
+had difficulty starting his car when it was very cold -20<SUPER>o</SUPER>C.
+This was traced to faulty engine temperature measurement device. This
+sends a signal to the fuel injection electronics telling it how cold it
+is and how to set up the fuel/air mixture. Now the engine starts even
+below these temperatures!  
+<P>
+<A HREF="../owners/steven_cooper.html">Steven Cooper</A> says that
+this was a wiring short circuit caused by a wiring insulator rubbing
+against metalwork through split in the grommet at the bulk-head. This blew
+the fuel pump relays. Fixed by replacing the wiring and relays.
+
+<BR>
+<HR>
+
+<A NAME="no_spark"><B><FONT COLOR="#3366ff">No spark at the plugs?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/andy_giles.html">Andy Giles'</A>
+Tipo would not spark when turning over thus the car would not start up.
+The battery, distributor, high tension leads and spark plugs were
+all okay. However the problem
+was eventually traced to the crank position sensor. The thin wire connecting
+it to the ECU had been frayed by the cam belt pulley and it had eventually
+snapped.
+<P>
+My car would turn over but not start. There was no spark at the plugs. The
+signals to the ignition module were okay but there was no signal from the
+ignition module to the coil. A new ignition module was fitted and the
+car started. The ignition module is a small black box about the size of
+a packet of cigarettes that is bolted to the underside of the ignition
+coil. It has a seven pin connector plugged into it. FIAT only sell it
+complete with the ignition coil for about &pound;150 but the ignition
+module can be brought from independant garages.
+<BR>
+<HR>
+
+<A NAME="alternative_exhausts"><B><FONT COLOR="#3366ff">Which aftermarket exhausts fit the Tipo 16V?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/jim_coyle.html">Jim Coyle</A>
+paid &pound;140 for a new exhaust including fitting from
+&quotB&amp;M Systems&quot; in Mansfield, Nottinghamshire. About
+10 minutes from junction 28 on the M1. Telephone number 01623&nbsp;641534.
+This was a single
+peice unit from the catalytic converter back. The company
+makes thier own systems, flexi-pipes and catalytic converters. The estimated price for
+a complete system is less than &pound;200 fitted. They also make the
+flexihose section for only &pound;70 including fitting.
+<P>
+Calvin Jones
+has the Bosal system fitted to his car from the 
+catalytic converter back. The two piece system only costs
+&pound;119.85 and seems quite good quality with a nice chrome
+tailpiece.
+<P>
+<A HREF="../owners/karim_kassir.html">Karim Kassir</A>
+has a Remus exhaust system. The
+complete exhaust (which consists of two parts fitted just behind
+the catalytic converter) costs approximately 450 Euros. Karim knows
+someone who works at the Remus factory so he got the exhaust cheaper
+than the normal retail price. Remus is an Austrian company situated
+in B&auml;rnbach. The owner of Remus used
+to work for Sebring, and now he's in a position to
+make Sebring a subsidiary of Remus!
+Anyway the exhaust looks and sounds great and fits perfectly
+, no bending, welding or swearing necessary! The tailpipe measures
+92mm &times; 78mm. The original part numbers are as follows:<BR>
+Middle section: 110<BR>
+Rear section: 90<BR>
+
+
+<P>
+Nareman Virk
+also has a full Remus exhaust system. It cost &pound;370 for the full
+system which comes all in one piece. Fitting was fairly easy, but he got
+a friend to do it for him. He jacked the back of the car up and changed it
+himself on his drive, all in under an hour.
+<P>
+
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>
+also has a full Remus exhaust system. He swears the car just flies now.
+ No hesitation, no flatspots, the way the car goes up to and beyond 100mph
+is like nothing I ever experienced before in his car.
+The most amazing thing is that you don't need to rev the nuts off the car to do this,
+it's like someone put another engine in the back!
+
+<P>
+<A HREF="../owners/markus_hasse.html">Markus Hasse</A>
+has an exhaust made by &quot;CSC&quot; in Italy. It's cheaper than
+the Supersprint system and is the only system he found that gave
+him a bit more power. The exhaust does not have a middle silencer only
+a rear. It's a bit louder, but you can feel the difference.
+<P>
+<A HREF="../owners/andrew_edwards.html">Andrew Edwards</A>
+fitted a new 'powerflow' stainless steel exhaust
+system costing &pound;235. The difference is very noticable,
+although fuel consumption has suffered slightly.  The exhaust
+is custom made on the car and removes the catalytic converter.
+The sound is deep and rumbly but not too boy racer!
+<BR>
+<HR>
+
+<A NAME="catalytic_converter"><B><FONT COLOR="#3366ff">Can I remove the catalytic converter on my Tipo?
+</FONT></B></A><BR><BR>
+Please note that in the UK from 1st January 1996 the MOT has
+included an emissions test for vehicles equipped with three way
+catalytic converters. Cars registered <U>after</U> 1st August 1992 (i.e.
+K prefixes onwards) are	<U>required by law</U> to have catalytic
+converters fitted and will fail the test without them.
+<P>
+Cars registered <U>before</U> 1st August 1992 (i.e. J prefixes and earlier)
+<U>do not require</U> catalytic
+converters to pass the test. Some manufacturers fitted catalytic
+converters to cars built before	1st August 1992, only these can be
+legally removed. The MOT station will then apply the non catalytic
+converter test to the car.
+<P>
+To summarize, cars registered after 1st August 1992 require
+catalytic converters, and those registered before do not.
+Although removing a catalytic converter from a car registered after
+1st August 1992 is illegal, it would only be detected during an MOT.
+Obviously I can't endorse illegal activity therefore you will
+just have to read between the lines.
+Please check the legality of removing the catalytic converter
+in your county.
+<P>
+This is what I believed to be true. However having spoken to Tanc Barrett
+they say it's not as clear cut as this. As the law stands in the UK 
+it is the engine and not the car that does or does not require a catalytic
+converter to be fitted/tested.
+For example, if you fit a 1991 engine in a car built in 1999 and have some kind
+of proof of the engine type (an old log book say) then the tester would be
+obliged to carry out a pre catalytic converter test.
+<P>
+Okay, so there are potential legal problems but what do I actually
+achieve by replaceing the catalytic converter with a straight through
+pipe? The exhaust will sound
+considerably louder with quite a fruity rumbly sound compared to with the
+rather whiney sound with the catalytic converter fitted.
+You should find that the power delivery will be much more linear and stronger
+below 4000 rpm.
+<P>
+Nareman Virk
+removed his catalytic converter. The replacement pipe was specially made
+up by a company that custom builds exhausts. It was originally made as
+a simple straight through pipe, but was extremely 'boomy' and so he later
+had a silencer fitted. Nareman gave them the original cat upon which
+they based the replacement pipe, but he says that it was well worth the
+effort as it gave a dramatic improvement in mid-range performance.
+Narman had his made of stainless steel, so that it won't corrode, but it
+does mean you get a rather tinny resonating sound coming from the pipe
+at high rpm. He is going to have another made up in mild steel to overcome
+this problem. The pipe for a 5 door version has aflange on one end and a
+sleeve on the other where as a 3 door version is flanged at both ends.
+<P>
+Calvin Jones
+had a replacement made in UK by BTB exhausts (01327-261797). They will
+fabricate one which is essentially a straight through pipe with no baffles
+and will lighten your wallet to the tune of &pound;111.63. It fits very
+easily and is very well made. Like Nareman, Calvin found the boom
+unbearable on long journeys.
+
+<P>
+<A HREF="../owners/rogerio_ferrari.html">Rogerio Ferrari</A>
+removed his catalytic converter and says
+it's a little bit loud but the result in low end power is worth it.
+
+<P>
+<A HREF="../owners/ben_sleeman.html">Ben Sleeman</A>
+has replaced his catalytic converter with a 2 inch stainless steel straight through pipe
+which was custom built. The improvement is very clear, the thing just
+moves like shit of a shovel in the low rev range.
+<P>
+I understand that pre 1993 catalytic converter replacments are no longer
+made by Supersprint.
+
+<BR>
+<HR>
+
+<A NAME="fuel_injectors"><B><FONT COLOR="#3366ff">Why is my car only running on 3 cylinders?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/karim_kassir.html">Karim Kassir's<A>
+car had some trouble with the fuel injection system. One of the
+injection valves got stuck and the engine only ran on three cylinders.
+Karim took the car to the garage and had it fixed cheaply. The mechanic
+just took a piece of wood and tapped on the injection valve. He then
+gave Karim a can of injection cleaner and since then the cars been
+running again on all four cylinders.
+
+<BR>
+<HR>
+
+<A NAME="insurance"><B><FONT COLOR="#3366ff">Where are the best places to buy Tipo 16V insurance?
+</FONT></B></A><BR><BR>
+The Tipo 16V is in insurance group 15 so no insurance quote is
+going to be particularly cheap. As with most things, it's best to phone
+around as many companies as possible (at least 10) as you will be amazed
+at the difference in price. Try phoning direct companies (those that only
+operate over the telephone), insurance brokers and also high street
+insurance shops.
+<P>
+There are standard ways of reducing your premium such as:
+<UL>
+<LI>Limiting annual mileage
+<LI>Volenteering a larger excess
+<LI>Limiting the driver to yourself
+<LI>Fitting an approved immobiliser/alarm - be careful though as discounts
+given by one insurance company for the alarm may not apply to other companies.
+</UL>
+<P>
+Unfortunately the aspects that effect the quote the most will be the area
+where you live (the crime record and number of cars), your age and
+driving record.
+<P>
+Be very careful before modifying your car. Some insurance
+companies are very lenient and for minor cosmetic changes such as different
+wheels and a spoiler the premium will not be effected. However other
+insurance companies may increase your premium or even refuse to insure
+you.
+<P>
+
+ Minor performance modifications such as performance exhausts
+and air filters are relatively easy to insure. However, if more extensive
+ tuning has been carried out, such as internal engine
+ modifications, then you will find it extremely difficult to find
+ insurance. It's not just a matter of the premium being higher, as soon
+ as you tell them the engines been modified they just don't want to know.
+ With the modifications I've made to my car I only found a handful of
+ insurance companies that would insure it. It actually got to the stage
+ that I was beginning to think I was not going to be able to insure it.
+If your car has major modifications then try the following companies:
+<UL>
+<LI>Performance Direct - 01708&nbsp716031
+<LI>Herts Insurance Consultants- 01279&nbsp506090
+<LI>Adrian Flux - 01553&nbsp777888
+<LI>GSI - 07000&nbsp411888
+<LI>Firebond - 01223&nbsp566020
+</UL>
+I'm currently insured with <B>Adrian Flux</B>. With
+full NCB, legal protection, clean driving license and being 30 years old
+it cost &pound;595
+fully comprehensive. Bear
+in mind that this price takes into account the extensive engine
+modifications my car has undergone.
+<P>
+<A HREF="../owners/nigel_gladstone.html">Nigel Gladstone</A> with
+full NCB, no offences, licence for over 10 years, unmodified and
+off road parking was charged &pound;670 fully comprehensive.
+<P>
+Calvin Jones with 
+identical licence details as Nigel got fully comprehensive insurance with
+<B>Zurich</B> for &pound;450.
+<P>
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A>
+was charged only &pound;311 with <B>Churchill</B> with
+again the same licence details to Nigel.
+<P>
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>
+is insured with <B>Privilege</B>, telephone number 0113&nbsp2438448.
+Roy has full NCB and was charged &pound;328 with &pound;150 excess.
+<P>
+<A HREF="../owners/miles_poolton.html">Miles Poolton</A>
+is insured fully comprehensive with <B>Privilege</B>, telephone number 0113&nbsp2438448.
+whoe charged him &pound;325.
+<P>
+<A HREF="../owners/ben_sleeman.html">Ben Sleeman</A>
+is insured 3rd party through <B>Adrian Flux</B> for &pound;645.
+This is based on him being 20 years old, 3 points for sp30, K&amp;N 57i
+air filter and no catayltic converter.
+
+
+<BR>
+<HR>
+
+<A NAME="water_pump"><B><FONT COLOR="#3366ff">When is the water pump likely to fail?
+</FONT></B></A><BR><BR>
+Steve Lewis says that the water pump seems to be a problem on these cars
+at around the 50,000 miles mark.
+<P>
+His problems started at about 44,000 miles with a massive water leak
+from the nose of the
+pump. There was no noise at this time. With the engine idling, water was
+pouring out as quick as he could pour it in. In desperation he poured
+in a bottle of rad weld. Within 5 minutes the leak was just a trickle,
+and after leaving the car overnight the leak stopped altogether.
+Anyway, about a month later a screaming noise could be heard so he took the
+car to his local Fiat garage. They changed the water pump during the
+45,000 service together with the cambelt, balancer shaft belt and water pump/
+alternator belt. It cost about &pound;328 with all the parts:
+<UL>
+<LI>Water Pump &pound;78
+<LI>Cam Belt - &pound;18
+<LI>Balancer Shaft Belt - &pound;45
+<LI>Water Pump Belt - &pound;12
+<LI>Labour - &pound;165
+</UL>
+All the belts have to come off to change the pump so it gets a bit
+expensive. Steve's Brother-in-law also has a 16v and his pump is
+starting to get noisy now at about 55,000 miles. Annoying as he had the belts
+replaced at 45,000 miles.
+<P>
+<A HREF="../owners/george_roberts.html">George Roberts</A> says that
+not long after he got his car the water pump went. After visiting a
+number of different garages their diagnosis ranged from:
+<UL>
+<LI>Cams are knackered mate!!
+<LI>Tappets need adjusting fella!!
+<LI>Nuffin to be worried about mate just drive it!!
+</UL>
+Having been completely confused, he gave the AA a call and the guy who
+turned up (who incidentally had never seen a Sedicivalvole before) said
+straight away that it was the water pump.
+George took it to an Integrale specialist to have the work done and it
+cost him about &pound;350 including:
+<UL>
+<LI>Water Pump - &pound;80
+<LI>Cam Belt - &pound;20 
+<LI>Balancer Shaft Belt &pound60 
+<LI>2 litres of Paraflu Coolant/Antifreeze - &pound;20 
+<LI>Labour - &pound;150
+</UL>
+
+<BR>
+<HR>
+
+<A NAME="4000rpm"><B><FONT COLOR="#3366ff">Why won't my car rev to more than 4000 rpm?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that
+when his did this he added a couple of bottles of STP injector cleaner
+from Halfords into the fuel tank. This seemed to do the trick and he thinks
+it might have been dirt pulled through the fuel system.
+<P>
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A> says that
+where the coil lead went into the coil on his car was all burnt and corroded.
+He cleaned up the coil and replaced the distributor to coil lead
+and it fixed the problem.
+<A HREF="../owners/steven_cooper.html">Steven Cooper</A> says that
+he replaced the angle (TDC) sensor although it still happens occasionally when cold.
+It is the gap and not the sensor that's important. The car wouldn't start
+if it was faulty. The TDC sensor is positioned at the crank pulley.
+The pulley has 4 teeth. Position either of the teeth exactly center of the sensor
+and use a feeler gauge to adjust the gap. The sensor can also be adjusted vertically
+if necessary. If the gap is too small, it acts as a rev limiter.
+Keep the gap to betwen 0.6mm and 1.0mm.
+<P>
+It is possible that the distributor is not set in its correct position - this
+will not affect the timing but it will affect the distance the spark has to
+jump from the rotor tip to the output to the HT lead - in time this causes
+erosion of the tip of the rotor and the output 'posts' inside the distributor cap.
+<BR>
+<HR>
+
+
+<A NAME="refurbishing_wheels"><B><FONT COLOR="#3366ff">Should I refurbish my wheels or buy new ones?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/richard_brierley.html">Richard Brierley</A> says
+he had his wheels refurbished last April. They must have been re-sprayed
+before, not very well either. He had to put nitromores on the wheels to
+get the paint off and then this bloke came around in his van to buff them.
+Basically he kept polishing the surface until they are perfectly shiny.
+They looked great throughout the summer, but as the wheels are not
+coated at all as soon as the rain and grit off the roads started
+to have a go at them they started corroding fairly rapidly
+and are looking a bit of a mess now. He advices that any refurbishment
+you have taken out includes a coated finish.
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that
+it costs about &pound;35 a wheel.
+<P>
+Nareman Virk says that it would
+have cost him &pound;50 a wheel for them to be refurbished and a further
+&pound;30 if they were also buckled. Even though he would have liked
+to keep the car looking as original as possible it made more sense to
+buy new wheels.
+
+<BR>
+<HR>
+
+<A NAME="squeeling_brakes"><B><FONT COLOR="#3366ff">How do I stop my brakes from squeeling?
+</FONT></B></A><BR><BR>
+Nareman Virk says that you should
+put some copper grease between the brake block and the piston. Under braking
+the brakes vibrate and the copper grease prevents the metal on metal
+squeel that's heard. Please be VERY careful not to get any grease on
+either the brake discs or the active side of the brake pad. Only a small
+abount of grease should be needed.
+
+<BR>
+<HR>
+
+<A NAME="high_clutch"><B><FONT COLOR="#3366ff">Why does the clutch pedal sit about 1&quot; higher than the brake pedal?
+</FONT></B></A><BR><BR>
+Nareman Virk asks why his
+clutch pedal sits higher than the brake pedal and squeeks when pressed.
+He also says that the warning light for low brake fluid keeps coming on.
+The brake and clutch fluid are shared. The brake fluid drains from the
+bottom of the tank and the clutch from about 1/2 way down. This ensures that
+if there is a fluid leak in the clutch then the brakes will always work.
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that it
+could be the master clutch cylinder but it's probably just the poorly
+designed pedal box that FIAT are aware of. Apparently the official FIAT
+fix is to use a thick cable tie between the bulkhead and the pedal to
+stop it coming up too far.
+
+<BR>
+<HR>
+
+<A NAME="uprated_headlights"><B><FONT COLOR="#3366ff">Can I fit more powerful headlight bulbs?
+</FONT></B></A><BR><BR>
+Nareman Virk says that
+he's using 130/100W bulbs and they are noticeably better.
+I'm not sure whether it's legal to change the wattage of bulbs. Anyway,
+the headlamp plugs, the things that plug into the back of the bulb with
+3 wires coming out, have melted on both sides of the car. Nareman has
+replaced them with heavy duty ones from a Fiat Uno diesel.
+<P>
+Mike Jukes says that you must
+be careful that you don't over do it on the wiring. If you overload it
+you may burn it out. The plastic lampholders must also be rated to
+the wattage.
+<P>
+Xenon is a tad overated, it tends to be just as bright as halogen,
+it's just a higher colour temperature,  meaning the light is closer
+to white/blue.
+
+<BR>
+<HR>
+
+<A NAME="wiper_replacement"><B><FONT COLOR="#3366ff">Can I buy replacement wiper blades?
+</FONT></B></A><BR><BR>
+Nareman Virk says that
+FIAT don't sell a replacement rubber blade for the rear wiper and
+instead you must spend about &pound;30 on a new arm/wiper/rubber.
+
+<BR>
+<HR>
+
+<A NAME="heater_fan"><B><FONT COLOR="#3366ff">How do I stop the heater fan making a noise?
+</FONT></B></A><BR><BR>
+Mike Jukes
+says that the fan in his car is very noisy (grinds and wails) and
+the output does not seem very good.
+  How can he remove the unit
+and is it possible to quieten down the noise? If he looks in the passenger
+footwell he sees a black cylinder with a plug going into it. Detaching
+this plug stops the fan and stops the noise.
+<P>
+<A HREF="../owners/nigel_gladstone.html">Nigel Gladstone</A> says he has
+a imilar problem whereby when it rains heavily or he goes through a
+car wash the fan makes a wierd knocking sound.
+<P>
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A>
+says to look under the glovebox. You will find that one screw holds
+the heater fan in place. Remove this screw, get hold of fan housing
+and twist the whole thing until it drops out. Nine times out of ten the
+noise in the fan is caused by leaves. These get sucked into the
+fan, If left inside they may mess up the bearing in the fan. This is
+because the fan runs on a plastic spindle which will wear away
+causing it to come out of place, slip and grind.
+Worth fixing as soon as possible as a new heater fan motor is &pound;120.
+
+<BR>
+<HR>
+
+<A NAME="dashboard_lights"><B><FONT COLOR="#3366ff">What replacement bulbs do I need for the dashboard?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A> says they are
+part number 286 which is a universal number used everywhere.
+All garages will sell them and also Halfords. They're under &pound;1
+each and they are the plug in type.
+
+<BR>
+<HR>
+
+<A NAME="lose_hub_nuts"><B><FONT COLOR="#3366ff">What causes funny noises from the wheels?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+that he heard funny noises coming from the front of his
+car whilst driving. It would occur when he accelerated or deccelerated
+but now whilst keeping the speed constant. He thought it might be the
+alloy wheels rubbing against something, possibly the brake claiper. He
+pulled over, got out the wheel brace, and tighted the nuts up, only
+to find that all the nuts turned about half a turn. Since then the
+problem has not shown itself again.
+<P>
+Nareman Virk says that he
+had a similar problem. The nut that holds the hub on is coming loose on
+both sides and there is movement/play in both front wheels.
+It made the whole driving experience very wishy washy and non-confidence
+inspiring.
+
+
+<BR>
+<HR>
+
+<A NAME="ignition_module"><B><FONT COLOR="#3366ff">How do I remove the ignition module?
+</FONT></B></A><BR><BR>
+The ignition module is a small black box about the size of
+a packet of cigarettes that is bolted to the underside of the ignition
+coil. It has a seven pin connector plugged into it and takes inputs
+from the crank position sensor, the distributor sensor and the ECU and
+charges the low voltage side of the ignition coil.
+Should you wish to replace it follow these instructions.
+<P>
+The module sits underneath the coil at the front right of the engine. There 
+are two leads connected to the top of the coil. The first lead is the HT 
+lead that joins the left hand side of the coil to the distributor. Simply 
+pull this off. The second lead is a 4 pin plug that plugs into the right 
+hand side of the coil. Make sure you release the little catch on the right 
+side of the plug before you try to pull it up. Once you've removed these 
+two leads undo the two bolts that hold the coil onto the side of the 
+battery tray using a 10mm socket. Gently lift the coil forwards off the two 
+bolts, don't let go of it. At this point the ignition module that is 
+attached to the bottom of the coil is still attached to the wiring loop via 
+a large 7 pin connector. The lead from this connector comes up the front 
+side of the coil. To unplug this connector rotate the coil 90 degrees away 
+from you. Squeeze the metal spring clip that hold the connector onto the 
+ignition module and gently pull it off. Once this is done the coil is 
+completely disconnected. The best way to remove it is to lower it down 
+through the engine. The depth is too far to lower it all the way to the 
+floor. If your doing this by yourself you might want to rest the 
+coil/module on the lower radiator pipe before putting your hand up from 
+underneath the front bumper to grab it. Please be careful not to drop it on 
+the floor. Once the coil/module has been removed from the car turn it 
+upside down and undo the two screws that hold it onto the coil. The back of 
+the module will be sticky as it's a gel to dissipate the heat to the coil 
+which acts like a heat sink.
+
+<BR>
+<HR>
+
+<A NAME="heavy_clutch"><B><FONT COLOR="#3366ff">Is it normal for the clutch pedal to be so hard to press?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/barry_girgis.html">Barry Girgis</A> says that the
+clutch pedal is relatively hard to depress and can get quite
+uncomfortable when driving in heavy traffic.  Is this normal? Yes I'm afraid it
+is. You get used to it after a while and grow to like it, all part of the driving
+experience. If you get back into
+a &quot;normal&quot; car afterwards you almost push it's clutch pedal through
+the floor the first time you press it. You then spend the rest of the drive
+wondering if there is anything attached to the other end!
+
+<BR>
+<HR>
+
+<A NAME="power_delivery"><B><FONT COLOR="#3366ff">Is it normal to get a power surge after 4000 rpm?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/barry_girgis.html">Barry Girgis</A> says that his car
+has not got a lot of bottom end but when the revs hit around
+4000 rpm in second or third, the car just zooms. Is this a typical trait? I think
+all owners will agree that the car definately pulls well once it gets into the upper
+rev band. This is typical of 16V engines, they require high velocity air entering
+the cylinders to work at their best. Please correct me if I'm wrong or if you can
+add to this.
+
+<BR>
+<HR>
+
+<A NAME="window_guides"><B><FONT COLOR="#3366ff">My window guides have rusted what can I do?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/ben_bishop.html">Ben Bishop</A> says that his window separators,
+the black metal strip on the rear doors between the windows, have rusted at the bottom
+and need replacing. <A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that
+rusted window guides are a very common problem with 5 door Tipos. His also has it
+and it's not a major problem and can easily be fixed. Apparently the old one can be removed
+in one peice and the new parts are available from Fiat for about &pound;10. Try to fix
+it as soon as possible as you don't want water getting inside the door skin.
+
+<BR>
+<HR>
+
+<A NAME="pinking"><B><FONT COLOR="#3366ff">How do I prevent my car from pinking?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A> asks why his engine pinks
+in all gears at low revs but stops at higher revs. He's using super unleaded fuel.
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says his suffers from
+the same problem. Alex says sure you use 98RON superunleaded (which I think you can
+only get at Shell) and take the car out for a dam good thrashing. It works wonders.
+Also try some of the fuel additives that are available, such as injector cleaner
+to help the flow of fuel, they do help, especially if the car hasn't been used
+in the way it should for some time.
+
+<BR>
+<HR>
+
+<A NAME="refurbishing_who"><B><FONT COLOR="#3366ff">Who should I get to refurbish my wheels?
+</FONT></B></A><BR><BR>
+Nareman Virk strongly recommends Diamond Styling
+in London for the quality of their work.
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> used Spit&amp;Polish. However
+after a couple of months the corrosion was once gain visible. Alex sent the wheels back
+to Spit&amp;Polish who tidied them up. The wheels came back initially
+looking very smart however even with regular cleaning the corrosion soon came though
+the lacquer.
+
+
+<BR>
+<HR>
+
+<A NAME="suspension"><B><FONT COLOR="#3366ff">What is the best suspension set up?
+</FONT></B></A><BR><BR>
+Nareman Virk says that people tend to
+recommend Eibach springs with Koni shocks. Koni do however also make springs to
+go with their shocks and sell them as a complete package. 
+<A HREF="../tuning/tuning.html#avanti">Avanti Motorsport</A> also say
+the best springs to fit to the car are Eibach. Nobody has done a back to back
+test of various spring/damper combinations. However those who have fitted Koni shock
+absorbers with Elbach springs say the handling of the car is very good.
+<BR>
+<HR>
+
+<A NAME="idle_speed"><B><FONT COLOR="#3366ff">How do I adjust the idle speed?
+The ideal idle speed should be about 850 - 900 rpm.
+</FONT></B></A><BR><BR>
+Nareman Virk says
+to adjust this you need to warm the engine up. Do not adjust the idle if the
+fan has cut in - wait for it to switch off. Now, disconnect the small clip
+switch on top of the idle valve, with the engine running. Secondly, adjust
+the small screw next the the idle valve until your revs rise to 850 rpm.
+It helps if there are two of you doing this - one adjusting the screw,
+the other sitting inside looking at the revs. (alternatively, long arms also help!).
+When you have attained perfection, re-attach the switch and your car should be
+idling in a state of harmonious tranquility with all existence!
+
+<BR>
+<HR>
+
+<A NAME="door_handles"><B><FONT COLOR="#3366ff">How do I remove the door handles?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+Once you've removed the inner door trim find the crosshair markings on the
+plastic dust cover. Insert a 8mm socket through the markings in the plastic.
+Undo the bolts using the socket, then use your hands, or the 8mm
+socket and undo by hand, as if these bolts drop, you may not be able to
+find them again.
+
+<BR>
+<HR>
+
+<A NAME="removing_central_locking"><B><FONT COLOR="#3366ff">How do I remove the central locking mechanism?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says
+Once you've removed the inner door trim disconnect the 2 rods that lead
+to the motor. One is for the door handle, and the other is to move the
+button up and down. Disconnect the wiring from the motor.
+Open the door and undo the 3 bolts (10mm he thinks), these are the only
+bolts that hold the motor. Slid motor out through the largest gap in
+the subframe, and it will fit through, just takes a while to get
+the angle right.
+
+<BR>
+<HR>
+
+<A NAME="door_trim"><B><FONT COLOR="#3366ff">How do I remove the inner door trims (5 door)?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says...<BR><BR>
+Front doors:
+<OL>
+<LI>Unscrew the 6 screws that hold the door pockets in.</LI>
+<LI>Unscrew the handle.</LI>
+<LI>Prise the handle off and there should be another 2 screws + window switches.</LI>
+<LI>Take the 2 screws out of the window switch and disconnect the switch.</LI>
+<LI>Remove the bigger screws from the handle and pull the handle out.</LI>
+<LI>To remove the door handle cover, pull the handle open, and stick a screwdriver behind the cover.</LI>
+<LI>Slide cover over the handle.</LI>
+<LI>Door card should be loose at the bottom, now just pull away, watching out not to snap the poppers.</LI>
+</OL>
+
+Rear doors<BR>
+<OL>
+<LI>Insert screwdriver into window regulator, and push 'c' clip off.
+Same as steps 2,4,5,6,7,8 above.</LI>
+</OL>
+To put window regulator back on, place 'c' clip on to the handle
+1st, the 2 ends should sit inside the handle bit (can't think of a
+suitable name) and then push on to the regulator, should make a click
+noise, pull handle to make sure it is back on properly.
+
+<BR>
+<HR>
+
+<A NAME="first_tipo"><B><FONT COLOR="#3366ff">What was the first 16V in the UK?
+</FONT></B></A><BR><BR>
+Neil Watson says that he was privileged to be the first person to drive a
+16 valver in England. The cars registration number was J161 LCX.
+He worked for Fiat at the
+time and fell in love with the car on the first drive.
+Before delivery of the first car none of them had driven one so,
+knowing Fiat`s choice of all the best going to Alfa or Lancia, we thought
+the 16 would need a turbo to be interesting. Wrong!
+The 16 was fast, comfortable and handled like a dream and should anybody
+tell you it can`t compete with an Escort RS2000, Astra GSi or Golf GTi,
+sorry wrong!. They put J161 up against all three and it excelled in
+all catagories against all of them. Although may be not in build quality.
+However you couldn't argue that it was and still is an amazing car to drive.
+<P>
+Alan Shurety disputes that Neil was the first person in the UK to drive a 16V Tipo.
+He worked for Fiat Auto (UK) Ltd for nearly 10 years managing their company car
+department including all Press, Pre-Launch and Homologation Vehicles from February 1988
+until August 1997. He saws I may be interested to know that when the Tipo was first
+launched in the UK back in the summer of 1988 the 16V was promised along with
+all the other versions, but due to technical reasons at the factory it never
+materialized. The First three RHD Tipos (all in white) were delivered to our
+workshop's at Park Royal, West London in the spring for homologation purposes,
+a 1.4s, 1.6dgt and a 1.9tds, these cars were basically put together by hand
+and strangely had a smooth dashboard as they were pre-production (without any grain).
+After they were type approved by the Ministry of Transport they went on to be
+used by Fiats technical training department to familiarize all of the UK's
+Fiat technicians on the &quot;model&quot;. Alan says he can't remember the exact
+registration numbers of these but they were &quot;E*** KLN&quot;.
+Shortly after another 30 RHD Tipo's arrived for the UK press launch (still no 16V).
+Apparently because of stringent EU laws immanent on emissions the 16V had to be
+fitted with a catalyst thus substantially reducing bhp, this took time to
+overcome so that is why the 16V didn't reach our shores until 1991
+(originally the 16V was to have 156bhp on tap as opposed to the 148bhp it arrived with).
+Anyway its 1991 and the first Eight pre-launch 16V's arrived at our now moved workshops
+in Southall, Middlesex. As you can imagine it's been three years promised and my
+colleagues and I are virtually fighting over them as they were being unloaded off
+an Italian transporter, need I say more? My colleagues and I were Officially the
+first to drive the new 16V, and this is all before any Fiat Dealerships knew that
+a RHD 16v existed. The registration numbers of these 16v's has eluded Alan but again
+they were &quot;J*** LLH&quot;. Alan says you may find some pictures in old magazines
+but more often than not Fiat change the number plates for photo shoots.
+
+<BR>
+<HR>
+
+<A NAME="tyre_wear"><B><FONT COLOR="#3366ff">Will lowering my car effect the tyre wear?
+</FONT></B></A><BR><BR>
+Mike Jukes asks whether
+lowering his car will effect the wear on the tyres.
+The normal amount to lower the car by is 30-35mm. This centralises
+the wheels in the arches quite nicely. Anymore and you will find the
+tyres founling the arches on large steering locks. If you stick to this
+amount of drop then you will have no problems. The
+camber (how much the wheels tilt in at the top) is uneffected and the toe
+in (how much the wheels point towards one another) is easily corrected
+at most garages by adjusting the tracking rods. I've had lowering
+springs on the car for many years and provided the tyre pressure is
+kept in check the wear is perfectly even.
+
+
+<BR>
+<HR>
+
+<A NAME="games"><B><FONT COLOR="#3366ff">What do you have for us PC gamers?
+</FONT></B></A><BR><BR>
+If you have &quot;Need for Speed&quot; on the PC then
+<A HREF="../owners/pedro_baioes.html">Pedro Baioes</A>
+has kindly added a Fiat Tipo Sedicivalvole to the list of cars you can
+choose from. It took him several hours and they can be found at
+<A HREF="http://www.fiat.tipo.sedicivalvole.drive.to">www.fiat.tipo.sedicivalvole.drive.to</A>.
+
+<BR>
+<HR>
+
+<A NAME="gearbox_oil"><B><FONT COLOR="#3366ff">How and why should I replace the Gearbox oil?
+</FONT></B></A><BR><BR>
+Mike Jukes
+says that after changing his gearbox oil the gear change is so much smoother.
+It cost about &pound;35 including labour and oil and was well worth it.
+The gears engage a lot smoother, almost un noticeable,  and they tend to
+actually bite sooner,  also finding them is very easy.  If he didn't know
+better, Mike would say that the car was more responsive as well.
+To replace the oil
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says
+the drain on the gearbox is under the gearbox. No surprises there!
+Nareman Virk says that
+changing the oil is not difficult, just tricky, as you have to pour
+new oil in at a 90-degree angle. The hole is on the side of the
+gearbox. This is best done with a funnel bent at the bottom.
+
+<BR>
+<HR>
+
+<A NAME="fuel_pressure"><B><FONT COLOR="#3366ff">Does a fuel pressure regulator improve performance?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_neagu.html">Alex Neagu</A> would like to
+know whether fitting an adjustable fuel pressure regulator would improve
+performance? Does anyone have an experience of having one fitted?
+<P>
+As far as
+I can see, simply increasing the amount fuel going into the engine will not
+necessarily improve performance as it will need extra air to combust properly. If extra
+air is not supplied then the closed
+loop system will detect the excess unburnt fuel in the exhaust
+gases and lean up the mixture.
+<P>
+My car
+has had one fitted but only because the larger Jaguar XJ6 throttle (50% bigger area)
+allows far more air into the engine. Extra fuel is thus needed otherwise
+the engine runs lean and produces less power than normal. Increasing the
+size of the injectors would allow more fuel in but this is expensive
+option and not very adjustable. A better approach I found was to increase
+the pressure in the fuel rail. The standard fuel pressure regulator fitted
+to the Tipo 16V is actually a FORD Zetec unit and is not adjustable.
+I had an adjustable version fitted by a garage as it is extremely difficult
+to get to. The unit itself cost &pound;125 + VAT
+<P>
+<A HREF="../owners/richard_ellingham.html">Richard Ellingham</A> says spend your money on something else. All these valves
+do is replace the standard manifold referenced fuel pressure regulator, with
+one with a higher diaphragm spring tension. The valves therefore increase
+base line fuel pressure, but under hard acceleration maintain a slightly
+higher pressure, hence why FSE call them snap response valves.
+They are meant to have their main effect on heavy acceleration.
+People who he knows have had them were never impressed.
+<P>
+The reason for fitting one is if your engine is breathing more
+efficiently, then your mixture maybe lean, so increasing fuel pressure
+will allow more fuel to be flowed for each injector opening and return the
+air fuel ratio to the stiochemetric ratio. However it's not as simple,
+even though it can be effective for a minor modification.
+<P>
+There is no need to by a different valve. this may be crude, but
+it has been advised in CCC magazine, and in modern engine tuning by
+G. Bell, the standard valve can mildly be squashed between two sockets,
+to increase the fuel return spring, and up the fuel rail pressure.
+However none of this takes into account of the quality of air fuel
+mixing into the cylinders at different rpm levels, neither does
+it help out he ignition system, as ignition advance angles will no
+longer be optimum.
+
+<BR>
+<HR>
+
+<A NAME="poor_reception"><B><FONT COLOR="#3366ff">I get poor Radio Reception. How can I improve it?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/keith_meredith">Keith Meredith</A> says that
+his radio suffers from poor radio reception. As he drives it often just
+starts to drift and give bad reception.
+<P>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says that if you
+get a whining noise on the radio that varies with throttle input you
+might need a suppressor to be fitted. It could also be a poor quality
+head unit. Maybe also have a look at changing the routing for the aerial,
+power and amp cables.
+<P> 
+I say that there appear to be two types of aerial mast a long one and a
+short &quot;bee sting&quot; style. I'm not sure which is better but both
+should be okay.
+<P>
+Nareman Virk says
+to try replacing the whole aerial cable from the mast down to the
+head unit. Alternatively the end of the cable that plugs into the
+head unit may need a new plug. Chop off the old one and fit a new
+one. This worked for him.
+<P>
+Gavin Thomas said he cleaned up the earth contact on the aerial. It was a fiddly
+job - basically you access the bottom of the aerial through the interior
+courtesy light and after undoing the nut and washer pull off the aerial from the top.
+Then he cleaned up the serrated edges around the donut-shaped contact and reassembled
+. Making sure the earth contact against the roof was okay.
+
+<BR>
+<HR>
+
+<A NAME="traffic_lights"><B><FONT COLOR="#3366ff">What cars can the Tipo 16V beat off the traffic lights?
+</FONT></B></A><BR><BR>
+Bit of a boy racer question this one but asked lots of times!
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says
+he raced a W registration V6 Vectra GSI with all the bodykit. Ooooh,
+he caused some upset - the guy driving the car will be busy seeing what
+modifications his company will pay for to make it go faster.
+The joy of stealth!
+
+<BR>
+<HR>
+
+<A NAME="glove_box"><B><FONT COLOR="#3366ff">My Glove Box light and Cigarette lighter socket don't work. What's wrong?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/keith_meredith">Keith Meredith</A> says that
+his glove box light and cigarette lighter don't work. He's checked all
+the obvious things but was wondering if they may be linked in any way
+without ripping everything out.
+<P>
+<A HREF="../owners/steve_lewis">Steve Lewis</A> says he's right!
+Oddly enough the glove box light and cigarette lighter are on the
+same fuse - he can't remember which one but it has a diagram
+in the fuse box.  His stopped working because the wire for the light
+got shorted by the glove box catch breaking the wire so that might be
+a good first stop.
+
+<BR>
+<HR>
+
+<A NAME="lamda_sensor"><B><FONT COLOR="#3366ff">Does fitting a catalytic converter replacement pipe unset the Lamda Sensor?
+</FONT></B></A><BR><BR>
+Mike Jukes
+asks whether fitting a straight through replacement catalytic converter
+pipe will upset the Lamda sensor and whether it will confuse the
+timing business.
+<P>
+I say removing the catalytic converter does not effect the readings
+from the Lamda sensor at all. It's fitted upstream of the catalytic
+converter and so the oxygen content of the exhaust that it picks up
+is the same.
+
+
+<BR>
+<HR>
+
+<A NAME="rear_bpx"><B><FONT COLOR="#3366ff">What's causing the Rear Exhaust Box to keep blowing?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A>
+asks if anyone has required more than one back box? He is on his second one
+and wonders if any of his modifications have reduced the life of the
+rear box. He has removed the catalytic converter, fitted a K&N airfilter
+and a StarChip.
+<P>
+Nareman Virk says that
+he thinks that removing the catalytic converter does shorten the life of
+the standard exhaust. While he had his Remus exhaust removed from his car,
+he had to buy a new standard Fiat exhaust that only lasted 6 months
+before the middle section started blowing. Of course, this may just
+be a one off poor quality exhaust, but removing the catalytic converter
+does put more pressure on the middle and back section of the exhaust.
+He doesn't think the K+N would affect it, and doesn't know about the chip.
+
+<BR>
+<HR>
+
+<A NAME="ronin"><B><FONT COLOR="#3366ff">Is the Tipo in the film Ronin a 16V?
+</FONT></B></A><BR><BR>
+There are three Tipo scenes in the film all in Chapter 25, the
+Parisian Pursuit. As the BMW enters the first tunnel it overtakes a
+normal red Tipo. You see the Tipo on the right as they enter the
+tunnel (1 min 23 seconds into chapter) and strangely on the left
+when the view switches to the front. They exit the first tunnel
+and drive through the streets, the BMW hits a motorcycle and goes around
+a roundabout. They then approach three lanes of stationary traffic.
+The car in the left hand lane is a white (possibly 16V) Tipo
+(3 min 10 seconds into chapter). They turn left and crash through a
+barrier. They then enter the second tunnel going against the flow of
+traffic. They cross over into the correct lane. One car crashes into
+the central reservation. As they cross back into oncoming traffic
+there is another white 5 door Tipo in the right hand lane
+(4 min 28 seconds into chapter). Again this could be a 16V.
+It has alloy wheels and fog lights, however it has black door
+mirrors and a strange front grill.
+
+<BR>
+<HR>
+
+<A NAME="cam_cover"><B><FONT COLOR="#3366ff">How can I tidy up my Cam Cover?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A>
+asks how does he clean up all the dull metal under his hood such as
+the cam cover etc?
+<P>
+Nareman Virk says
+take it off, clean it with paint thinners and sand it down and
+then re-spray it with heat resistant paint. Anyway, you could
+alternatively remove it and have it sand blasted for a newer than new
+finish. The advantage of spraying it is that you can change the colour.
+John's is particularly cool in red, or Baber's in black.
+I saw a yellow Integrale with yellow cam covers. If you do decide to take
+off the cam cover yourself, remember which bolts came off where because
+they are different sizes. Also, you may need a new cam cover gasket
+when replacing the cam cover.
+
+<BR>
+<HR>
+
+<A NAME="alternative_rear_wiper"><B><FONT COLOR="#3366ff">What alternative rear wipers can I fit?
+</FONT></B></A><BR><BR>
+Nareman Virk says
+that instead of ordering a replacement Tipo rear wiper arm/rubber
+costing about &pound;30, you may wish to consider a replacement
+Bravo HGT/Seicento Sporting arm/rubber  which only costs &pound;15 and
+looks twice as cool for half the price. Unfortunately it's also about
+2&quot; shorter.
+
+
+<BR>
+<HR>
+
+<A NAME="floorpan"><B><FONT COLOR="#3366ff">What cars does the Tipo share its floorpan with?
+</FONT></B></A><BR><BR>
+Phil Ward says that the Fiat Tempra and Lancia Delta, Alfa Romeo 155, Lancia Dedra
+and Fiat Coupe all share the Tipo's chassis.
+
+
+<BR>
+<HR>
+
+<A NAME="locking_nuts"><B><FONT COLOR="#3366ff">What Locking Wheel Nuts should I buy?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>
+asks which locking wheel nuts should he buy?
+Does anyone have any recommendations?
+<P>
+I say I have two types fitted to my car. One is called a Tri-lock.
+It's a circular bolt head with three small round holes in it. Around the
+outside is a loose sleeve to prevent mole grips taking grip. Over the top
+you place a push on shiny cap to prevent dirt getting into the holes and
+also to look better. You are supplied with one bolt head containing 3
+pins that locate in the &quot;unique&wuot; pattern of the bolt.
+I drove off the one day with this still attached, saw it fly past
+the window and fortunately found it. Quite lethal as it's quite heavy
+- you only do it once!!
+<P>
+The other set I have I brought with the Evo'R' wheels.
+They are TSW locking wheel nuts and have a &quot;unique&quot; spine
+on the outside. You would think that mole grips would take a hold but
+they have special sloping edges to prevent this. The bolt head
+you are given has a pattern that matches the grooves. The gaps between
+the spines and the widths of them look identical but the head only
+fits on in one position. I feel this is the better of the two designs.
+
+<BR>
+<HR>
+
+<A NAME="removing_dents"><B><FONT COLOR="#3366ff">How easy is it to remove small dents in the bodywork?
+</FONT></B></A><BR><BR>
+Mike Jukes
+asks has anyone ever used a firm like DentMaster before? He has
+loads of dents on his bonnet and understands people like DentMaster
+can get them out without needing paint.
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>
+says his doesn't know how bad the dents are, but you always used to be
+able to buy a suction dent puller from the Innovations catalogue that
+falls out of the Sunday papers every other week. They claimed it was
+quite good in the ad, but then that's what you'd expect, and I think
+it was only a tenner.
+<P>
+Nareman Virk says
+he's heard that DentMaster are not very good, although not speaking from
+personal experience. They work on a system whereby they charge &pound;60
+to remove up to 4 dents in any 1 panel. So if your door has 5 dents
+in it, they'll charge &pound;120 Also, they can only remove small
+dents, not creases as you sometimes get in bonnets. Even more bad news,
+the panel doesn't come out 100% perfect, it leaves a teeny weeny crease.
+No one would notice it, but you would know it was there. 
+
+<BR>
+<HR>
+
+<A NAME="weather_seal"><B><FONT COLOR="#3366ff">How do I replace the weather seal around the rear windows?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>
+says that he replaced the weather seal strip along the bottom of
+the window glass on the rear door of his 5 door Tipo.
+However his keeps popping out.
+<P>
+Nareman Virk says
+that to do the job properly you need to remove the interior door panel.
+However you might find that if you sit in the back seat and lower the
+window and carefully and skillfully use a credit card to 'clip'
+the aforementioned trim into it's correct and secure resting place,
+you should be able to rectify the situation to your advantage.
+
+<BR>
+<HR>
+
+<A NAME="permanent_live"><B><FONT COLOR="#3366ff">When fitting a radio, which is the permanent live wire?
+</FONT></B></A><BR><BR>
+Mike Jukes
+says that having fitted his radio it is on all the time without
+the need for the ignition to be switched on. How can the radio
+be set up to switch on/off with the ignition?
+<P>
+Nareman Virk asks
+why would you want to change it as he thinks it's the coolest thing
+to have your stereo on all the time. 5 door Tipo owners know that
+the electric windows work without the key in the ignition, providing
+one of the front doors is open however the 3 door Tipos the
+ignition is required to be on to operate the windows. The
+three wires coming from the car you need are:
+<P>
+Red = Ignition (+ve)<BR>
+Black = Earth (-ve)<BR>
+Yellow = Permanent live (+ve)
+<P>
+The radio will have three power cables, a black earth lead which
+you should connect to the cars black earth lead. You will also have
+two other leads, one for permanent live and one for power. The
+radios permanent live should always be connected to the cars yellow
+permanent live lead otherwise you will lose the radios memory
+when you switch the ignition off. You now have two choices.
+<OL>
+<LI>If you want to have your radio switch on and off with
+    the ignition then you should connect the radios +ve power
+    lead to the cars red ignition lead (+ve)</LI>
+
+<LI>If you want the radio to be used without the ignition
+    switched on then also connect the radios +ve power lead
+    to the cars permanent yellow (+ve) lead.</LI>
+</OL>
+
+<HR>
+
+<A NAME="removing_lambda"><B><FONT COLOR="#3366ff">If I remove the catalytic converter what happens to the Lamda sensor?
+</FONT></B></A><BR><BR>
+If I fit a straight through pipe in place of a catalytic converter
+what happens to the Lamda sensor. The straight through pipe should have
+a hole in the side in a similar place to the catalytic converter. This is
+where the lamda sensor should be screwed in. It is vital that the lamda
+sensor is refitted as the car will not fuel correctly at tick over
+otherwise.
+
+<BR>
+<HR>
+
+<IMAGE SRC="brasso.gif" width=104 height=174 alt="Brasso" align=right>
+<A NAME="cleaning_exhaust"><B><FONT COLOR="#3366ff">What can I clean the exhaust with?
+</FONT></B></A><BR><BR>
+Although car body shampoo will get rid of most of the dirt and grime off
+your exhaust tailpipe I found the best way of cleaning either stainless
+steel or chrome is with a product called Brasso. This will clean the
+most stubborn of dirt and carbon deposits off the exhaust leaving it
+once again lovely and shiny.
+
+<BR CLEAR=ALL>
+<HR>
+
+<A NAME="oil_burning"><B><FONT COLOR="#3366ff">Oil seems to be burning on the exhaust but I can't see from where?
+</FONT></B></A><BR><BR>
+Jenny Baird reported that she could smell oil burning and found oil drips
+on the exhaust but could not see from where they were coming. After 
+a while Jenny had to call
+the AA out to fix a problem with her clutch. The clutch pedal had stuck down.
+On checking the clutch/brake fluid level it was found to be low and it
+was therefore highly likely that it this was the fluid leaking onto the
+exhaust pipe.
+
+<BR>
+<HR>
+
+<A NAME="replace_radiator"><B><FONT COLOR="#3366ff">How do I replace the radiator?
+</FONT></B></A><BR><BR>
+Remove the front grill by undoing the two screws on the front face. It will still be
+held in place by two plastic clips at top at the edges. You will need to release
+these clips using a screwdriver pressed down from the top of the grill. It should then
+pull forwards.
+<P>
+Now remove the front bumper by undoing the 6 retaining bolts. You will need a 13mm
+socket to do this. Two bolts are visible from where the front grill was. Two bolts are
+round the sides underneath and two are in the front at the bottom in the recesses Pull
+the bumper forwards carefully as the fog lights will still be attached. Lower the bumper
+down as near the car as possible and unplug the fog lights. Unclip the shielding
+carrying the fog light cable from the back of the bumper. The bumper can now be
+removed from the car and placed to one side.
+<P>
+Unplug the electrical leads going to the cooling fan and the fan thermometer. Then
+unclip this cable from the two retaining clips either side of the fan. Another
+electrical lead goes to the water temperature sensor fitted on the right hand side
+of the radiator (when viewed from the front of the car). There should be a clip holding
+the connector onto the sensor, make sure you release this before pulling off.
+<P>
+Next you need to remove the water hoses connected to the top and bottom of the
+radiator. These will be held of by Jubile Clips. If these are the original FIAT
+ones then the best way to remove them is to find the tail end and tap the
+link with a screwdriver towards the tail. The original FIAT clips are single fit so
+you will need to purchase two replacements.
+<P>
+To remove the radiator undo the two screws at the front of the radiator in the upper
+corners. The bottom of the radiator sits on a metal rail that is bolted to the
+front of the car next to where the bumper was attached. Undo these two bolts using
+a 13mm socket, being carful to hold the radiator in place whilst you undo them. The
+radiator can then be removed from the car be tipping the bottom of it towards you
+and removing it through the front of the car. This can be done even if the car has
+been lowered 35mm. There is no need to jack the car up.
+<P>
+Now the radiator has been removed from the car you can undo the six screws holding the
+plastic cowl to the front of the radiator using a 8mm socket. Be gental undoing these
+screws as they might have rusted. Remove the metal rail
+off the bottom of the radiator and detach the rubber grommets of the bottom of the
+radiator. Remove the electric fan off the back of the radiator by undoing the 3
+screws using an 8mm socket. Finally remove the water temperature sensor using a 30mm
+spanner making sure to keep the metal washer.
+<P>
+Refitting is the reverse of the above. When fitting the plastic cowl back to the radiator
+make sure that you clip the top of it behind the raditor at the top otherwise it will
+flap around and not redirect the air as intended. When bolting the metal rail back
+onto the car use the holes nearest the radiator. It will not be obvious which is the
+front and which is the back. When fitted correctly the little lips at the ends of
+the metal bar should be at the back.
+
+<BR>
+<HR>
+
+<A NAME="turbo_charging"><B><FONT COLOR="#3366ff">What can you tell me about Turbo Charging my Tipo 16V?
+</FONT></B></A><BR><BR>
+Everyone has their own views on this. Here are some of the visitors:
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>:<BR>
+Alex reckons the best idea would be to get a low mileage Coupe Turbo
+engine and put that in, or even cheaper (if you can find a good one)
+an engine from a Lancia Thema Turbo.
+<P>
+<A HREF="../owners/richard_ellingham.html">Richard Ellingham</A>:<BR>
+For turbo conversions speak to John Whalley, the man for Lancia turbo charging.
+<P>
+Nareman Virk:<BR>
+If you're serious about turbo-charging your car, phone
+<A HREF="../tuning/tuning.html#avanti">Avanti Motorsport</A>.
+They have just built one and estimate it is producing about 195 bhp, which
+I believe is similar to the 16v turbo in a Fiat Coupe.
+<P>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A>:<BR>
+There is no such thing as a bolt on turbo. It is unlikely that the
+standard engine will survive without being upgraded to handle the extra
+heat and power.
+<P>
+John Lee:<BR>
+You may want to consider a LPT (low/light pressure turbo). These are used on
+SAABs amongst others. You don't really get any more bhp but the torque curve
+is much stronger and little or no lag. The turbo needs to run at a certain
+amount of boast (I think it's about 6-8 psi) just to overcome the restriction
+in the inlet and exhaust systems caused by the turbine blades. Best option
+is probably just to drop in an engine that is already capable of taking
+the heat and power produced. Even with a bolt on kit I'd image you'd
+need to reduce the compression slightly, even if it's just the use of
+a thicker head gasket. You may also need the ECU remapping to
+reduce the advance otherwise you're going to get detonation.
+<P>
+Steve Lewis:<BR>
+I looked at this about 5 years ago.  The concept of a light pressure turbo
+is a good way to go, and is a conservative method of turbo charging:
+hence done by people like SAAB. The way I thought would be to use the
+standard motor with a turbo bolted onto a Thema turbo 16v exhaust manifold.
+An intercooler is a must to reduce intake temperatures.  4 psi of positive
+boost is about the same as 1 compression ratio. So if you use 8psi, the
+standard compression ratio will go to about 12.5:1.  Even with an
+intercooler you're going to be pushing into detonation.  One way around
+it is to use an ignition retard device from someone like Detection Techniques
+(TurboBoost) which retards the ignition around peak torque.
+Another (I think better method) is to use water injection from someone
+like Aquamist(www.aquamist.co.uk).  I decided to buy an Integrale
+instead of turbo charging my Sedicivalvole, and run 1.6 bar
+(about 23.5psi) with an 8:1 compression.  Following the above calculation,
+my working compression ration is about 14:1.  I have no detonation with
+this method. Speak with Richard Lamb, he's very knowledgeable and
+most helpful). A standard Integrale turbo (or similar T3 from something
+else will probably be cheaper). To be honest you're not going to get
+a perfect match for your motor without spending a lot.
+A T3/T25 hybrid may be a reasonable compromise. Then you need space to
+fit the intercooler with a supply of cold air and connect the lot to the
+throttle body.  The biggest problem (and probably expense) will be to
+get your eprom re-programmed (I suggest Detection Techniques).
+They will do it on their state-of the-art rolling road at a cost
+of about &pound;800. Having said &quot;state-of the-art rolling road&quot;,
+be very, very wary of rolling roads with turbocharged motors.
+It seems impossible to get enough air to cool the motor/turbo/intake charge.  
+Check with the manufacturer to find how much fuel they can flow.
+You should get something approaching 200bhp with this set-up and
+over 200 lbsft of torque.
+<P>
+<A HREF="../owners/alex_neagu.html">Alex Neagu</A>:<BR>
+Changing the entire engine is also an option however if you are short of money
+you can use the Tipo 16V block and just replace key parts.
+Only replacing those parts that are necessary has another huge benefit
+in that doing it this way you know that your engine has new pistons for example
+instead of putting in an engine of unknown quality. What money you save here you
+can invest in the injection system. This is tricky as you have to change the wiring
+loom and the ECU and bear in mind that the Fiat Coupe has the key code system
+which means that even if you fit the entire wiring loom you won't be able to start
+the car without the original key. Possible solutions are:
+<UL>
+<LI>Find an electronics expert that can crack the key code system.
+<LI>Use an aftermarket system which could be expensive.
+<LI>Use the tipo wiring loom with a Cosworth ECU (like
+<A HREF="../owners/moshe_tevet.html">Moshe Tevet</A> does) and have the chip
+mapped for your car on a rolling road. This would probably be the cheapest.
+<LI>Use the Integrale system (wiring loom and ECU) which does not have a key code system.
+<LI>Use a Coupe wiring loom together with it's ignition switch making sure you have
+    the ignition key.
+</UL>
+
+
+<BR>
+<HR>
+
+<A NAME="de_cat"><B><FONT COLOR="#3366ff">My car does not have an i.e. badge so can I remove the catalytic converter?
+</FONT></B></A><BR><BR>
+Not necessarily, as it depends on the age of the car. Read this other <A HREF="#catalytic_converter">faq</A>
+for more details.
+
+<BR>
+<HR>
+
+<A NAME="wiring_diagram"><B><FONT COLOR="#3366ff">Is there a wiring diagram available for the ignition system?
+</FONT></B></A><BR><BR>
+Many thanks to <A HREF="../owners/alex_neagu.html">Alex Neagu</A> who sent
+in this ignition system wiring diagram for the 
+<A HREF="../technical/wiring_tipo.html" target="_blank">Fiat Tipo 16V</A>.
+He translated it and I tidied it up an awful lot.
+It's rather large at 211Kb and 1013x1483 pixels in size.
+As a comparision, here is the wiring diagram for the
+<A HREF="../technical/wiring_integrale.html" target="_blank">Lancia Integrale 16V</A>
+for the Tipo 16V.
+
+<BR>
+<HR>
+
+<A NAME="number_uk"><B><FONT COLOR="#3366ff">How many Tipo 16V cars were made?
+</FONT></B></A><BR><BR>
+Alan Shurety who worked for Fiat Auto (UK) Ltd for nearly 10 years managing their
+company car department including all Press, Pre-Launch and Homologation Vehicles
+from Feb 88 until Aug 97 contacted Fiat regarding the above question.
+<P>
+Acording to thier marketing records thier were 600 16v's officially imported
+into the UK, But RHD Fiats have been imported by third parties from Asia & Southen 
+Ireland. Unfortunatly a specification breakdown is not kept by Fiat as it
+has no valid use once the vehicle is no longer imported.
+
+<BR>
+<HR>
+
+<A NAME="lift_off_jerk"><B><FONT COLOR="#3366ff">My car jerks when coming off the throttle at high speed, is this normal?
+</FONT></B></A><BR><BR>
+Someone reported that they have had their 16v for 6 years and it has always &quot;jerked&quot;
+when coming off the throttle at high speed. It feels like the engine
+is about to cut out (not that it does). They tried changing filters, plugs etc but
+it dod not fix the problem.
+<P>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that his car is
+sometimes impossible to drive at slow speed! He says it just doesn't like pottering
+about - when the Italians were testing them around Turin back in 1991 they probably
+didn't spend more than 10% of their time below 90mph.
+<P>
+<A HREF="../owners/keith_meredith">Keith Meredith</A> says it's all about the ECU
+mapping. Fiat/Alfa's all seem to be jerky, usually at low speed. He says his does
+it sometimes, when you lift off at speed it really jolts the car as if the engine is
+gonna seize or something. So he thinks its one of those things you have to live
+with or look at getting the ecu re-mapped.
+, but this can be very dodgy!!!
+<P>
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A> says his does exactly the
+same thing and even after he made all the same changes it still coughs and splutters
+when taking his foot off after high speed driving, but only for a few secs.
+<P>
+Gavin Thomas say when he's crusing along on the motorway and come up behind slower
+traffic, he lifts off the throttle and his 5-door Sedici coughs, shudders and jumps
+like it's going to die. His usual reaction is to put the clutch in, and then very
+gingerly increase the revs and it seems to go away again... but then rears it's ugly
+head five minutes later. He has no idea what causes this problem but he's now on
+his second 2.0 16v engine and both engines had the same problem.
+<P>
+Mike Jukes said he did get some jerkiness at
+low speed but his superchip eliminted most of those. He thinks it might be the mapping
+of the 5 door ECU as he has owned 2 three door models and neither has exibited this
+behaviour.
+
+
+<BR>
+<HR>
+
+<A NAME="spark_plugs"><B><FONT COLOR="#3366ff">What spark plugs do you recommend?
+</FONT></B></A><BR><BR>
+Mike Jukes uses
+the NGK 4 prong type which he thinks in theory are better than splitfires and they
+seem to work.
+<P>
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>
+says try Bosch Super 4's as they've passed his doorstep challenge.
+They do work and make the car feel a bit crisper!
+<P>
+Nareman Virk says that
+he uses NGK V-grooved (BPR-7E) because he says they're the best.
+
+<BR>
+<HR>
+
+<A NAME="special_rear_wiper"><B><FONT COLOR="#3366ff">Is the rear wipe specific to the 16V?
+</FONT></B></A><BR><BR>
+Not it is not specific to the 16V. 3 door, 5 door, 16v, non-16v
+should all use the same rear wiper motor.
+
+<BR>
+<HR>
+
+<A NAME="stuck_bonnet"><B><FONT COLOR="#3366ff">My bonnet is stuck shut, how can I open it?
+</FONT></B></A><BR><BR>
+Nareman Virk says that
+sometimes all that happens is that the cable un-clips from the bonnet release handle.
+Is is fairly easy to re-attach if you get down on your knees and use a torch to
+see what's going on.
+
+<BR>
+<HR>
+
+<A NAME="gearbox_oil_choice"><B><FONT COLOR="#3366ff">What oil should I use in my Gearbox?
+</FONT></B></A><BR><BR>
+Mike Jukes says
+put the best in you can afford. His mechanic uses fully synthetic oil.
+
+
+<BR>
+<HR>
+
+<A NAME="tyre_pressure"><B><FONT COLOR="#3366ff">What tyre pressure should I use?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/rogerio_ferrari.html">Rogerio Ferrari</A> from Brazil says he's
+changed his standard 14&quot; wheels to 6&frac12&times15&quot wheels and wants to know what
+pressure he should be using. The standard pressure for the Brazilian Tipo 16V is
+31psi in the front and 29psi in the rear.
+<P>
+In the UK I've used 36psi in the front and 32psi in the rear ever since I've had the car.
+I've used various wheel/tyre combinations including 6&frac12&times15 (185/55 and 195/50) and
+7&times16 with 205/45 and had prefectly even tyre wear.
+
+<BR>
+<HR>
+
+<A NAME="stationary_speed"><B><FONT COLOR="#3366ff">My cars reporting speed/mileage when stationary?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/jara_shaw.html">Jara Shaw</A> said his car reported
+that he was doing a constant fictional speed whilst stationary. Other problem were
+that the rev counter did not work, the fuel gauge had a lower reading than expected or
+no reading at all. Another sympton was that the electronic check light was lit but would
+go out whilst braking. Part of the problem was a dodgy
+electrical connection in the big block that sits behind the nearside headlight. Fixed
+with the use of a water dispersant such as WD40. However the main cause of the problem
+turned out to be a bad earth connection.
+The speedo cable wires are cream and blue with a brown stripe were fine the
+blue/brown wire has a 12 volt, these two join another 20 wires snaking to the right
+side of the battery. The untaping and de sheathing resulted in dashdoard flicker.
+The pipes had a T piece taped which contains a black and purple/black wire that
+connect to a spade washer on the right hand strut the bumper cross member is bolted to.
+This connector had perrished. Once replained everything worked correctly. 
+
+
+<BR>
+<HR>
+
+<A NAME="replacement_fob"><B><FONT COLOR="#3366ff">Can I get another alarm key fob &quot;cut&quot;?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/jara_shaw.html">Jara Shaw</A> said his car had the original
+Fiat alarm fitted however he only had the one key fob and wanted another one.
+He says the code for my alarm is on a sticker on the tailgate. 
+The code is needed to program the key. The alarm system's have a primary key
+and secondary key. Either key can be used with the car however only the primary
+key can be used for making duplicates. A new key fob costs &pound;40 and programming
+the fob costs a further &pound;45.
+
+<BR>
+<HR>
+
+<A NAME="chipping"><B><FONT COLOR="#3366ff">What chip should I get for my car?
+</FONT></B></A><BR><BR>
+
+Let me first say that unless you get a chip custom tuned to suite the modifications
+you've made to your car then you are not going to gain a huge amount of power out of
+simply changing the chip. The main differences will be a smoother power delivery
+since they will be able to iron out any flat spots in the power curve. If you opt
+for the custom tuned chip then you are talking about a lot of money. However the chip
+can then be tuned to make the most of free flowing exhausts, air filters and
+any other engine modifications you've made. Your car will though also need to be run for
+several hours on a rolling road whilst the chip is being mapped
+which are renowned for breaking engines.
+
+<P>
+        When I first looked at chipping my car I inquired about BBR's chip called
+        the <A HREF="http://teamevans.co.nz/~eifs/STARCHIP.HTML" target="_blank">StarChip</A>.
+        I have delt with BBR before and I have never been
+        very impressed by their attitude over the
+        phone which is both patronising and very sharp. First impressions are that
+        they know their stuff.
+        Starchip have two chips on offer,
+        one rated at 166 bhp for &pound;200, and a group N rated at 174 bhp
+        for &pound;500.
+        Unfortunatly the 174 bhp version only works with a non catalytic
+        converter equiped car. Removing the catalytic converter still
+        does not allow it to be fitted as the engine
+        management system can't be tricked into ignoring certain
+        sensors. They said that this is the engine that responded the
+        best to any tuning they have performed. Although they might say
+        that to every caller!!. However I can't recommend 
+	the chip they produce as several Tipo owners have reported problems
+	with the running of their cars with this chip and one even blames
+	the destruction	of his engine on the chip.
+<P>
+        The first paragraph of the reply
+        from
+        <A HREF="http://www.superchips.co.uk" target="_blank">SuperChips</A>
+	was a real sweetener telling me what a well developed hot hatch I had
+        with a beautiful engine and well engineered suspension. The chip
+        altered the fueling to slow the response of the computer to the
+        lamda sensor increasing the fueling under dynamic conditions
+        to improve performance. They also found that the timing was
+        critical in the mid range and was a little retarded. The
+        results were a little dissappointing however a gain of only 9 bhp.
+        They then went on to say how much better it would be with a K&amp;N
+        air filter and the catalytic converter replaced with a straight
+        though pipe. The cost at the time was &pound;193.
+<P>
+        Both Superchips and StarChip have reduced their prices since I bought my
+	Superchip. Both also offer a rolling road service where
+        they custom chip your car based on any tuning modifcations you have
+        made. Just take your car along to a suitably equipped rolling road and they
+	will tune the engine via the telephone line.
+<P>
+        If you choose to order your chip through the post then
+	you will need details like the current chip ID which can be found printed on
+	the top of the chip. This is located inside the engine management box underneath
+	the glovebox. This is so that they supply the correct
+	replacement chip for your car.
+<P>
+        If you live in Brazil then the standard FIAT ECU is remapped for the special
+	alcohol based fuel you use. I doubt very much that a standard superchip will
+	make the engine run properly with such fuel. If you are lucky they will have
+	already &quot;designed&quot; another chip that runs optimally with your type
+	of fuel for a previous client. If not then they might need to custom map a
+	chip and will need your car for this.
+<BR>
+<HR>
+
+<A NAME="gearbox_options"><B><FONT COLOR="#3366ff">What gearboxes fit the Tipo?
+</FONT></B></A><BR><BR>
+Several owners have suffered gearbox failers and looked at replacements.
+<A HREF="../owners/alex_neagu.html">Alex Neagu</A> says that as far as he is
+aware both the Fiat Coupe 16v (not the turbo 16v!) and the Dedra 2.0
+gearboxes will fit the Tipo. The Fiat Coupe 16v will have shorter gear ratios
+than the Dedra so the car will accelerate better. His dad has a 1.8 Dedra and says
+that gearbox will also fit. However the gears are long. For instance 2nd gear at 6500
+rpm equates to 100 kmh, 4th gear at 4000 rpm equates to 140 kmh. Alex's friend
+Moshe tried to fit the Coupe 16v turbo gearbox with his turbo engine and the
+gearbox did not fit.
+<P>
+Calin Jones says that the Sedicivalvole engine & gearbox is actually out of a
+lancia thema 2.0 16v with a slightly different compression ratio. However in
+the Tipo its turned around 180 degrees - which might have ramifications for
+fitting the gearbox.
+
+<BR>
+<HR>
+
+<A NAME="space_saver"><B><FONT COLOR="#3366ff">It is legal to use a space saver spare wheel?
+</FONT></B></A><BR><BR>
+Nareman Virk. I asks whether
+anyone knows the legality of using a space saver spare tyre? He was pulled over
+and told by the friendly policeman that it is illegal to use a spare tyre that is
+NOT the same width as the vehicle's other tyres. Nareman explained that he had only
+just had a puncture and that the spare tyre was for temporary use only, and additionally,
+all Tipos come with space savers as standard. The policeman then went on and on
+saying that even the spare should be the same size/profile as the other tyres.
+I asked the AA about this issue and got the following response:
+<P>
+<I>
+Dear Mr Lee<BR>
+It is not illegal to use a space saver tyre supplied for use with your
+vehicle by the manufacturer.
+A temporary use spare tyre is marked &quot;temporary use only&quot; in letters at
+least 4mm high and on a background of contrasting colour.It is designed for
+use only in the event of failure of one of the normal tyres.It is important
+to note that - a vehicle fitted with a temporary use spare tyre must not exceed 50mph.
+a standard tyre must be refitted as soon as possible.
+Only one temporary use spare tyre may be fitted at a time.
+<P>
+I hope the above is of assistance
+<P>
+Mike Woodward<BR>
+Legal advisor</I>
+
+<BR>
+<HR>
+
+<A NAME="sedicivalvole"><B><FONT COLOR="#3366ff">What does Sedicivalvole mean?
+</FONT></B></A><BR><BR>
+It's Italian for sixteen valves.
+
+<BR>
+<HR>
+
+<A NAME="excessive_fuel"><B><FONT COLOR="#3366ff">Why is my car using too much fuel and has lower performance than normal?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/steven_cooper.html">Steven Cooper</A> says that
+this was caused by the exhaust manifold being cracked at the weld points allowing air
+in and out which confused the lamda sensor. He solved the problem by removing
+the manifold, discarding the heat shielding, re-welding and addding 1&quot;
+insulation wrap.
+
+<BR>
+<HR>
+
+<A NAME="two_ecu"><B><FONT COLOR="#3366ff">Why does your car use a Superchip ECU and a Unichip piggyback ECU?
+</FONT></B></A><BR><BR>
+The Unichip piggy back ECU is an extremely mappable device.
+The garage that rolling road tuned the car were experts tuning the Unichip.
+It was not easy to change the rev limit of the standard FIAT ECU using the piggy
+back unit without swapping a timing crystal.
+It was far easier to get another Superchip blown with rev limit removed and use the
+piggy back to set the rev limit. The mapping in the Superchip was used as a base
+for the mapping in the piggyback ECU.
+
+<BR>
+<HR>
+
+<A NAME="dip_stick"><B><FONT COLOR="#3366ff">I find it difficult to read the dip stick, what can I replace it with?
+</FONT></B></A><BR><BR>
+Nareman Virk says that he's
+using a dip-stick from a wide-bodied Alfa Romeo 155 (2.0 16v Twin Spark).
+It's the same length (he has checked and re-checked) but has a more accurate
+'blade' reading on the tip.
+
+<BR>
+<HR>
+
+<A NAME="bad_vibration"><B><FONT COLOR="#3366ff">I get bad vibration through the gearbox at high revs, what's wrong?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A>'s car developed a
+serious vibration problem, which manifested itself in a nasty shaking through
+the gearbox at high revs, and a horrible sound through the dashboard from behind
+the engine.
+<P>
+It turned out that his balancer shaft belt had snapped. He was very lucky for it
+not to get caught up in the cambelt.
+
+
+<BR>
+<HR>
+
+<A NAME="replacement_discs"><B><FONT COLOR="#3366ff">What other brakes fit the tipo?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alexis_grant.html">Alexis Grant</A> says that the Tipo 16V front
+brake discs are shared with:
+<UL>
+<LI>Fiat Coupe (non turbo) 1.8 16v, 2.0 16v, 2.0 20v
+<LI>Dedra 2.0 turbo
+<LI>Alfa 145/146 1.8/2.0 16v
+<LI>155 2.0 twin spark 16
+<LI>Fiat Marea 2.0 20v, 1.9 TDS
+</UL>
+
+<BR>
+<HR>
+
+<A NAME="lightened_flywheel"><B><FONT COLOR="#3366ff">Should I lighten my flywheel?
+</FONT></B></A><BR><BR>
+This is a very good idea as the engine will rev much easier. Take it to a professional
+though as they will be able to advise on how much to lighten it by. Too much and not
+only will you weaken the flywheel but the engine will not idle very well. Getting
+to the flywheel requires the removal of the gearbox which is a time consuming task.
+Therefore it only makes economic sense to lighten the flywheel at the same time as
+the clutch is being replaced.
+
+<BR>
+<HR>
+
+<A NAME="replacement_camshafts"><B><FONT COLOR="#3366ff">Should I replace my camshafts?
+</FONT></B></A><BR><BR>
+I would stick with the standard cams. They produce a very flat strong torque curve.
+Aftermarket cams might give you a few more BHP at the top end but at the sacrifice
+of less low down power. I have tried a couple of different camshafts on my car and
+was not impressed with the results. There are simply not enough tuning companies with
+Tipo 16V engine experience to know what does and does not work.
+
+<BR>
+<HR>
+
+<A NAME="compression_test"><B><FONT COLOR="#3366ff">How do I check the health of my engine?
+</FONT></B></A><BR><BR>
+A compression test is an easy way to determine the internal health of your engine.
+The test will tell you if your engine has good compression. An engine is essentially
+a self-powered air pump, so it needs good compression to run efficiently, cleanly
+and to start easily Make sure the battery is fully topped up. This is important
+because if the charge weakens the engine will turn over slower than ideal and
+produce inaccurate readings. You will need to disconnect the power to the fuel
+injectors otherwise you will get petrol sprayed into the cylinders.
+Also disconnect the high tension lead from the distributor to avoid any
+electrical shocks. Remove all 4 spark plugs. Now would be an ideal opportunity
+to examine their electrodes against the pictures in a Haynes Manual.
+<P>
+Screw a pressure gauge into one of the cylinders. Press the accelerator to
+the floor to ensure WOT (Wide Open Throttle) and use the ignition key to
+turn the engine over. On each revolution you will see the gauge needle
+jump higher by smaller and smaller amounts. Stop cranking the engine over
+when the needle stabilizes. This is typically after about 4 revolutions
+or 10 seconds. The final reading is the compression for that cylinder.
+Do this for each of the remaining 3 cylinders.
+<P>
+The readings should be within about 10% of each other and be in the
+region of 140 - 160 psi.
+<P>
+If there are any anomalies then you should now perform what's called a
+&quot;Wet Test&quot;. Add about 1-2 tablespoons of oil into the cylinder
+with low compression. Wait a minute to allow the oil to flow down and coat
+the sides of the cylinder and piston. If there are any gaps in the rings,
+the oil will seal them for the next few minutes. Screw in the pressure gauge and
+crank the engine over as before. If the reading improved significantly, more than
+30 psi, your piston rings are probably worn.
+<P>
+If there is little or no improvement the compressed air is not getting past
+the piston rings and you need to carry out a leak-down test to determine where
+the air is escaping. This can be via the intake valves, exhaust values,
+crankcase or head gasket. 
+<P>
+Low compression in two adjacent cylinders typically means you have a bad
+head gasket.
+<P>
+Some garages confuse a compression test with a leak down test. A compression
+test is very quick to perform and requires little more than a pressure gauge.
+However a leak down test requires a compressed air cylinder and a special gauge.
+This gauge had two dials, one showing the pressure of the air entering the
+cylinder and the other the percentage of this air being lost.
+<P>
+Working on a cylinder at a time turn the crank until it's at TDC, this will
+ensure that the valves are fully closed. Turn the knob on the air hose to
+get a steady reading on both gauges. You must use the same pressure on all
+cylinders. You now need to listen to where the air is escaping:
+<P>
+<UL>
+<LI>Exhaust Pipe - If you can feel puffs of air or hear the air then
+                   it's your exhaust valves.</LI>
+<LI>Air Filter - If you can hear air though the air filter then it's your
+                 inlet valves.</LI>
+<LI>Oil Filler - Remove it and if you can hear air escaping then it's
+                  the piston rings.</LI>
+</UL>
+<P>
+If the results are inconclusive then it could be the head gasket.
+If you suspect a blown head gasket, which has symptoms such as reduced power,
+white or blue smoke out the tailpipe, oil in the coolant or coolant in the oil.
+If you remove the coolant cap and watch the coolant level when you add the
+compressed air. If it rises or you see bubbles, you have a leaking head gasket.
+
+<BR>
+<HR>
+
+<A NAME="wheel_styles"><B><FONT COLOR="#3366ff">What do the alloy wheels look like on the 5 door and 3 door models?
+</FONT></B></A><BR><BR>
+The picture below shows the differences between the series 1 wheels (on the left)
+fitted to the 5 door models and the series 2 wheels (on the right)
+fitted to the 3 door models. The series 1 wheels have a flat polished surface with dark
+grey painted edges. The series 2 wheels are slightly concave, softer edges
+and are completely silver in colour.
+<CENTER><IMAGE SRC="wheels.jpg" width=500 height=255 alt="Wheels"></CENTER>
+
+<BR>
+<HR>
+
+<A NAME="cambelt_change"><B><FONT COLOR="#3366ff">How do I replace the cambelt?
+</FONT></B></A><BR><BR>
+I strongly advise getting an expert to do this as the consequences of getting it
+wrong will be very expensive.
+<A HREF="belts.html"><IMAGE ALIGN=RIGHT SRC="thumb1.jpg" width=100 height=116 alt="Belts" BORDER=0></A>
+<A HREF="auxbelts.html"><IMAGE ALIGN=RIGHT SRC="thumb2.jpg" width=100 height=65 alt="Auxiliary Belts" BORDER=0></A>
+<P>
+<B>
+THIS INFORMATION NEEDS CHECKING BY A FIAT TECHNICIAN. PLEASE DO NOT USE UNTIL THIS
+MESSAGE HAS BEEN REMOVED.</B>
+<P>
+<B>Special Tools</B>
+<UL>
+<LI>Timing belt tension gauge - Fiat No. 1860745100/200</LI>
+<LI>Balancer shaft tension gauge - Fiat No. 1860745100/400</LI>
+</UL>
+<B>Special Precautions</B>
+<I>
+<UL>
+<LI>Disconnect battery earth lead.</LI>
+<LI>Do <B>NOT</B> turn crankshaft or camshaft when timimg belt removed.</LI>
+<LI>Remove spark plugs to ease turning engine.</LI>
+<LI>Turn engine in normal direction of rotation (unless otherwise stated).</LI>
+<LI>Do <B>NOT</B> turn engine via camshaft or other sprockets.</LI>
+<LI>Observe all tightening torques.</LI>
+</UL>
+</I>
+<B>Removal</B>
+<OL>
+<LI>Support engine.</LI>
+<LI>Remove:
+   <UL>
+   <LI>Auxilary drive belts.</LI>
+   <LI>Engine stabiliser bar/mounting (5).</LI>
+   <LI>Timing cover (1).</LI>
+   </UL>
+</LI>
+<LI>Turn crankshaft in a clockwise direction to TDC on No.1 cylinder.</LI>
+<LI>Remove crankshaft pulley (3) by undoing bolts (11).</LI>
+<LI>Check balancer shaft timing marks (6 &amp; 7) are aligned.</LI>
+<LI>Check marks on rear of camshaft sprockets align with cut-outs in rear belt cover
+    and lugs on camshaft bearings (2).</LI>
+<LI>Remove water pump pulley (4).</LI>
+<LI>Slacken balancer shaft belt tensioner (9).</LI>
+<BR>
+<B>NOTE: <I>If balancer shaft belt is being reused, mark position of belt on sprockets
+   before removal (6, 7 &amp; 8).</I></B>
+<LI>Remove balancer shaft belt.</LI>
+<LI>Remove crankshaft sprocket (8).</LI>
+<BR>
+<B>NOTE: <I>Crankshaft sprocket bolt has LH thread.</I></B>
+<LI>Check crankshaft mark (12) aligned.</LI>
+<LI>Slacken tensioner nut (10) and remove timing belt.</LI>
+</OL>
+<B>Installation</B>
+<OL>
+<LI>Ensure timing marks aligned (2 &amp; 12).</LI>
+<LI>Fit timing belt, keeping belt taut between sprockets.</LI>
+<LI>Install tension gauge tool No. 1860745100/200 (13) into holes on timing belt
+    tensioner (10).</LI>
+<LI>With scale bar horizontal set tension gauge weight (15) to 100mm mark.</LI>
+<LI>Turn crankshaft two complete revolutions clockwise to TDC on No.1 cylinder,
+    check timing marks align (2 &amp; 12).</LI>
+<BR>
+<B>NOTE: <I>If scale bar moves from the horizontal, reset bar amd
+            repeat tensioning operation.</I></B>
+<LI>Tighten timing belt tensioner nut (10) to 44 Nm.</LI>
+<LI>Recheck alignment of timing marks (2 &amp; 12).</LI>
+<LI>Refit crankshaft sprocket (8).</LI>
+<LI>Tighten sprocket retaining bolt to 190 Nm.</LI>
+<LI>Ensure crankshaft sprocket TDC mark (12) and balancer shaft marks (6 &amp; 7)
+    are aligned.</LI>
+<LI>Fit balancer shaft belt.</LI>
+<LI>Install tension gauge (14) No. 1860745100/400, (with gauge weight removed), onto
+    balancer shaft belt tensioner (9).</LI>
+<LI>With scale bar horizontal set tension gauge weight to 205mm mark.</LI>
+<LI>Turn crankshaft two complete revolutions clockwise to TDC on No.1 cylinder,
+    check timing marks align (2 &amp; 12).</LI>
+<BR><B>NOTE: <I>If scale bar moves from the horizontal, reset bar amd
+            repeat tensioning operation.</I></B>
+<LI>Tighten balancer shaft belt tensioner nut to 23 Nm (9).</LI>
+<LI>Install remainder of components in reverse order of removal.</LI>
+</OL>
+
+
+
+</FONT>
+</BODY> 
+</HTML> 
+
+

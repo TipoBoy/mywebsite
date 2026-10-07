@@ -1,0 +1,368 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Frequently asked questions about FIAT Tipo 16V</FONT>
+</CENTER>
+</H3>
+
+<A NAME="no_spark"><B><FONT COLOR="#3366ff">No spark at the plugs?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/andy_giles.html">Andy Giles'</A>
+Tipo would not spark when turning over thus the car would not start up.
+The battery, distributor, high tension leads and spark plugs were
+all okay. However the problem
+was eventually traced to the crank position sensor. The thin wire connecting
+it to the ECU had been frayed by the cam belt pulley and it had eventually
+snapped.
+<P>
+My car would turn over but not start. There was no spark at the plugs. The
+signals to the ignition module were okay but there was no signal from the
+ignition module to the coil. A new ignition module was fitted and the
+car started. The ignition module is a small black box about the size of
+a packet of cigarettes that is bolted to the underside of the ignition
+coil. It has a seven pin connector plugged into it. FIAT only sell it
+complete with the ignition coil for about &pound;150 but the ignition
+module can be brought from independant garages.
+
+<BR>
+<HR>
+
+<A NAME="cold_start"><B><FONT COLOR="#3366ff">Starting Problems?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>
+had difficulty starting his car from cold. This was traced to a
+hairline crack in the distributor. 
+<P>
+<A HREF="../owners/karim_kassir.html">Karim Kassir</A>
+had difficulty starting his car when it was very cold -20<SUPER>o</SUPER>C.
+This was traced to faulty engine temperature measurement device. This
+sends a signal to the fuel injection electronics telling it how cold it
+is and how to set up the fuel/air mixture. Now the engine starts even
+below these temperatures!  
+<P>
+<A HREF="../owners/steven_cooper.html">Steven Cooper</A> says that
+this was a wiring short circuit caused by a wiring insulator rubbing
+against metalwork through split in the grommet at the bulk-head. This blew
+the fuel pump relays. Fixed by replacing the wiring and relays.
+
+<BR>
+<HR>
+
+<A NAME="cold"><B><FONT COLOR="#3366ff">Why does the car does not idle when cold?
+</FONT></B></A><BR><BR>
+
+If the revs rise and fall at tickover when the engine is cold then
+suspect the cold start valve (solenoid). It's a mini coke can sized
+silver cylinder close to the throttle actuator, where the
+hose from your air filter enters the engine.
+Its got a wire coming from the top and its a stepped solonoid motor
+which varies the amount of air that the engine gets. 
+ This acts like a choke
+allowing air to bypass the throttle butterfly when the engine is cold. I
+had a problem with the engine not running fast enough when cold and was
+caused by the valve failing and sticking shut.
+<P>
+It you leave the ignition on
+without starting the engine the solenoid is switched on the whole time.
+If left for about an hour (I was cleaning inside of car with portable
+vacuum cleaner) it overheats and sticks. Worth bearing in mind as it's
+&pound;100 to replace.
+<P>
+Apparently the tolerences in it are very small so any dirt that gets
+into it will cause it to get stuck which results in an engine that
+won't run when cold.
+If the valve has simply stuck and not burnt out it can usually be
+freed up by cleaning it thoroughly in solvent. WD40 can be used as a quick
+fix, it washes out some of the carbon deposits and lubricates the solenoid.
+A longer lasting solution is to clean the solenoid with a carb cleaner.
+
+<BR>
+<HR>
+
+<A NAME="idle"><B><FONT COLOR="#3366ff">My car won't idle properly when cold and overrevs when hot, why?
+</FONT></B></A><BR><BR>
+Calvin Jones'
+Tipo 16V had this problem. It stalled when cold and 
+also ran a little rough generally with an initial
+&quot;hiccup&quot; before launching itself. The problem was relieved
+somewhat by cleaning a blocked injector.
+Calvin thinks that the problem is still fuel
+related since that after using Redex to clean the injectors the cars
+performance has improved. Calvin may try using 
+ultrasound to clean the injectors fully before
+even thinking of replacing them as they cost &pound;162 each. Calvin is
+also thinking of cleaning the fuel tank in case there is any rubbish in it and
+then possibly investigating the fuel pressure regulator.
+<P>
+<A HREF="../owners/alexis_grant.html">Alexis Grant's</A>
+car had been misbehaving for the last two weeks. It would cut out,
+flood the engine when cold and when hot idle at about 2000rpm.
+It would also have surges when driving.  Alexis took is car to NJS
+to be looked at. NJS used their Fiat/Lancia ECU diagnosis tool to find
+the problem.
+<P>
+The problem is caused by a faulty coolant sensor. There are three
+coolant sensors on the Tipo, one that controls when the fan switches on/off,
+one for the dashboard gauge and one for the ECU. On Alexis car the sensor
+for the ECU was reporting the coolant temperature to be hotter than it
+really was. The coolant coolant sensor for the ECU sits underneath the
+idle valve, it has a blue clip and it quite awkward to get too. The unit
+needs replacing with a new one, which is about &pound;30. Once replaced
+the ECU gave the same reading as the gauge on the dash board. 
+<P>
+Alexis also found out that the J plate 92 ECU differs slightly from
+the K plate 93 and that his throttle position sensor which is found
+at the end of the plenum chamber should have read about 0.2 on the ECU
+when idle and his was way out. Now Alexis's car idles wonderfully.
+
+<BR>
+<HR>
+
+<A NAME="ignition"><B><FONT COLOR="#3366ff">What ignition leads should I buy?
+</FONT></B></A><BR><BR>
+There is an extremely good
+<A HREF="http://www.nightrider.com/biketech/truth.htm" target="_blank">article</A>
+on the web. This details the
+different kinds of ignition leads, how ignition leads actually work, which
+manufacturer claims have scientific backing and how not to waste
+your money. Well worth reading.
+
+<BR>
+<HR>
+
+<A NAME="4000rpm"><B><FONT COLOR="#3366ff">Why won't my car rev to more than 4000 rpm?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says that
+when his did this he added a couple of bottles of STP injector cleaner
+from Halfords into the fuel tank. This seemed to do the trick and he thinks
+it might have been dirt pulled through the fuel system.
+<P>
+<A HREF="../owners/andy_forsdyke.html">Andy Forsdyke</A> says that
+where the coil lead went into the coil on his car was all burnt and corroded.
+He cleaned up the coil and replaced the distributor to coil lead
+and it fixed the problem.
+<A HREF="../owners/steven_cooper.html">Steven Cooper</A> says that
+he replaced the angle (TDC) sensor although it still happens occasionally when cold.
+It is the gap and not the sensor that's important. The car wouldn't start
+if it was faulty. The TDC sensor is positioned at the crank pulley.
+The pulley has 4 teeth. Position either of the teeth exactly center of the sensor
+and use a feeler gauge to adjust the gap. The sensor can also be adjusted vertically
+if necessary. If the gap is too small, it acts as a rev limiter.
+Keep the gap to betwen 0.6mm and 1.0mm.
+<P>
+It is possible that the distributor is not set in its correct position - this
+will not affect the timing but it will affect the distance the spark has to
+jump from the rotor tip to the output to the HT lead - in time this causes
+erosion of the tip of the rotor and the output 'posts' inside the distributor cap.
+
+<BR>
+<HR>
+
+<A NAME="fuel_injectors"><B><FONT COLOR="#3366ff">Why is my car only running on 3 cylinders?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/karim_kassir.html">Karim Kassir's<A>
+car had some trouble with the fuel injection system. One of the
+injection valves got stuck and the engine only ran on three cylinders.
+Karim took the car to the garage and had it fixed cheaply. The mechanic
+just took a piece of wood and tapped on the injection valve. He then
+gave Karim a can of injection cleaner and since then the cars been
+running again on all four cylinders.
+
+<BR>
+<HR>
+
+<A NAME="ignition_module"><B><FONT COLOR="#3366ff">How do I remove the ignition module?
+</FONT></B></A><BR><BR>
+The ignition module is a small black box about the size of
+a packet of cigarettes that is bolted to the underside of the ignition
+coil. It has a seven pin connector plugged into it and takes inputs
+from the crank position sensor, the distributor sensor and the ECU and
+charges the low voltage side of the ignition coil.
+Should you wish to replace it follow these instructions.
+<P>
+The module sits underneath the coil at the front right of the engine. There 
+are two leads connected to the top of the coil. The first lead is the HT 
+lead that joins the left hand side of the coil to the distributor. Simply 
+pull this off. The second lead is a 4 pin plug that plugs into the right 
+hand side of the coil. Make sure you release the little catch on the right 
+side of the plug before you try to pull it up. Once you've removed these 
+two leads undo the two bolts that hold the coil onto the side of the 
+battery tray using a 10mm socket. Gently lift the coil forwards off the two 
+bolts, don't let go of it. At this point the ignition module that is 
+attached to the bottom of the coil is still attached to the wiring loop via 
+a large 7 pin connector. The lead from this connector comes up the front 
+side of the coil. To unplug this connector rotate the coil 90 degrees away 
+from you. Squeeze the metal spring clip that hold the connector onto the 
+ignition module and gently pull it off. Once this is done the coil is 
+completely disconnected. The best way to remove it is to lower it down 
+through the engine. The depth is too far to lower it all the way to the 
+floor. If your doing this by yourself you might want to rest the 
+coil/module on the lower radiator pipe before putting your hand up from 
+underneath the front bumper to grab it. Please be careful not to drop it on 
+the floor. Once the coil/module has been removed from the car turn it 
+upside down and undo the two screws that hold it onto the coil. The back of 
+the module will be sticky as it's a gel to dissipate the heat to the coil 
+which acts like a heat sink.
+
+<BR>
+<HR>
+
+<A NAME="pinking"><B><FONT COLOR="#3366ff">How do I prevent my car from pinking?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/martin_hodges.html">Martin Hodges</A> asks why his engine pinks
+in all gears at low revs but stops at higher revs. He's using super unleaded fuel.
+<A HREF="../owners/alex_wakefield.html">Alex Wakefield</A> says his suffers from
+the same problem. Alex says sure you use 98RON superunleaded (which I think you can
+only get at Shell) and take the car out for a dam good thrashing. It works wonders.
+Also try some of the fuel additives that are available, such as injector cleaner
+to help the flow of fuel, they do help, especially if the car hasn't been used
+in the way it should for some time.
+
+<BR>
+<HR>
+
+<A NAME="idle_speed"><B><FONT COLOR="#3366ff">How do I adjust the idle speed?
+</FONT></B></A><BR><BR>
+The ideal idle speed should be about 850 - 900 rpm.
+Nareman Virk says
+to adjust this you need to warm the engine up. Do not adjust the idle if the
+fan has cut in - wait for it to switch off. Now, disconnect the small clip
+switch on top of the idle valve, with the engine running. Secondly, adjust
+the small screw next the the idle valve until your revs rise to 850 rpm.
+It helps if there are two of you doing this - one adjusting the screw,
+the other sitting inside looking at the revs. (alternatively, long arms also help!).
+When you have attained perfection, re-attach the switch and your car should be
+idling in a state of harmonious tranquility with all existence!
+
+<BR>
+<HR>
+
+<A NAME="fuel_pressure"><B><FONT COLOR="#3366ff">Does a fuel pressure regulator improve performance?
+</FONT></B></A><BR><BR>
+<A HREF="../owners/alex_neagu.html">Alex Neagu</A> would like to
+know whether fitting an adjustable fuel pressure regulator would improve
+performance? Does anyone have an experience of having one fitted?
+<P>
+As far as
+I can see, simply increasing the amount fuel going into the engine will not
+necessarily improve performance as it will need extra air to combust properly. If extra
+air is not supplied then the closed
+loop system will detect the excess unburnt fuel in the exhaust
+gases and lean up the mixture.
+<P>
+My car
+has had one fitted but only because the larger Jaguar XJ6 throttle (50% bigger area)
+allows far more air into the engine. Extra fuel is thus needed otherwise
+the engine runs lean and produces less power than normal. Increasing the
+size of the injectors would allow more fuel in but this is expensive
+option and not very adjustable. A better approach I found was to increase
+the pressure in the fuel rail. The standard fuel pressure regulator fitted
+to the Tipo 16V is actually a FORD Zetec unit and is not adjustable.
+I had an adjustable version fitted by a garage as it is extremely difficult
+to get to. The unit itself cost &pound;125 + VAT
+<P>
+<A HREF="../owners/richard_ellingham.html">Richard Ellingham</A> says spend your money on something else. All these valves
+do is replace the standard manifold referenced fuel pressure regulator, with
+one with a higher diaphragm spring tension. The valves therefore increase
+base line fuel pressure, but under hard acceleration maintain a slightly
+higher pressure, hence why FSE call them snap response valves.
+They are meant to have their main effect on heavy acceleration.
+People who he knows have had them were never impressed.
+<P>
+The reason for fitting one is if your engine is breathing more
+efficiently, then your mixture maybe lean, so increasing fuel pressure
+will allow more fuel to be flowed for each injector opening and return the
+air fuel ratio to the stiochemetric ratio. However it's not as simple,
+even though it can be effective for a minor modification.
+<P>
+There is no need to buy a different valve. this may be crude, but
+it has been advised in CCC magazine, and in modern engine tuning by
+G. Bell, the standard valve can mildly be squashed between two sockets,
+to increase the fuel return spring, and up the fuel rail pressure.
+However none of this takes into account of the quality of air fuel
+mixing into the cylinders at different rpm levels, neither does
+it help out he ignition system, as ignition advance angles will no
+longer be optimum.
+
+<BR>
+<HR>
+
+<A NAME="wiring_diagram"><B><FONT COLOR="#3366ff">Is there a wiring diagram available for the ignition system?
+</FONT></B></A><BR><BR>
+Many thanks to <A HREF="../owners/alex_neagu.html">Alex Neagu</A> who sent
+in this ignition system wiring diagram for the 
+<A HREF="../technical/wiring_tipo.html" target="_blank">Fiat Tipo 16V</A>.
+He translated it and I tidied it up an awful lot.
+It's rather large at 211Kb and 1013x1483 pixels in size.
+As a comparision, here is the wiring diagram for the
+<A HREF="../technical/wiring_integrale.html" target="_blank">Lancia Integrale 16V</A>
+for the Tipo 16V.
+
+<BR>
+<HR>
+
+<A NAME="spark_plugs"><B><FONT COLOR="#3366ff">What spark plugs do you recommend?
+</FONT></B></A><BR><BR>
+Mike Jukes uses
+the NGK 4 prong type which he thinks in theory are better than splitfires and they
+seem to work.
+<P>
+<A HREF="../owners/roy_tomlinson.html">Roy Tomlinson</A>
+says try Bosch Super 4's as they've passed his doorstep challenge.
+They do work and make the car feel a bit crisper!
+<P>
+Nareman Virk says that
+he uses NGK V-grooved (BPR-7E) because he says they're the best.
+
+<BR>
+<HR>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
+
+
