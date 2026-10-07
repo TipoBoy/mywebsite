@@ -1,0 +1,70 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:giles@best-world.demon.co.uk">Andy Giles</A></FONT></CENTER></H3>
+
+
+        Andy drives the race prepared 5 door 16V Tipo and full details
+        can be found in the
+        <A HREF="../articles/ccc/ccc.html">Car &amp; Car Conversions</A>
+        article.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/racing/thumb3.html"><IMG SRC="../gallery/racing/thumb3.jpg" BORDER=0 ALT="48KB" WIDTH=100 HEIGHT=55></A>
+        <A HREF="../gallery/racing/thumb4.html"><IMG SRC="../gallery/racing/thumb4.jpg" BORDER=0 ALT="41KB" WIDTH=100 HEIGHT=57></A>
+        <A HREF="../gallery/racing/thumb5.html"><IMG SRC="../gallery/racing/thumb5.jpg" BORDER=0 ALT="40KB" WIDTH=100 HEIGHT=43></A>
+        <A HREF="../gallery/racing/thumb13.html"><IMG SRC="../gallery/racing/thumb13.jpg" BORDER=0 ALT="165KB" WIDTH=100 HEIGHT=61></A>
+        <A HREF="../gallery/racing/thumb14.html"><IMG SRC="../gallery/racing/thumb14.jpg" BORDER=0 ALT="184KB" WIDTH=100 HEIGHT=73></A>
+        <A HREF="../gallery/racing/thumb15.html"><IMG SRC="../gallery/racing/thumb15.jpg" BORDER=0 ALT="195KB" WIDTH=100 HEIGHT=76></A>
+        <A HREF="../gallery/racing/thumb16.html"><IMG SRC="../gallery/racing/thumb16.jpg" BORDER=0 ALT="169KB" WIDTH=100 HEIGHT=74></A>
+        <A HREF="../gallery/racing/thumb17.html"><IMG SRC="../gallery/racing/thumb17.jpg" BORDER=0 ALT="210KB" WIDTH=100 HEIGHT=77></A>
+        <A HREF="../gallery/racing/thumb18.html"><IMG SRC="../gallery/racing/thumb18.jpg" BORDER=0 ALT="143KB" WIDTH=100 HEIGHT=62></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

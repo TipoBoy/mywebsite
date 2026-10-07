@@ -1,0 +1,84 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:sedicivalvole@yahoo.com">Baber Sheikh</A></FONT></CENTER></H3>
+
+        Baber has a 1991 J registered black 5 door Tipo. He's been the owner
+        since October 1994 and brought the car when it had 16,000 miles on
+        it. This is his 6th Tipo 16V. Baber buys and sells Tipo 16V's and he
+        currently (August 1999) has 3 but is selling 2 of them. His car
+        doe not have ABS or Recaros, but it has got heated seats and tinted
+        windows.
+        His car has been
+        extensively modified by Barry Waterhouse Engineering and is seriously
+        fast.
+        <P>
+        The complete impressive specification is as follows:
+        <P>
+        <B>Engine:</B> Re-bored 84.6mm Mahle Pistons. Re-ground and polished
+        crank with Vandervell shells. Lightened and balanced flywheel.
+        BWE re-mapped eprom. 3 angle valve seats and thema turbo
+        exhaust valves.
+        <P>
+
+        <B>Suspension:</B> Koni dampers (front top adjustable) with
+        Eibach progressive springs. OMP front strut brace.
+        <P>
+        <B>Exhaust:</B> Remus full system. Stainless steel cat replacement
+        pipe with resonator.
+        <P>
+        <B>Induction:</B> Freeflow JR panel filter.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb22.html"><IMG SRC="../gallery/16v/thumb22.jpg" BORDER=0 ALT="55KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb23.html"><IMG SRC="../gallery/16v/thumb23.jpg" BORDER=0 ALT="57KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb24.html"><IMG SRC="../gallery/16v/thumb24.jpg" BORDER=0 ALT="55KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:Bob@adwoodward51.freeserve.co.uk">Bob Woodward</A></FONT></CENTER></H3>
+
+        Bob recently bought a Tipo 16v for what he thought was a good deal (&pound;1350).
+	It is a K reg april 1993 and had an indicated 51,000 miles. His concern is that
+	it does not perform like a car that has 148bhp, particularly after 4000 revs.
+        Bob points out that himself and his partner are Fiat nuts and own five Fiats.
+	They are an 850 saloon, a 130 coupe 3.2 V6, a Strada Abarth 130TC, the Tipo
+	which he bought to replace his company car and his partner will shortly be
+	replacing her Peugeot 106 GTI with a bravo HGT.
+	<P>
+        He had another Fiat dealer who I have known for years (he bought the strada
+	from them) look over the Tipo and he discovered low compression on all cylinders.
+	Although it uses oil at about the rate it should there is no evidence of ring
+	wear i.e. blue smoke. On start up first thing in the morning there is a lot of
+	blue smoke for about 20 seconds and then all is clear. Bob thinks it might
+	be valve guide wear and is currently trying to find a specialist to look at
+	it for him.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

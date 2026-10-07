@@ -1,0 +1,74 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:alexis.grant@cwcom.net">Alexis Grant</A></FONT></CENTER></H3>
+
+Alexis' car is a J registration with 54,000 miles and a K&amp;N air filter.
+Alexis hopes to modify the car further with an exhaust, cat
+removal and chip from probably BWE. He would like to try 17&quot; wheels on
+given the cash. Alexis truly loves this car and is a differently completely
+experience from driving his old Renualt 5 for which we will never forgive him!
+<P>
+When Alexis' brought his car it has been involved in a front end collision. Alexis took this
+opportunity to replace the 5 door headlights, grill and bumper with
+the new style 3 door grill and narrower headlights. 
+<P>
+Alexis has fitted a pipe to his K&amp;N filter to move it away from the engine
+such that it gets nice cold air from the wheel arch. To do this he brought a
+3&quot;
+mild steel pipe that has a 90 degree bend in it and about 4&quot; either
+side of the tube. He took the existing rubber tubing that has the breather hose
+(comes out of the bottom of the tube by the throttle body) and chopped that down
+a bit so the breather hose is still attached to the main trunking. The bend on the
+pipe sits in the corner of the engine bay, with the other end pointing towards
+the headlight. You then need to cut either end to the correct length so the K&amp;N
+will sit there freely without touching anything. Alexis has also added a rod that
+has been pop riveted into the tube and attaches itself to the wing, this stops
+the pipe from banging around.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

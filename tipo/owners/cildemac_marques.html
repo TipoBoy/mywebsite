@@ -1,0 +1,74 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:mac@sagres.com.br">Cildemac Marques</A></FONT></CENTER></H3>
+
+        Cildemac has a 1995 16V Tipo and is unhappy with the changes
+        FIAT make to the cars for the Brazillian market.
+  	<P>
+	Cildemac was feeling very disapointed for living in Brazil and
+	suffering all the problems they have with traffic. 
+	He decided to replace the ECU in his car for $150 USD and it made
+	a huge improvement to his car. Using a small electronic timer
+	he was able to improve his times as below:
+	<P>
+	1.2 seconds faster to get to 100 km/h<BR>
+	1.7 seconds faster to cover the first 400m.
+	<P>
+	He wasn't that impressed so he had the chip tuned some more and
+	was very pleased with the end result.
+	<P>
+	2.0 seconds faster to get to 100 km/h<BR>
+	2.6 seconds faster to cover the first 400m.
+        <P>
+	Cildemac finds it difficult to improve his car as he can't find
+	many parts in Brazil. If he wanted to import the goods from
+	North America then he would have to pay 100% duty.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

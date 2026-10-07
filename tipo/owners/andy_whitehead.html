@@ -1,0 +1,65 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:Gary.Whitehead@ntlworld.com">Andy Whitehead</A></FONT></CENTER></H3>
+
+        Andy is obsessed with these cars. He smashed his silver J reg about 12 months
+	ago, and has just picked up a straight black K reg 5 door sedicvalvole, with a
+	snapped crank on 22nd January 2001 for the sum of &pound;700.
+	<P>
+	Andy has now bought an engine for his car which is now fitted. He payed
+	a reasonable price of &pound;700 and it came out of an M Reg car, which had
+	done only 40,000 miles and he is very happy with the result.
+	There was a lot of trouble getting that result though. He had to change the
+	plenum chamber which had a different pully system for the throttle attachment.
+	He also had to change the inlet manifold and the thermostat housing because
+	the breater pipes had nowhere to attach themselves to on the newer one. 
+	<P>
+	The car is back running again and Andy says its fantastic. He has also 
+        added on some clear light clusters that look trick.
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

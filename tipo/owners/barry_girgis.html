@@ -1,0 +1,67 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:baz888@talk21.com">Barry Girgis</A></FONT></CENTER></H3>
+
+Barry is the proud owner of a Tipo 16v. He purchased the car from an auction
+for &pound;800. The car is a 1992 J registered 5 door model in Rosso racing
+red with 73,000 miles. All he can say about the car is WOW!!! he is so pleased with
+it. Before seeing the car at the auction, he didn't realise that these cars existed.
+The biggest shock for him was after having driven away form the forecourt of
+the auction, he realised how damn quick these cars actually are!!!
+<P>
+Because they are so rare and so unheard of, they are a guaranteed
+head-turner.  The car itself does not boast of its specification with
+fancy badges or signs, it merely has the word Sedicivalvole written on the
+tailgate handle, which in his opinion is very classy indeed.
+<P>
+He adores the car and so do his friends. Of course, there are a couple of
+niggles with it but thats expected from all Fiats. Things like the
+electrics, the cost of parts etc, but overall its worth it.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

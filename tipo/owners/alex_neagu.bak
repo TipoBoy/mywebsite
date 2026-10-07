@@ -1,0 +1,270 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:andrea_122@hotmail.com">Alex Neagu</A></FONT></CENTER></H3>
+
+
+        Alex is a 23 year old student studying electronics engineering.
+        He has a metallic blue 16v 1994 3 door car since October 1998 with
+        44,000 km.
+	<P>
+	Prices of used 16V Fiat Tipos in Israel are very expensive, this
+	may explain why only 12 have ever been sold there.
+	<P>
+        In Israel (as in Italy) no modifications are allowed to the car
+        unless you get a permit for it from the ministry of transportation.
+        Trying to get a permit is a waste of time. This means that anything
+        different from the manufacturer is not allowed. The only thing legal
+        is to replace the engine with the same type when it expires.
+        Even changing your tyre size is illegal.<BR><BR>
+
+        Alex says the roads in Israel are quite bad, especially the city
+        roads which means that lowering the car and fitting low profile
+        tyres will result in a sore back and the car's interior falling
+        apart.<BR><BR>
+
+        Getting tuning parts is also very difficult since when they check
+        the package at customs and it's an automobile part you have to have
+        the above mentioned permit.<BR><BR>
+
+        Alex says that Friday afternoons are fun in Israel though if the
+        weather is fine, and it usually is, as all the
+        &quot;petrolheads&quot; meet and show off their cars .They talk
+        about the cars and then drive to a back road and have some drag
+        races. This is usually done until the police arrive and tell them
+        to go home.<BR><BR>
+
+        Due to the limited number of Tipo 16v cars in Israel Alex
+        had to beg the previous owner to sell the car for about 3 months.
+        His car as Eibach lowering springs a K&amp;N air filter and a
+        Superchip. The car also has an OMP strut brace which he shares with
+        <A HREF="moshe_tevet.html">Moshe Tevet</A>.
+        It also has ABS brakes and Recaro seats.
+        Alex is not satisfied with the Superchip and is going to try the
+        Starchip instead. He is also going to buy in Italy the Supersprint
+        exhaust system where hopefully it will be cheaper.
+        Alex want's to know is anyone has
+        fitted a fuel pressure valve and if so whether it worked and how
+        much they cost?<BR><BR>
+
+        Alex is contemplating whether to change the inlet manifold
+        to a 1993/4 Lancia Thema manifold.
+        The only difference between both engines is this manifold and the 
+        Thema has 155 bhp and improved torque as well.
+        The idea behind this manifold is that it changes as the engine's 
+        temperature changes, allowing more air into the engine.
+	<P>
+	In October 2000 Alex went to Italy with his friend Moshe and visited
+	<A HREF="../tuning/tuning.html#fly_motors">Fly Motors</A>. He bought thier
+	brake discs (front &amp; rear which were both
+	grooved and drilled).He also bought Ferodo racing brake pads, brake hoses
+	and 270 degree cams and pullys.
+	<P>
+	<B>10th October 2000</B><BR>
+	Alex is thinking of coverting his engine to a turbo
+	as well. He has a broken Lancia kappa turbo engine (this is the Lancia
+	thema replacement) from which he is
+	going to take the pistons and the head, get new rings and fit the
+	inlet and exhaust manifolds. He will of course also take the T28
+	turbo and get an intercooler and oil cooler. During an uncoming
+	trip to Italy he will also get a modified cluth, adjustable koni shocks
+	and a decent dump valve. For the injection he has a Lancia Integrale
+	ECU and changing the wiring loom to fit is apparently not too
+	complicated (3 wires have to bo changed and the map sensor).
+	<P>
+	<B>31st October 2000</B><BR>
+	Alex says that he now has all the parts that he needs for the turbo conversion
+	project. The broken lancia kappa turbo engine had only done 60,000 km and has
+	a broken crankshaft because the owner drove without oil. He is going to take
+	this engine's head and conrods. He is almost certain that the conrods
+	are the same but just to be safe he will use them as well.
+	The exact condition of the Lancia head will only be known when he dismantles
+	the engine. Just in case the head is no good he has another Fiat coupe
+	turbo head. He thought of possibly using the Lancia pistons as well. However
+	on a recent trip to Italy he found a Fiat parts dealer and discovered that
+	a set of new Lancia kappa turbo oversized pistons plus rings were only
+	680,000 Italian liras (about &pound;200) he brought them.
+	<P>
+        Alex will use a T28 turbo. He has a the choice between this turbo and the
+	bigger T35 turbo but he decided to take the smaller one so he will have more
+	torque and less turbo lag. His local tuner also has the inlet and exhaust
+	manifolds, injectors, fuel pressure regulator, a Fiat coupe intercooler,
+	an oil cooler, an oil retainer tank and a new fan (from a renault express).
+        The biggest problem he sees is the injection system. He does not want to
+	repeat Moshe's mistakes who took a Fiat coupe turbo engine, Tipo 16v wiring
+	loom and a Cosworth ECU. It works some how but not perfectly. Alex
+	therefore decided on the following. He has found an Integrale 16v ECU
+	(1990 model with air conditioning which is very important with the climate
+	he has there)we have here). Looking through books revealed that the
+	difference between the Tipo 16v wiring loom and the Integrale 16v wiring
+	loom is only 3 wires and 2 map sensors. Alex therefore bought these map
+	sensors and will run these 3 wires as well. One of them is a knock sensor
+	which is very important in order to prevent pinking. The ECU fits to the
+	existing connector and can start the engine even now, although it will not
+	run perfectly because of the different injectors. He also brought a new
+	modified &quot;Fly Motors&quot; 215 mm (the original size) clutch, 
+	a piston dump valve to help with the sound track and keep the turbo in good
+	health.
+	<P>
+	All that is left to do is to fit every thing. He will use new crank and conrod
+	bearings. Other modifications will be necessary such as
+	moving the battery to the boot and relocation the air conditioning. He hopes the
+	Supersprint exhaust will be up to the job although he thinks it may be a
+	little narrow for this engine.
+	<P>
+	<B>5th November 2000</B><BR>
+        Major change in plans. Alex went to the garage to see if they had all the
+	external parts that he needs (like the new fan, intercooler etc) and there
+	in front of him stood two new engines. The first a Lancia 16v turbo and the
+	second a Fiat 16v turbo. They were brand new, not a mile on them
+	The Lancia engine had never been fitted in a car and the Fiat engine had
+	been fitted in a car but had never been started. Both engines did not even
+	have spark plugs in them. The Fiat engine came complete with a turbo
+	(new as well) and is ready to fit. it didn't take Alex long to
+	make a decision. The garage owner was willing to take his Tipo engine with
+	the parts that he had bought and exchange it with the Fiat turbo engine.
+	Of course he had to add some money in cash but it was almost the same
+	amount as before since the labour now is much easier. The 
+	difference in price is about &pound;150 more but he gets new water and oil pumps,
+	new sensors, new turbo, in fact absolutely everything, including a new
+	and clean idle valve.
+	<P>
+	<B>17th November 2000</B><BR>
+	Alex is now the proud owner of a turbocharged Tipo 16V! The whole transplant
+	took about 10 days. It could have been less if all the parts were in the garage
+	before starting but that does not matter anymore. Only one man worked on the
+	car (Moshe's brother) and he worked for about 10 hours a day. Although this is
+	not the first time he has done this job and bare in mind that some parts were
+	missing and during the 10 days he worked on other smaller jobs. He says he
+	could have done it in a week. The biggest job was to fit the air hoses and
+	inter cooler parts. Alex took photos of the
+	work in progress and will try and find the time to scan them in for me. Day by
+	day description follows:
+	<OL>
+	<LI>
+	The old engine and gearbox were taken out. The new clutch (modified 215 mm from
+	Fly Motors) has been fitted between the Tipo's gearbox and the new engine.
+	<LI>
+	The engine was fitted inside the car with the gear box. The changes in the
+	wiring loom were carried out as well. These involved adding the 2nd map
+	sensor in parallel to the first and fitting the knock sensor with the wires.
+	This is where the serious work begins.
+	<LI>
+	The pipe that connects the turbo with the exhaust was bought
+	(from a coupe turbo) and fitted. I still use the Supersprint exhaust that
+	I fitted 2 years ago. This is not a good exhaust for this engine because
+	it is too narrow. The connecting bolts of the turbo pipe and the
+	Supersprint exhaust did not line up so we had to elongate the holes in the
+	Supersprint exhaust to form slots. The new fan has been fitted as well.
+	<LI>
+	Fitting the inter cooler and oil cooler. This forced the removal of the
+	fog lamps since the intercooler is located behind the left hole and the oil
+	cooler sits behind the right hole. Associated hoses still need to be attached.
+	<LI>
+	Some of the hoses arrived and work continued. Not much progress.
+	<LI>
+	The positive and negative cables of the battery were extended to the boot and
+	some more work carried out on the boost hose. The idle valve was fitted.
+	<LI>
+	Garage closed.
+	<LI>
+	The boost lines were finished. The air filter fitted and the oilcooler was
+	firmly located (donated by a late lancia kappa turbo) the battery tray were
+	the battery sits on was fitted tightly in the boot and in the evening the
+	car was started but suffered injection problems. It turns out that the
+	integrale 16V ecu has a stage 3 chip inside and for some reason the ecu
+	is giving a lot of fuel to the engine and the engine does not want to start.
+	It works fine with the tipo 16V ecu and with a cossie ecu but the
+	integrale ecu just floods the engine.
+	<LI>
+        The mechanic finds another integrale, an 8V ecu that has a 16V chip and the
+	car works fine (I was really getting worried because the I can't drive with the
+	tipo 16V ecu (it cant read boost) and the cossie ecu wasn't mine and there
+	arent any other in Israel). I drove the car for the first time and it is
+	really somthing else. The engine is so smooth and quiet and the dump valve
+	is the coolest sound you can hear. The engine still has to be run in so
+	I don't go over 4000 rpm.
+        <LI>
+        Some work was done on the a.c. but it still not fitted (missing parts).
+	In the evening I take the car. There are still some things to be done
+	but the most important is the exhaust that is really choking the car.
+	<LI>
+
+</OL>
+Alex says that he really thinks that the turbo is the most rewarding way you can modify
+the engine. This is mainly because you are using a standard engine that does not
+suffer from the weaker areas of other modification routes such as bad idle,
+and low reliability. The boost is controlled only be the wastegate and Alex thinks it
+is about 0.6 bar (he sayd he should really connect a boost gauge). The car drives
+like a standard Impreza turbo (218 bhp) in the midrange acceleration
+(he's already checked that out!) and that is mainly thanks to the short
+gear of the Tipo.
+<P>
+Alex says that the Fiat Coupe 16V Turbo, Lancia Thema 16V Turbo and Lancia Integrale 16V
+Turbo are basicaly the same. They have the same pistons and same volume. Only the
+injectors resistance is a bit different (2 ohms on the Integrale and 16 ohms on the
+Coupe) but the injector volume is the same. Alex is still using his original radiator.
+He has changed the fan unit to a lower unit (86 degrees) and the car does not over heat.
+He also used standard coolers, the intercooler from the coupe and the oil cooler from
+a thema turbo. The radiator sits the same as in a Coupe 16v turbo (and is the same
+size as well) so there is no need to change the radiator. If the car does
+does not have AC then you won't even have to give up the fog lamps like he had
+to. You can just fit the intercooler in front of the radiator. However on his car
+the AC radiator sits in that position.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/turbo/thumb8.html"><IMG SRC="../gallery/turbo/thumb8.jpg" BORDER=0 ALT="48KB" WIDTH=100 HEIGHT=62></A>
+        <A HREF="../gallery/turbo/thumb7.html"><IMG SRC="../gallery/turbo/thumb7.jpg" BORDER=0 ALT="81KB" WIDTH=100 HEIGHT=80></A>
+        <A HREF="../gallery/turbo/thumb9.html"><IMG SRC="../gallery/turbo/thumb9.jpg" BORDER=0 ALT="57KB" WIDTH=100 HEIGHT=66></A>
+        <A HREF="../gallery/turbo/thumb10.html"><IMG SRC="../gallery/turbo/thumb10.jpg" BORDER=0 ALT="Turbo Engine (50KB)" WIDTH=100 HEIGHT=70></A>
+        <A HREF="../gallery/turbo/thumb11.html"><IMG SRC="../gallery/turbo/thumb11.jpg" BORDER=0 ALT="Dump Valve (61KB)" WIDTH=100 HEIGHT=67></A>
+        <A HREF="../gallery/turbo/thumb12.html"><IMG SRC="../gallery/turbo/thumb12.jpg" BORDER=0 ALT="Oil Cooler (51KB)" WIDTH=100 HEIGHT=67></A>
+        <A HREF="../gallery/turbo/thumb13.html"><IMG SRC="../gallery/turbo/thumb13.jpg" BORDER=0 ALT="Intercooler (64KB)" WIDTH=100 HEIGHT=66></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,63 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:andywatt@barrysworld.com">Andy Watt</A></FONT></CENTER></H3>
+
+Andy is the recent owner of a Tipo 16v and this site has become his bible for
+everything Tipo. Andy was fortunate last June to pick up
+an immaculate totally standard prime example, it had full documented history
+and only 38,000 on the clock. One year on and he has resisted modifying it in
+any way and has clocked up only 2,800 miles. It has just sailed through the
+mot and having once scoffed at anything with Fiat on the back he can truly
+say he is a reformed owner.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb8.html"><IMG SRC="../gallery/16v/thumb8.jpg" BORDER=0 ALT="48KB" WIDTH=100 HEIGHT=62></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>
