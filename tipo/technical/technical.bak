@@ -1,0 +1,1025 @@
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<font FACE="Arial,Helvetica">
+
+<h3 align="center"><font COLOR="#ffff00">Technical information about the FIAT Tipo 16V</font></h3>
+
+<p>The following are technical specifications taken from the Tipo 16V manual. All figures
+and facts refer to the 16V model only. 
+
+<ul>
+  <li><a HREF="#engine">ENGINE</a> </li>
+  <li><a HREF="#transmission">TRANSMISSION</a> </li>
+  <li><a HREF="#brakes">BRAKES</a> </li>
+  <li><a HREF="#wheels">WHEELS</a> </li>
+  <li><a HREF="#suspension">SUSPENSION</a> </li>
+  <li><a HREF="#steering">STEERING</a> </li>
+  <li><a HREF="#wheel_alignment">WHEEL ALIGNMENT</a> </li>
+  <li><a HREF="#electrical_system">ELECTRICAL SYSTEM</a> </li>
+  <li><a HREF="#performance">PERFORMANCE</a> </li>
+  <li><a HREF="#weights">WEIGHTS</a> </li>
+  <li><a HREF="#dimensions">DIMENSIONS</a> </li>
+  <li><a HREF="#capacities">CAPACITIES</a> </li>
+  <li><a HREF="#fuel_consumption">FUEL CONSUMPTION</a> </li>
+  <li><a HREF="#tyre_pressures">TYRE PRESSURES</a> </li>
+</ul>
+
+<hr>
+
+<p align="left"><a NAME="engine"><strong><big><big>ENGINE</big></big></strong></p>
+
+<p><big><font color="#FF0000"><strong>History:</strong></font></big></p>
+
+  The Tipo 2.0ie 16v derives its power from the legendary Fiat twin-cam engine,
+  an engine whose ancestry can be traced back to 1966 and was designed by the
+  automotive engineering genius Aurelio Lampredi. The first eight valve twin-cam
+  produced 90bhp from 1,438cc's (some 20bhp more than comparable pushrod engines
+  of the day) and evolved into a 1995cc sixteen valve 300bhp turbo powerhouse
+  in competition form, winning no less than 10 world championships in one form
+  or another.
+<P>
+  Lampredi incorporated many hitherto unseen innovations into his design
+  including the direct acting camshaft for operating the valves, using shimmed
+  &quot;buckets&quot; between cam and valve assembly as a means of adjustment rather
+  than the now de-rigeur (power absorbing) hydraulic adjusters. Also a lightweight
+  aluminium cylinderhead when most were cast iron and con-rods that can only
+  be described as destruction proof !!!
+<P>
+  In &quot;Sedicivalvole&quot; form a 1995cc powerplant produces 148bhp @ 6,250rpm and
+  18Kgm of torque @ 5,000rpm, 16Kgm of this torque being available from 2,500rpm
+  up to 6,000rpm which when matched to the appropriate gear ratios produce
+  a car with extreme flexibility and thus drivability. The engine is very similar
+  in specification and power output to the 2 litre unit fitted to the Lancia
+  Thema series 2 in 1988, also utilizing counter rotating balancer shafts to
+  counteract the inherent imbalance of the in-line four cylinder engine and
+  thus produce a much smoother if very slightly less responsive power unit.
+<P>
+  These are some very high resolution (and therefore very large)
+  cut away diagrams of various parts
+  of the engine together with a cut away diagram of the car.
+<P>
+<CENTER>
+<A href="thumb1.html"><IMG SRC="thumb1.jpg" ALT="531Kb" BORDER=0 WIDTH=71 HEIGHT=100></A>   
+<A href="thumb2.html"><IMG SRC="thumb2.jpg" ALT="395Kb" BORDER=0 WIDTH=100 HEIGHT=71></A>   
+<A href="thumb3.html"><IMG SRC="thumb3.jpg" ALT="492Kb" BORDER=0 WIDTH=100 HEIGHT=71></A>   
+<A href="thumb4.html"><IMG SRC="thumb4.jpg" ALT="282Kb" BORDER=0 WIDTH=70 HEIGHT=100></A>   
+</CENTER>
+
+<p><big><font color="#FF0000"><strong>Specifications:</strong></font></big></p>
+
+<p><font color="#FFFFFF">The basic design of the engine remained the same between the 5
+and 3 door models. However the power and torque characteristics changed slightly. In the 3
+door model the engine was detuned slightly which reduced ultimate bhp but provided more
+torque at lower revs.</font></p>
+
+<CENTER>
+<table bgcolor="#333333" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td align="center"><strong>5 Door</strong></td>
+    <td align="center"><strong>3 Door</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Engine code</td>
+    <td align="center">160A8.046</td>
+    <td align="center">836A3.000</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cycles, Number and layout of cylinders</td>
+    <td align="center" colspan="2">4-cycle, inline-4</td>
+  </tr>
+  <tr>
+    <td>Bore x stroke</td>
+    <td><p align="right">(mm)</td>
+    <td align="center" colspan="2">84x90</td>
+  </tr>
+  <tr>
+    <td>Displacement</td>
+    <td><p align="right">(cc)</td>
+    <td align="center" colspan="2">1995</td>
+  </tr>
+  <tr>
+    <td colspan="2">Compression ratio</td>
+    <td align="center" colspan="2">10.5:1 (+/-0.15)</td>
+  </tr>
+  <tr>
+    <td>Maximum power output</td>
+    <td><p align="right">kW (EEC)</td>
+    <td align="center">108</td>
+    <td align="center">102</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><p align="right"><B>bhp</B> (DIN)</td>
+    <td align="center"><B>148</B></td>
+    <td align="center"><B>142</B></td>
+  </tr>
+  <tr>
+    <td>at</td>
+    <td><p align="right">r.p.m.</td>
+    <td align="center">6250</td>
+    <td align="center">6000</td>
+  </tr>
+  <tr>
+    <td>Peak torque</td>
+    <td><p align="right"><B>Nm</B> (EEC)</td>
+    <td align="center"><B>177</B></td>
+    <td align="center"><B>180</B></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><p align="right">kgm (DIN)</td>
+    <td align="center">18</td>
+    <td align="center">18.7</td>
+  </tr>
+  <tr>
+    <td>at</td>
+    <td><p align="right">r.p.m</td>
+    <td align="center">5000</td>
+    <td align="center">4500</td>
+  </tr>
+</table>
+</CENTER>
+
+<P>
+Use the javascript program below to convert between various power and
+torque figures.
+
+<P>
+<CENTER>
+<form name="form1">
+  <table border="0" BGCOLOR="#333333">
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td><center><b>Power</b></center></td>
+      <td></td>
+      <td></td>
+      <td><center><b>Torque</b></center></td>
+    </tr>
+
+    <tr>
+      <td><input type="radio" name="power" checked onClick="ConvertFrom_BHP()"></td>
+      <td>BHP&nbsp;(metric)</td>
+      <td><input type="text" name="bhp" size="6" value="148"></td>
+      <td><input type="radio" checked name="torque" onClick="ConvertFrom_LBSFT()"></td>
+      <td>lbs&nbsp;ft</td>
+      <td><input type="text" name="lbsft" size="6"></td>
+    </tr>
+
+    <tr>
+      <td><input type="radio" name="power" onClick="ConvertFrom_KW()"></td>
+      <td>KW</td>
+      <td><input type="text" name="kw" size="6"></td>
+      <td><input type="radio" checked name="torque" onClick="ConvertFrom_NM()"></td>
+      <td>Nm</td>
+      <td><input type="text" name="nm" size="6" value="177"></td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><input type="radio" value="kgm" name="torque" onClick="ConvertFrom_KGM()"></td>
+      <td>Kgm</td>
+      <td><input type="text" name="kgm" size="6"></td>
+    </tr>
+
+    <tr align="center">
+      <td colspan="6"><center><input type="button"
+      value="Convert" onClick="Convert()"></center></td>
+    </tr>
+  </table>
+</form>
+</center>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+// Conversion factors - multiply by appropriate value to convert left to right.
+
+var powerConversionType = 0
+var torqueConversionType = 1
+
+// Horsepower (UK)
+//var bhp_to_kw    = 0.745699871
+//var kw_to_bhp    = 1.341022090
+
+// Horsepower (metric)
+var bhp_to_kw    = 0.735498750
+var kw_to_bhp    = 1.359621617
+
+// Torque
+var lbsft_to_nm  = 1.355817948
+var lbsft_to_kgm = 0.138254954
+var nm_to_lbsft  = 0.737562150
+var nm_to_kgm    = 0.101971621
+var kgm_to_lbsft = 7.233013855
+var kgm_to_nm    = 9.806650
+
+// As each radio button is hit clear other entries and set conversion.
+
+function ConvertFrom_BHP()
+{
+   document.form1.kw.value = ""
+   powerConversionType = 0
+}
+
+
+function ConvertFrom_KW()
+{
+   document.form1.bhp.value = ""
+   powerConversionType = 1
+}
+
+
+function ConvertFrom_LBSFT()
+{
+   document.form1.nm.value = ""
+   document.form1.kgm.value = ""
+   torqueConversionType = 0
+}  
+
+
+function ConvertFrom_NM()
+{
+   document.form1.lbsft.value = ""
+   document.form1.kgm.value = ""
+   torqueConversionType = 1
+}
+
+
+function ConvertFrom_KGM()
+{
+   document.form1.lbsft.value = ""
+   document.form1.nm.value = ""
+   torqueConversionType = 2
+}
+
+
+function Convert()
+{
+   // Button pushed so convert both power and torque.
+
+   switch (powerConversionType) {
+      case 0:
+         if (document.form1.bhp.value != "") {
+            document.form1.kw.value = Math.floor(document.form1.bhp.value * bhp_to_kw)
+         }
+      break;
+      case 1:
+         if (document.form1.kw.value != "") {
+            document.form1.bhp.value = Math.floor(document.form1.kw.value * kw_to_bhp)
+         }
+      break;
+   }
+
+   switch (torqueConversionType) {
+      case 0:
+         if (document.form1.lbsft.value != "") {
+            document.form1.nm.value  = Math.floor(document.form1.lbsft.value * lbsft_to_nm)
+            document.form1.kgm.value = Math.floor(document.form1.lbsft.value * lbsft_to_kgm)
+         }
+      break;
+      case 1:
+         if (document.form1.nm.value != "") {
+            document.form1.lbsft.value = Math.floor(document.form1.nm.value * nm_to_lbsft)
+            document.form1.kgm.value   = Math.floor(document.form1.nm.value * nm_to_kgm)
+         }
+      break;
+      case 2:
+         if (document.form1.kgm.value != "") {
+            document.form1.lbsft.value = Math.floor(document.form1.kgm.value * kgm_to_lbsft)
+            document.form1.nm.value    = Math.floor(document.form1.kgm.value * kgm_to_nm)
+         }
+      break;
+   }
+}
+
+// -->
+</script>
+
+
+
+
+
+<p><big><font color="#FF0000"><strong>Balancing:</strong></font></big></p>
+
+<p>The engine is equipped with &quot;counterrotating balancer-shafts&quot;. They rotate at
+twice the speed of the crankshaft and serve to balance the dynamic forces that are
+generated by the crankshaft. As a result these engines operate very smoothly at all
+speeds.</p>
+
+<p><big><font color="#FF0000"><strong>Timing:</strong></font></big></p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td colspan="2">No of overhead cams driven by toothed belt</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td>Inlet</td>
+    <td align="right">opens BTDC</td>
+    <td align="center">1°</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="right">closes ABDC</td>
+    <td align="center">45°</td>
+  </tr>
+  <tr>
+    <td>Exhaust</td>
+    <td align="right">opens BBDC</td>
+    <td align="center">42°</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="right">closes ATDC</td>
+    <td align="center">4°</td>
+  </tr>
+  <tr>
+    <td>Timing tappet clearance</td>
+    <td align="right">inlet (mm)</td>
+    <td align="center">0.8</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="right">exhaust (mm)</td>
+    <td align="center">0.8</td>
+  </tr>
+  <tr>
+    <td>Cold tappet clearances</td>
+    <td align="right">inlet (mm)</td>
+    <td align="center">0.45+/-0.03</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="right">exhaust (mm)</td>
+    <td align="center">0.50+/-0.03</td>
+  </tr>
+</table>
+</center></div>
+
+<p><big><font color="#FF0000"><strong>Fuel delivery:</strong></font></big></p>
+
+<p>Integrated &lt;&lt;I.A.W. Multi-point&gt;&gt; injection/ignition system (M.P.I.) 
+
+<ul>
+  <li>3 bar injection pressure.</li>
+  <li>Air filter with paper cartridge.</li>
+  <li>In-tank petrol pump.</li>
+  <li>Petrol metering system: Speed density method evaluation of the quantity of aspirated
+    air; analytic method, by electronically processing data from the engine speed sensor and
+    the air temperature and absolute pressure sensors in the intake manifold (density).</li>
+  <li>Lamda sensor for metering optimisation.</li>
+  <li>Engine idling speed: 850+/-50 rpm</li>
+</ul>
+
+<p>%CO emission when engine is idling: 
+
+<ul>
+  <li>above the catalytic converter with Lamda sensor disconnected 0.7+/-0.2</li>
+  <li>downstream from the catalytic converter with the Lamda sensor connected &lt;0.5</li>
+</ul>
+
+<p><big><font color="#FF0000"><strong>Ignition:</strong></font></big></p>
+
+<p>Integrated &lt;&lt;I.A.W.04J&gt;&gt; fuel delivery-ignition system 
+
+<ul>
+  <li>Firing order 1-3-4-2</li>
+  <li>Reference advance at 850+/-50 rpm with hot engine (coolant temperature &gt; 75°)
+    10°+/-2°</li>
+</ul>
+
+<p>Spark plugs: Fiat/Lancia 7FYSSR or Champion RN7YCC</p>
+
+<p>Spark plug gap 0.85-0.95mm</p>
+
+<p><big><font color="#FF0000"><strong>Lubrication:</strong></font></big></p>
+
+<p>Forced-feed gear pump with pressure relief valve.</p>
+
+<p>Full-flow cartirdge oil filter.</p>
+
+<p>Lubrication pressure at 100°C: 3.4 - 4.9 bar (3.5 - 5 kg/sq.cm)</p>
+
+<p><big><font color="#FF0000"><strong>Cooling system:</strong></font></big></p>
+
+<p>The cooling system includes a radiator, centrifugal pump and expansion tank.</p>
+
+<p>Bypass thermostat on the secondary recirculation circuit.</p>
+
+<p>Themoststically controlled radiator fan.</p>
+
+<p>Derived circuit for coolant, automatic transmission fluid (water/oil heat exchanger
+fitted to gearbox).</p>
+
+<hr>
+
+<p align="left"></a><a NAME="transmission"><strong><big><big>TRANSMISSION</big></big></strong></p>
+
+<p><big><strong><font color="#FF0000">Clutch:</font></strong></big></p>
+
+<p>Mechanical or hydraulic linkange according to the version, self adjusting with no free
+pedal travel. Adjustable pedal position.</p>
+
+<p><big><font color="#FF0000"><strong>Mechanical Transmission:</strong></font></big></p>
+
+<p><font color="#FFFFFF">Gear ratios:</font></p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>1st gear</td>
+    <td>3.545</td>
+  </tr>
+  <tr>
+    <td>2nd gear</td>
+    <td>2.238</td>
+  </tr>
+  <tr>
+    <td>3rd gear</td>
+    <td>1.541</td>
+  </tr>
+  <tr>
+    <td>4th gear</td>
+    <td>1.156</td>
+  </tr>
+  <tr>
+    <td>5th gear</td>
+    <td>0.891</td>
+  </tr>
+  <tr>
+    <td>Reverse</td>
+    <td>3.909</td>
+  </tr>
+  <tr>
+    <td>Final drive gear</td>
+    <td>3.563</td>
+  </tr>
+  <tr>
+    <td>Number of teeth</td>
+    <td>16/57</td>
+  </tr>
+</table>
+</center></div>
+
+<hr>
+
+<p align="left"></a><a NAME="brakes"><font color="#FFFFFF"><big><big><strong>BRAKES</strong></big></big></font></p>
+
+<p><big><font color="#FF0000"><strong>Service brakes:</strong></font></big></p>
+
+<p>Disc brakes allround with a slaver cylinder for each wheel.</p>
+
+<p>Electronic control with pad wear intrument panel warning light.</p>
+
+<p>Diagonally split hydraulic brake curcuits.</p>
+
+<p>Asbestos-free pads and linings.</p>
+
+<p><big><font color="#FF0000"><strong>Handbrake:</strong></font></big></p>
+
+<p>Mechanical, lever actuated handbrake operating on the rear brakes. Handbrake level
+travel is adjustable from the passenger cabin.</p>
+
+<hr>
+
+<p align="left"></a><a NAME="wheels"><font color="#FFFFFF"><big><big><strong>WHEELS</strong></big></big></font></p>
+
+<p><big><font color="#FF0000"><strong>Rims and tyres:</strong></font></big></p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>&nbsp;</td>
+    <td align="center"><strong>Front/Rear</strong></td>
+    <td align="center"><strong>Spare</strong></td>
+  </tr>
+  <tr>
+    <td>Rims</td>
+    <td align="center">6Jx15H2</td>
+    <td align="center">4.00Bx15H</td>
+  </tr>
+  <tr>
+    <td>Tyres</td>
+    <td align="center">185/55R15V<br>
+    (optional 195/50R15V)</td>
+    <td align="center" valign="top">115/70R15 90M</td>
+  </tr>
+</table>
+</center></div>
+
+<p>Both standard&nbsp; and optional tyres are tubeless radials. never use inner tubes in
+tubeless tyres. Only low-profile snow chains (12 mm) should be put on the car's tyres.
+Make sure the chains are tightened properly. Do not use chains on the spare tyre.</p>
+
+<hr>
+
+<p></a><a NAME="suspension"><font color="#FFFFFF"><big><big><strong>SUSPENSION</strong></big></big></font></p>
+
+<p><big><font color="#FF0000"><strong>Suspension specifications:</strong></font></big></p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Front</td>
+    <td>Independant, MacPherson suspension with negative reaction rod and antiroll bar.
+    Cast-iron track control arms; connected to wheels with joints, connected to cross member
+    with steel reinforced bushings.</td>
+  </tr>
+  <tr>
+    <td>Rear</td>
+    <td>Independant with coil springs. Cast-iron track control arms with ball-bearing joints.
+    Antiroll bar. Rubber damping springs.</td>
+  </tr>
+</table>
+</center></div>
+
+<hr>
+
+<p></a><a NAME="steering"><font color="#FFFFFF"><big><big><strong>STEERING</strong></big></big></font></p>
+
+<p><big><font color="#FF0000"><strong>Steering specifications:</strong></font></big></p>
+
+<p>Permanently lubricated rack-and-pinion steering. Shock absorbing steering linkage (may
+also be equipped with steering wheel rake adjustment).</p>
+
+<p>Hydraulic power-assisted steering system (reserviour in the engine compartment).</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td><p align="left">Turning circle diameter</td>
+    <td align="center">10.3 m</td>
+  </tr>
+  <tr>
+    <td>Number of turns lock-to-lock</td>
+    <td align="center">3</td>
+  </tr>
+</table>
+</center></div>
+
+<hr>
+
+<p></a><a NAME="wheel_alignment"><font color="#FFFFFF"><big><big><strong>WHEEL ALIGNMENT</strong></big></big></font></p>
+
+<p>The following toe-in values refer to unladen cars:</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Front wheel toe-in measured between rims</td>
+    <td align="center">0 +/- 1 mm</td>
+  </tr>
+  <tr>
+    <td>Rear wheel toe-in measureed between rims</td>
+    <td align="center">-0.5 +/- 2 mm</td>
+  </tr>
+</table>
+</center></div>
+
+<hr>
+
+<p></a><a NAME="electrical_system"><strong><big><big>ELECTRICAL SYSTEM</big></big></strong></p>
+
+<p><big><font color="#FF0000"><strong>Wiring Diagram:</strong></font></big></p>
+
+<p>Fiat Tipo 16V ignition system <A HREF="wiring_tipo.html" target="_blank">wiring diagram</A> (211Kb and 1013x1483 pixels in size)</p>
+
+<p><big><font color="#FF0000"><strong>System Voltage:</strong></font></big></p>
+
+<p>12 Volts</p>
+
+<p><big><font color="#FF0000"><strong>Battery:</strong></font></big></p>
+
+<p>Negative ground</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Capacity, 20 hr discharging rate</td>
+    <td align="center">60</td>
+  </tr>
+  <tr>
+    <td>Cold cranking power (-18°C)</td>
+    <td align="center">320</td>
+  </tr>
+</table>
+</center></div>
+
+<p><big><font color="#FF0000"><strong>Alternator</strong></font></big></p>
+
+<p>Nine-diode rectifier with integral voltage regulator. Battery recharges as soon as the
+engien starts. Nominal output 65A. Cars with air conditioning and special series have
+alternators with a 90A output.</p>
+
+<hr>
+
+<p></a><a NAME="performance"><strong><big><big>PERFORMANCE</big></big></strong></p>
+
+<center>
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td rowspan="3">&nbsp;</td>
+    <td colspan="4"><p align="center">Maximum speeds after running in</td>
+    <td rowspan="3">Gradeability. Fully laden verhicle (%). Valves calculated and valid for
+    vehicle in motion with engine running at peak torque speed.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center">5 Door</td>
+    <td colspan="2"><p align="center">3 Door</td>
+  </tr>
+  <tr>
+    <td>km/h</td>
+    <td>mph</td>
+    <td>km/h</td>
+    <td>mph</td>
+  </tr>
+  <tr>
+    <td>1st&nbsp;gear</td>
+    <td align="center">55</td>
+    <td align="center">34</td>
+    <td align="center">53</td>
+    <td align="center">33</td>
+    <td align="center">44</td>
+  </tr>
+  <tr>
+    <td>2nd&nbsp;gear</td>
+    <td align="center">85</td>
+    <td align="center">53</td>
+    <td align="center">83</td>
+    <td align="center">52</td>
+    <td align="center">31</td>
+  </tr>
+  <tr>
+    <td>3rd&nbsp;gear</td>
+    <td align="center">130</td>
+    <td align="center">81</td>
+    <td align="center">121</td>
+    <td align="center">76</td>
+    <td align="center">18</td>
+  </tr>
+  <tr>
+    <td>4th&nbsp;gear</td>
+    <td align="center">170</td>
+    <td align="center">106</td>
+    <td align="center">161</td>
+    <td align="center">101</td>
+    <td align="center">11.5</td>
+  </tr>
+  <tr>
+    <td>5th&nbsp;gear</td>
+    <td align="center">207</td>
+    <td align="center">129</td>
+    <td align="center">202</td>
+    <td align="center">126</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td>Reverse</td>
+    <td align="center">50</td>
+    <td align="center">31</td>
+    <td align="center">47</td>
+    <td align="center">29</td>
+    <td align="center">46</td>
+  </tr>
+</table>
+</center>
+
+<P>
+I don't know why the 0-60 mph times below are so different between the 5 door
+and 3 door models.
+<P>
+<CENTER>
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+<tr><td>&nbsp;</td><td align="center">5 Door</td><td align="center">3 Door</td></tr>
+<tr><td align="center">0-60 mph</td><td align="center">7.9</td><td align="center">9.8</td></tr>
+</table>
+</CENTER>
+
+<P>
+These following unofficial performance figures are taken from Top Gear Magazine:
+<P>
+  0-100mph in 22.4 seconds
+<BR><BR>
+  Standing 1/4 mile 16.3 seconds @ 87mph
+<BR><BR>
+  30-50mph 7.3 seconds (4th gear) 10.1 seconds (5th gear)
+<BR>
+  50-70mph 7.5 seconds (4th gear) 10.1 seconds (5th gear)
+<BR>
+  70-90mph 7.8 seconds (4th gear) 11.8 seconds (5th gear)
+<BR><BR>
+  Power to weight ratio : 127 Bhp per ton
+
+<P>
+<A HREF="speedo.html"><IMG SRC="autobahn.jpg" ALIGN=LEFT BORDER=0 WIDTH=500 HEIGHT=252 ALT="Dashboard"></A>
+
+My tipo doing <A HREF="speedo.html">134mph (216km/h)</A>. Before you ask, it was along a
+<U>flat</U> German Autobahn with <U>no trailing wind</U> a passenger and
+a full complement of luggage. Click on the image
+to see a blow up of speedometer. Cruising at 120 mph the oil temperature
+remained steady at the normal 100<SUP>o</SUP>c but pushing the car up to
+<A HREF="speedo.html">134mph (216km/h)</A> caused it
+to creep up to 120<SUP>o</SUP>c (maybe I should fit a oil cooler for
+future journeys!), though hardly surprising as I was doing about 6500 rpm!!.
+Traffic congestion gets quite bad at times so there are only certain times
+during the day that these speeds can be obtained.
+<P>
+I found driving in Germany is not as much as it's made out to be. The German
+drivers consistently tailgate, hardly indicate and don't use any form of
+acknowledgement to let you pull out. Helped by supped up brakes they also
+brake as late as
+possible which is very unnerving if they are approaching from the rear. Many
+of the cars are extremely powerful big black imposing BMW's or Mercedes Benz.
+<P>
+Some sections of the autobahns are only two lanes, and given the high speeds
+that the traffic can travel, it makes it very difficult pull out
+into the inside lane to overtake. You can be for example stuck behind a
+lorry doing 60 mph, the road can look clear behind so you pull out, only
+to have, seconds later, a car doing 150 mph coming up behind you. This tends
+to make journeys an annoying cycle of fast and slow. By the time you have
+built up a good speed somebody pulls out infront of you slowing you down
+again.
+<P>
+On more occasions than I care to remember, a queue would form of say four
+or five cars stuck behind
+a slowish car in the middle of an overtaking maneuver. Cars approaching
+the rear of the queue would dart down the inside of the queue cutting in at
+the front (with no indicators of course) causing everybody already in the 
+queue to almost concertina into one another under braking.
+<P>
+I suppose the best advice I can give is to make sure your tyres and
+brakes are in
+excellent condition before driving in Germany!!
+<P>
+It's not all doom and
+gloom though, not having to worry about what speed your doing is so
+relaxing, you can simply concentrate on the actual driving and are far more
+aware of what's going on around you rather than constantly checking the
+speedometer. I also believe that the majority of people drive within their own and
+their cars ability.
+
+
+
+
+<hr>
+
+<p></a><a NAME="weights"><strong><big><big>WEIGHTS</big></big></strong></p>
+
+<p>Weights in kg based on 3dr</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Kerb&nbsp;weight&nbsp;(including&nbsp;fuel,&nbsp;spare,&nbsp;tools&nbsp;and&nbsp;accessories)</td>
+    <td align="center">1180</td>
+  </tr>
+  <tr>
+    <td>Payload including the driver (*)</td>
+    <td align="center">420</td>
+  </tr>
+  <tr>
+    <td colspan="2">Maximum loads permitted (**)</td>
+  </tr>
+  <tr>
+    <td><p align="right">front axle</td>
+    <td align="center">920</td>
+  </tr>
+  <tr>
+    <td><p align="right">rear axle</td>
+    <td align="center">850</td>
+  </tr>
+  <tr>
+    <td><p align="right">total</td>
+    <td align="center">1710</td>
+  </tr>
+  <tr>
+    <td colspan="2">Towing weight</td>
+  </tr>
+  <tr>
+    <td><p align="right">trailer with brakes</td>
+    <td align="center">1300</td>
+  </tr>
+  <tr>
+    <td align="right">trailer without brakes</td>
+    <td align="center">400</td>
+  </tr>
+  <tr>
+    <td>Maximum load on the roof</td>
+    <td align="center">80</td>
+  </tr>
+  <tr>
+    <td>Maximum load on the ball coupling (trailer with brakes)</td>
+    <td align="center">75</td>
+  </tr>
+</table>
+</center></div>
+
+<p>(*) <strong>Note for versions with accessories:</strong> if special equipment is fitted
+(non-standard air conditioner, sun roof, trailer) the weight unladen increases, thus
+reducing the payload with regard to the maximum loads allowed.</p>
+
+<p>(**) <strong>Loads must never be exceeded,</strong> the driver must arrange the goods
+in the luggage compartment and/or load surface in sush a way as to respect these limits.</p>
+
+<hr>
+
+<p></a><a NAME="dimensions"><strong><big><big>DIMENSIONS</big></big></strong></p>
+
+<p>All measurments in mm.</p>
+
+<p>Luggage compartment volume (VDA standard): 350 litres. Luggage compartment volume flush
+with rear parcel sheft with rear seat folded down: 710 litres. Total volume: 1100 litres.</p>
+
+<CENTER>
+<IMG SRC="dimension1.jpg" BORDER=0 WIDTH=349 HEIGHT=350 ALT="Dimensions">
+<IMG SRC="dimension2.jpg" BORDER=0 WIDTH=225 HEIGHT=350 ALT="Dimensions">
+</CENTER>
+
+<P>
+<CENTER>
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Front tracking</td>
+    <td align="center">1446</td>
+  </tr>
+  <tr>
+    <td>Rear tracking</td>
+    <td align="center">1421</td>
+  </tr>
+  <tr>
+    <td>Wheel base</td>
+    <td align="center">2540</td>
+  </tr>
+  <tr>
+    <td>Total length</td>
+    <td align="center">3958</td>
+  </tr>
+  <tr>
+    <td>Height</td>
+    <td align="center">1430</td>
+  </tr>
+  <tr>
+    <td>Width (excluding wing mirrors)</td>
+    <td align="center">1700</td>
+  </tr>
+</table>
+</center>
+
+<hr>
+
+<p></a><a NAME="capacities"><strong><big><big>CAPACITIES</big></big></strong></p>
+
+<p>All in litres</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>Fuel tank</td>
+    <td align="center">51</td>
+  </tr>
+  <tr>
+    <td>including a reserve of</td>
+    <td align="center">5/8</td>
+  </tr>
+  <tr>
+    <td>Radiator, engine, heater and expansion tank</td>
+    <td align="center">6.9</td>
+  </tr>
+  <tr>
+    <td>Engine sump</td>
+    <td align="center">4.8</td>
+  </tr>
+  <tr>
+    <td>Engine sump and filter</td>
+    <td align="center">5.2</td>
+  </tr>
+  <tr>
+    <td>Transaxle</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td>Hydraulic power steering</td>
+    <td align="center">0.75</td>
+  </tr>
+  <tr>
+    <td>Front and rear brake circuits</td>
+    <td align="center">0.40</td>
+  </tr>
+  <tr>
+    <td>Brake curcuits with ABS</td>
+    <td align="center">0.52</td>
+  </tr>
+  <tr>
+    <td>Windscreen and rear window fluid reservior</td>
+    <td align="center">5</td>
+  </tr>
+</table>
+</center></div>
+
+<p><big><font color="#FF0000"><strong>Oil consumption:</strong></font></big></p>
+
+<p>Average oil consumption 1.0 litres/1000 km</p>
+
+<hr>
+
+<p></a><a NAME="fuel_consumption"><strong><big><big>FUEL CONSUMPTION</big></big></strong></p>
+
+<p>Fuel consumption (litres/100 km)</p>
+<div align="center"><center>
+
+<table border="1" bgcolor="#333333" cellspacing="0" cellpadding="4">
+  <tr>
+    <td colspan="3" align="center"><strong>as per EEC standards</strong></td>
+    <td colspan="3" align="center"><strong>as per F.T.P.75 standards</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Urban cycle</td>
+    <td align="center">at 90 km/h<BR>(56 mph)</td>
+    <td align="center">at 120 km/h<BR>(75 mph)</td>
+    <td align="center">City</td>
+    <td align="center">Highway</td>
+    <td align="center">Combined</td>
+  </tr>
+  <tr>
+    <td align="center">11.5<BR>(24.6 mpg)</td>
+    <td align="center">7.0<BR>(40.4 mpg)</td>
+    <td align="center">8.5<BR>(33.2 mpg)</td>
+    <td align="center">10.2</td>
+    <td align="center">6.6</td>
+    <td align="center">8.6</td>
+  </tr>
+</table>
+</center></div>
+
+<p>The fuel consumption values listed in the table above were determined in offical tests
+utilizing procedures defined in EEC directives. Simulated city driving fuel consumption is
+measured on a test bed while constand speed (90 and 120 km/h) fuel economy is measured on
+a dry, level test track and using test bed procedures. These values may be useful for
+comparing different vehicles. Actual fuel consumption might be slightly different from
+offical values due to traffic conditions, driving style, weather and the car's general
+condition.</p>
+
+<hr>
+
+<p></a><a NAME="tyre_pressures"><strong><big><big>TYRE PRESSURES</big></big></strong></p>
+
+<p>The following table shows the correct tyre pressures in bar and psi. The pressures in
+bar are from the Tipo Manual and I have calculated the psi figures based on 1 bar = 14.5
+psi. Remember to check the values when the tyres are cold.</p>
+<div align="center"><center>
+
+<table align="center" bgColor="#333333" border="1" cellspacing="0" cellpadding="4">
+<TBODY>
+  <tr>
+    <td>&nbsp;</td>
+    <td colSpan="2"><p align="center"><b>Front</b></td>
+    <td colSpan="2"><p align="center"><b>Rear</b></td>
+    <td><p align="center"><b>Spare</b></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><p align="center">Average load</td>
+    <td><p align="center">Fully laden</td>
+    <td><p align="center">Average load</td>
+    <td><p align="center">Fully laden</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>bar</td>
+    <td><p align="center">2.5</td>
+    <td><p align="center">2.7</td>
+    <td><p align="center">2.2</td>
+    <td><p align="center">2.4</td>
+    <td><p align="center">4.2</td>
+  </tr>
+  <tr>
+    <td>psi</td>
+    <td><p align="center">36.25</td>
+    <td><p align="center">39.15</td>
+    <td><p align="center">31.9</td>
+    <td><p align="center">34.8</td>
+    <td><p align="center">60.9</td>
+  </tr>
+</TBODY>
+</table>
+</center></div>
+
+<p>I use 2.5 bar in the front and 2.2 bar in the rear and all sets of tyres I have fitted
+have worn perfectly evenly. I check the tyre pressures every 1 - 2 weeks </p>
+
+<p>The spare is a 115×70 R15 space saver. Never exceed 80 km/h whilst it is fitted. It
+has a maximum life of 3,000 km. Never use two spares on the car at the same time. </p>
+</a></font>
+</body>
+</html>

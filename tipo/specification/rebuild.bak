@@ -1,0 +1,2160 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<H3>
+<CENTER>
+<FONT COLOR="#FFFF00">
+History of Engine Rebuild</FONT>
+</CENTER></H3>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+The following is the complete history of the engine rebuilds that both my car and my 
+friend
+<A HREF="../owners/andy_giles.html">Andy Giles’</A> car have undergone.
+<BR><BR>
+The work was scheduled to take about 6 to 8 weeks and produce cars with about 220-230 bhp. However it actually took over
+31 weeks (8 months) to complete. Andy Giles' car produces 196 bhp and 158 lbs/ft of
+torque and cost &pound;3750. My car produces 181 bhp and 164 lbs/ft of
+torque and cost
+<A HREF="cost.html">&pound;5798</A>. The work on my car was more costly mainly
+because:
+<UL>
+<LI>different con rods were used.
+<LI>a custom exhaust had to be manufactured
+<LI>a new fuel pump and fuel pressure regulator had to be fitted
+<LI>I opted for the larger throttle body to give better low down torque
+<LI>my price includes a Unichip piggy back ECU.
+</UL>
+The guys who carried out the work are called Mike and Simon and the company
+is called MRH Engineering based in Strood, Kent.
+<BR><BR>
+
+
+<TABLE BORDER="0" CELLPADDING="4" CELLSPACING="4">
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>January 2001</CENTER></TD><TD>&nbsp</TD></TR>
+
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp;6th</TD>
+<TD VALIGN=TOP>
+Received 2nd draft of Particulars of Claim document off Barrister. It still contains
+some mistakes and he did not implement all of my changes. Wrote letter to Solicitor
+asking them to make the necessary changes as I'm not prepared to wait again for
+the Barrister to make them. Once they have done this I informed them to go send the
+document off to the court as soon as possible.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;3rd</TD>
+<TD VALIGN=TOP>
+Solicitor sent Barrister a letter copied to me asking them for the ammended draft
+of the particulars of claim.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>December 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;18th</TD>
+<TD VALIGN=TOP>
+Phoned Solicitor for 5 minutes and asked if they had received document off
+barrister yet. They hadn't so asked them to chase them up as it's been 4 weeks.
+The barrister was not waiting for anything from us and had not yet actually
+requested copies of quotes.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;11th</TD>
+<TD VALIGN=TOP>
+Phoned Anvanti Motorsport and Palmer and Phillips and reminded them that I need
+written copies of the quotes they gave me including estimated time for work.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp;9th</TD>
+<TD VALIGN=TOP>
+Got letter from Solicitor asking for copies of the quotes as the barrister may
+want them.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>November 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;30th</TD>
+<TD VALIGN=TOP>
+Got receipt off barrister for &pound;250 + VAT.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;24th</TD>
+<TD VALIGN=TOP>
+Solicitor phoned to tell me off for sending letter directly to
+barrister - not the correct eticate. Told solicitor to get barrister to
+make necessary changes as per my letter.
+</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;22nd</TD>
+<TD VALIGN=TOP>
+Sent off letter to barrister detailing changes I want him to make to
+the draft of particulars.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;21st</TD>
+<TD VALIGN=TOP>
+Phoned up car rental companies for day rates.
+Made final changes to letter to barrister detailing changes required to the draft
+particulars of claim document.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;20th</TD>
+<TD VALIGN=TOP>
+Got third quote from Evolution Engineering.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp;18th</TD>
+<TD VALIGN=TOP>
+Got letter off solicitor confirming payment. They have paid barrister for writing
+draft particulars of claim. Hourly rate increased to &pound125 + VAT an hour.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;16th</TD>
+<TD VALIGN=TOP>
+Paid solicitor &pound;763.75 for work carried out between 15th June 2000 and 29th
+Se[tember 2000. It included 250 + VAT for barrister to write particulars of claim.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;15th</TD>
+<TD VALIGN=TOP>
+Got quote off Palmer &amp; Phillips for &pound3438 and it would take them two days.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;6th</TD>
+<TD VALIGN=TOP>
+Send email off to Avanti Motorsport asking them to add the time it would take to
+replace the engine to thier quote.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;3rd</TD>
+<TD VALIGN=TOP>
+Chased up garages I sent requests for quotes to.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>October 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;31st</TD>
+<TD VALIGN=TOP>
+Received copy of barristers fees which were already included as
+disbursements in previous letter from barrister.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;27th</TD>
+<TD VALIGN=TOP>
+Received invoice from solicitor for &pound;763.75. This included &pound;250 + VAT
+disbursement charged by the barrister for the draft of particulars letter.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp;18th</TD>
+<TD VALIGN=TOP>
+Got first quote back from Avanti Motorsport for &pound;2914 including VAT but no
+details of how long it would take.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;3rd</TD>
+<TD VALIGN=TOP>
+Posted letters to six garages asking them for a quote on the purchase of
+a replacement engine, the fitting of it and how long it would take.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>September 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;29th</TD>
+<TD VALIGN=TOP>
+Received letter off my solicitor confirming that the letter I propose to
+send to the garages is okay.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp;19th</TD>
+<TD VALIGN=TOP>
+Wrote letter I want to send to various garages asking them to quote for the
+cost of fitting a replacement engine. Sent the letter via email to
+my solicitor
+to make sure it was neutral and that it asked for correct information.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;14th</TD>
+<TD VALIGN=TOP>
+Finally received draft particulars of claim form from my barrister. Reads
+reasonably well and quite weighty.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>July 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;13th</TD>
+<TD VALIGN=TOP>
+Went to see solicitor and stated that I wanted to go ahead with
+legal proceedings. They said they would get a barrister to
+draft a Particulars of Claim form together for me which I would check
+before sending it to the Judge.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;10th</TD>
+<TD VALIGN=TOP>
+MRH contacted my solictor requesting an update. My solicitor told them
+the situation was the same as the letter sent on 29th June.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>June 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;29th</TD>
+<TD VALIGN=TOP>
+Had meeting with solicitor in morning.
+My solictor sent a letter to MRH stating that I did not agree that the
+work had been completed in time. It also said that I had sought on
+numerous occasions in the past to arrange a date for a test session
+but did not receive a satisfactory response. The letter went on to say that
+therefore we are taking them to court and gave them seven days to
+inform us if the address to issue proceedings against was wrong.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp;26th</TD>
+<TD VALIGN=TOP>
+My solictor received a fax from MRH. They explained that as far as they
+were concerned their work had been completed within the time frame
+and they wanted to know if I would attend a test session.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp;16th</TD>
+<TD VALIGN=TOP>
+Received copy of the letter solictitor sent to MRH.
+</TD>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp;15th</TD>
+<TD VALIGN=TOP>
+Went to see solicitor in moring.
+My solictor sent a letter to MRH which explained that, as far as I was
+concerned, they had failed to provide proof within the allocated time that
+they could produce 200 bhp from the engine. The agreement signed in
+January had provided for
+this eventuality. My solicitor asked MRH for a response within seven
+days for their proposals to comply with the agreement. The letter
+also stated
+that if we do not receive a satisfactory response then we would take
+proceedings to county court.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>May 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp30th</TD>
+<TD VALIGN=TOP>
+Sent letter to MRH backing up previous email to say when the rolling road
+will be available and that it would be the only chance they would have
+to test the car.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp26th</TD>
+<TD VALIGN=TOP>
+Spoke to Mark at Owen Developments and he said that MRH had not been
+in contact with him with regard to a test session although they had
+been in contact with Owen Developments with regard to Owen Devlepments
+building a turbo for MRH. Mark said that next week was fully booked but
+he would be able to fit the car in for testing anytime between 5th
+and 9th June. Sent email to MRH saying that they should book the
+car in between these times as it would be the only chance they would get.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp25th</TD>
+<TD VALIGN=TOP>
+Sent email to MRH asking if they had booked a test session at Owen
+Developments rolling road.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp18th</TD>
+<TD VALIGN=TOP>
+Sent letter to MRH agreeing to attend the test session that they have planned
+in order to resolve this issue as quickly as possible. Reminded them
+that I had not received details of what changes they have made to the engine
+and the specification of the engine they want to test.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp10th</TD>
+<TD VALIGN=TOP>
+Asked MRH via email for details of the work they have carried out over the
+12 week period and the specification of the engine they want to test.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Received email from MRH explaining why they had not been able to develop the
+engine on a rolling road. They plan on testing the engine and would like me
+to attend.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>April 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp27th</TD>
+<TD VALIGN=TOP>
+Sent letter to MRH saying I was not happy and that they had missed the deadline
+for providing proof that they can build a 200 bhp engine. Asked them for a date when I
+could bring my car down to have a standard engine fitted.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp19th</TD>
+<TD VALIGN=TOP>
+Two days before the deadline MRH sent an email saying that the engine
+was ready for testing but because of Easter they would like me to
+contact them after the holiday.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp18th</TD>
+<TD VALIGN=TOP>
+Sent letter to MRH reminding them that I had not received proof and they only
+have until Friday 21 April.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp10th</TD>
+<TD VALIGN=TOP>
+10 Weeks into deadline and sent letter to MRH reminding them of the time scale
+they are working to. Expressed concern that during this 10 week period I'd only
+recived 2 updates.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>March 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Received email from MRH saying that the last week had seen zero progress on
+the engine.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Sent email saying MRH that they are 7 weeks into the 12 week period. Asked for
+detailed status report by end of week containing work carried out so far
+and plans for the remaining 5 weeks.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>February 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp24th</TD>
+<TD VALIGN=TOP>
+MRH phoned to say that they were going to try a different cam shaft but they
+did not know how it compared either the standard camshaft or to the one
+they fitted to the engine.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>January 2000</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp27th</TD>
+<TD VALIGN=TOP>
+Travelled to London to meet Andy and MRH. We moved Andy's car from it's workshop
+to MRH's garage. They paid Andy the money for the car and we all signed the agreement
+MRH now have 12 weeks to prove they car produce 200 bhp from the engine.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp25th</TD>
+<TD VALIGN=TOP>
+Passed agreement past Solicitor for him to check and make any necessary ammendments.
+MRH have no problem with it's content.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp24th</TD>
+<TD VALIGN=TOP>
+Spoke to Solicitor and he thinks we did well to get the agreement.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+Wrote draft version of agreement between myself, Andy and MRH. Emailed to Andy to check.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp22nd</TD>
+<TD VALIGN=TOP>
+Travelled to London to meet Andy and MRH. After 3 hours of meeting they agreed to
+(1) buy Andy's car off him and (2) use Andy's car to proof to me they could produce
+200 bhp from it. If they could they would make the necessary changes to my car, if
+they could not they would fit a standard engine and refund me the money,
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp21st</TD>
+<TD VALIGN=TOP>
+Andy managed to contact MRH and arranged a meeting with them at 9pm on Saturday night.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp20th</TD>
+<TD VALIGN=TOP>
+Received excellent letter from Solicitor to send to MRH.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Went to see solicitor about MRH. He will write me a letter send to MRH asking them
+what they propose to do to resolve the situation.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>December 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp30th</TD>
+<TD VALIGN=TOP>
+The starter motor has failed again. This is the second time since the engine
+was rebuilt. My suspicion is that it is working too hard to turn the engine
+over due to the very high compression ratio. Once again it fails just before
+a holiday period leaving me without transport.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp20th</TD>
+<TD VALIGN=TOP>
+First real cold weather of the year and the water in the engine froze. My
+suspicion is the MRH did not put any antifreeze in the engine (or not enough
+anyway). Car overheated on way to work. Drained system in evening adding
+a 50/50 mixture and all seems to be okay now.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>November 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp30th</TD>
+<TD VALIGN=TOP>
+Got letter off Mark at Owen Developments putting in writing the purpose and
+findings of the rolling road session earlier in the month.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp18th</TD>
+<TD VALIGN=TOP>
+The days finally arrived when I find out if the oil consumption is caused by
+a mechanical or electrical problem. Mark spent two hours with the car. To
+summerise, the engine had a tendancy to pink even with no alteration to the
+timing. If the timing was increased the power rose but it has hampered by
+serious detonation. This suggested that the compression ratio of the engine is
+so high it's unsuitable to run to maximum efficiency on superunleaded
+fuel. We ran a compression test on the four cylinders when warm and dry.
+The gauge read up to 250 psi and a typical car would hit 170 - 180 psi.
+When we tested my engine we got cylinder 1 - 245 psi, 2 - 235 psi,
+3 - 245 psi, and cylinder 4 - 215 psi. Almost off the gauge. In conclusion
+Mark said the timing and fueling of the car were fine and were not the cause
+of the excessive oil consumption. Finally we did a power run. The car
+produced a very dissapointing 165 bhp (140 bhp at the wheels) and
+165 lbs/ft of torque.
+I asked why Andy's car produced 196 bhp where as mine only produced 165 bhp.
+Mark said that Andy's car did not actually produce that much more than mine
+but MRH had asked him (in return for more business sent in his direction)
+to artifically inflate the figures. Time to see a solicitor.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp16th</TD>
+<TD VALIGN=TOP>
+I phoned Mark at
+Owen Developments as asked him to book me in for a rolling road session.
+Mark said he could squeeze me in the morning of Thursday 18th November.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp15th</TD>
+<TD VALIGN=TOP>
+Local garage finished fitting the new clutch. They also replaced the master
+and slave clutch cylinders which I had asked them to do. The bill for just
+the labour was &pound;337. I examined the old clutch and to my amazement the
+pressure plate was the original FIAT item. I had paid MRH &pound;255 + VAT
+to replace the clutch as part of the rebuild. For this amount I would have
+expected a new pressure plate as well as a centerplate.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp12th</TD>
+<TD VALIGN=TOP>
+Clutch finally turned up at midday but too last for local garage to finish
+the job before the weekend.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp11th</TD>
+<TD VALIGN=TOP>
+Send Simon an Email this morning expressing my concerns as to whether the
+clutch they had ordered would be able to withstand the power produced by my
+car. Simon said he had checked and the clutch would be okay. The
+replacement clutch still had not arrived by the end of the day so I
+decided to phone up company that
+makes the clutch that MRH ordered to see what they had to say. Discovered
+that MRH had changed the order this morning. They had changed the centerplate
+from one that can take 170 lbs/ft of torque to one that can take
+200 lbs/ft. It was being shipped today and I would get it before midday
+tomorrow.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp10th</TD>
+<TD VALIGN=TOP>
+Local garage had removed old clutch and discovered the cause of the failure.
+The lower arm of the clutch fork had broken. This caused the release
+bearing to push against the pressure plate unevenly. This caused uneven and
+excessive wear on the friction plate as it never fully disengaged. More
+seriously it eventually caused the tube the release bearing slides along
+to shear causing the whole mechanism to jam.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Still no replacement clutch and car is booked onto rollers for Thursday
+11th November. I spoke to Simon who had tried to contact the guy who made
+the original clutch without success. Simon had phoned around and found
+little alternative choice.
+He is sending me a clutch made by Helix Autosport. It's a Grp N clutch
+but only
+rated at 170 lbs/ft of torque which isn't much more than what we are
+currently seeing on my cars. Phoned Mark at Owen Developments to inform
+him that the way things were going it was best to cancel the rolling
+road session on Thursday 11th November.
+</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp3rd</TD>
+<TD VALIGN=TOP>
+On way to the rolling road session the clutch failed. It jammed engaged which
+could have been very nasty as I was sat at a T junction waiting to pull
+out. Took car to local garage to be repaired. Their initial diagnosis was that
+it was simply the seal on the master clutch cylinder. However on further
+examination it appeared that the release bearing had gone through the
+pressure plate. This is a big job taking some 8 hours since the gearbox
+needs to be removed. I had been compaining to MRH
+ever since I got the car back from the rebuild that the clutch did not
+seem right. I phoned Mark at the rolling road to cancel the session. He
+rebooked me for Thursday 11th November. I spoke to Simon who said he would
+send me a replacement clutch under warranty.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp2nd</TD>
+<TD VALIGN=TOP>
+After speaking to Andy decided to go ahead with the rolling road session.
+This is the only way we will know for sure whether its a mechanical or
+electrical fault causing the high oil consumption.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp1st</TD>
+<TD VALIGN=TOP>
+Phoned Mark at Owen Developments to cancel the rolling road session on 
+Wednesday 3rd. No point with the car burning as much oil as it is.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>October 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp29th</TD>
+<TD VALIGN=TOP>
+Finished off a tankful of fuel (40 litres) covering some 200 miles. Checked 
+oil and nothing showing on dipstick. Added about a litre of new oil. Turned 
+engine over to mix it up with the rest and checked dipstick. Oil is black 
+not golden. Held rag over exhaust and it was black within seconds. Looks 
+like car is still burning oil at the same old rate.
+it at the same old rate.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp26th</TD>
+<TD VALIGN=TOP>
+In daylight I noticed the bonnet and offside front wing had several dents
+and scratches in them which MRH had tried to cover up using the touch up
+paint I keep in the glove compartment. That explained why they had washed the
+car before my collection. Booked car onto rolling road at Owen Developments
+for Wednesday 3rd November 1999.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp25th</TD>
+<TD VALIGN=TOP>
+Had afternoon off work to collect car from MRH. They charged me &pound;431
+for the labour and parts to fit the new valve guides and thermostat.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+Despite the Water pump arriving before noon on Wednesday Simon had been
+unable to find time to fit it. The car was ready but by the time Simon had
+informed me there was no way I could collect it before Monday 25th October.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp19th</TD>
+<TD VALIGN=TOP>
+Spoke to Andy Forsdyke at Fiat Parts and he will send a water pump and 
+gasket to Simon to arrive before noon. I told Simon he would get it 
+tomorrow and he said he would phone me when it arrived at which point we 
+could discuss whether he had time to fit it before Saturday.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp18th</TD>
+<TD VALIGN=TOP>
+I phoned Simon to ask whether the car is ready yet and whether he had a 
+price for the water pump. Simon said that he had been unable to get a 
+response out of his local Fiat dealer because they were being shut down. I 
+said I would get the parts and send it to him. Simon said that he needed to 
+get it by Wednesday 20th otherwise he would not have time to fit it.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp14th</TD>
+<TD VALIGN=TOP>
+I phoned Simon to see if car would be ready for this weekend. Simon said it 
+would not. I said then if they were going to have it all next week they 
+should replace the water pump as well. I asked Simon to get me a price for 
+the water pump and fitting.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp7th</TD>
+<TD VALIGN=TOP>
+I phoned Simon to check on the rebuild.
+I was originally told the rebuild would only take one week and it's
+now the end of the fourth week. Yet another delay as Simon is waiting
+for a new thermostat to arrive before the engine can be finished. This was
+only ordered yesterday despite telling him that it needed a new one when
+I took the car there. I was hoping to pick the car up on Saturday
+9th but Simon thinks it will be more likely Monday 11th.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp1st</TD>
+<TD VALIGN=TOP>
+Simon phoned, they are two days behind with the rebuild. It will hopefully
+be ready middle of next week.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>September 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp28st</TD>
+<TD VALIGN=TOP>
+I phoned Simon to see how the rebuild is going. Simon had now
+reshimmed the head.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp21st</TD>
+<TD VALIGN=TOP>
+I phoned Simon to see how the rebuild is going. The leak down test
+on the cylinders gave an acceptable 8% leakage when the engine was cold.
+The cylinders were not glazed. However a large amount of play was noticed
+in the value guides. The guides have been replaced and the value seats
+recut. The pistons have been removed, cleaned up and refitted.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp13th</TD>
+<TD VALIGN=TOP>
+Took car down to garage so that they can sort out the large oil consumption
+problem the car still suffers from. They said they will phone me the middle
+of the week to let me know what the problem was and I should be able to
+pick the car up on Saturday 18th.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp10th</TD>
+<TD VALIGN=TOP>
+Could not take car to garage so arranged to take it there on Monday afternoon
+instead.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp6th</TD>
+<TD VALIGN=TOP>
+Simon phoned to check I was still bringing car to them on Friday 10th
+September.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>August 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp26th</TD>
+<TD VALIGN=TOP>
+I phoned Simon and managed to get Friday 10th September as a date to bring
+my car in to be looked at.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp25th</TD>
+<TD VALIGN=TOP>
+Phoned Mike in afternoon, he was working on a car and said would phone
+back in an hour.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp24th</TD>
+<TD VALIGN=TOP>
+Spoke to Simon, he said that Mike was supposed to have phoned me.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+Spoke to Simon to try and get a date out of him for when I could bring
+the car back to them to sort out the oil consumption. He said that he
+had been away and that Mike was currently dealing with bookings but Mike
+was out today. It's been four weeks now since they were supposed to be
+making room for my car.
+</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Andy Picked his car up from the electronic's expert. The work cost &pound;200 which included &pound;50 for a new battery. MRH were supposed to have
+fitted a new one. The rest of the cost was diagnostic time to trace the
+frayed wire from the crank shaft sensor. Andy can only assume that it got
+damaged when he was dropping it off the trailer or while it was on the
+rollers, although it should not have been so close to the pullys. The
+car sounds awesome, like an F1 car. Andy only hopes it goes as well during
+the race next weekend.</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp13th</TD>
+<TD VALIGN=TOP>
+The electric's guru has found the problem with Andy's car. The tiny thin
+wire that runs to the crank sensor had been worn through by one of the
+pulleys, maybe as a result of the rolling road session. For sure the car
+sat very low on the rollers. Andy will pick it up tomorrow but has no idea
+as to the cost.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp7th</TD>
+<TD VALIGN=TOP>
+Andy took his car to a car electronics expert to have them look at why
+it won't run. There is no spark at the plugs.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp4th</TD>
+<TD VALIGN=TOP>
+Andy worked on his car in preparation for a race at the weekend.
+Changing the oil etc. The car would not idle at all, in fact it would not
+run below 2000 rpm. He looked under the bonnet and found the cold start
+valve lead hanging off. Andy plugged it back in and the motor then ticked
+over at 3500 rpm, going crazy. It then went pop bang and died. It has not
+run since.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>July 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp30th</TD>
+<TD VALIGN=TOP>
+Simon phoned to say that my rebuild will need to be delayed as they need
+to sort out the mapping of a Ford Escort first. Simon will phone me sometime
+during the next week to inform me when I can take the car to them.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp28th</TD>
+<TD VALIGN=TOP>
+Andy took his car to Owen Developments to be remapped. It went very well
+and his car is now producing 196 bhp compared to 188 with the old mapping.
+The car sounds awesome now and feels very responsive. Andy will not
+know for sure whether it is better to drive until his first race in a couple
+of weeks. There is still a problem trying to get Andy's car to tick over
+below 2000 rpm. Mark at Owen developments shut down the fuel as much as
+possible but it's still throwing it in. Andy needs to blip the throttle
+to keep it ticking over. Hopefully not too much of a problem for a race
+car.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp20th</TD>
+<TD VALIGN=TOP>
+I phoned Simon to get some response on the letter I sent on 9th July.
+Simon said that Unichip are very keen to sort out the problems with the
+cars as they are worried that Dave Walker will write a uncomplementary 
+article in Car and Car Conversions Magazine. Simon said they they had definately
+booked Andy's car on Owen Developments rolling road on 28th July.
+My car is booked in with MRH on 31st July to have the oil consumption
+looked at again.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Update from Andy. His fueling and ignition timings from the
+chip were identical to mine. Very strange. He told MRH that they have to
+take his car to Owen Developments as soon as possible to be remapped.
+Mark at Owen Developments could not understand how Andy's car ran, let
+alone set the times at Brands that it did. Which makes Andy wonder how
+much more there is to come? Mike called Andy saying that his car is
+booked onto Owen Development's rollers for 26th July.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Wrote letter to Simon and Mike formally requesting that my oil consumption
+needs to be addressed. I also noted that I'm extremely disappointed with
+the performance of the car and want a refund to conpensate for achieved
+against claimed power. Faxed a copy to be sure.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp2nd</TD>
+<TD VALIGN=TOP>
+Simon phoned to ask about the tuning session I had on
+Wednesday. He is planning on talking to Mark at Owen Developments and
+possibly taking Andys car there as he has run out of ideas as to why Andy's
+car won't run properly at low revs. Once Andy's car is sorted they will
+have a look at mine.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp1st</TD>
+<TD VALIGN=TOP>
+Andy phoned. His car is still in the garage.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>May 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp30th</TD>
+<TD VALIGN=TOP>
+Took car to Owen Developments near Oxford to have the constant stalling
+problem looked at and also why the car badly bogged down below 2500 rpm.
+Owen Developments did a great job. The constant stalling was caused by
+the throttle body not having an idle bleed value. The only way the
+engine was able to tick over was by sucking air via the cold start
+valve or around the edges of the throttle butterfly. Owen developments
+have fitted an adjustable bleed value by customising a turbo boast
+adjuster. One end of which is placed into the air filter and the
+other into the pelum chamber. 
+<BR>
+When Owen Developments examined the mapping of the Unichip they found several problems
+<UL>
+<LI>There are two ignition/fuelling maps held by the Unichip,
+one for full and one for part throttle. However because the
+throttle position had not been calibrated correctly it would jump to
+the full throttle curve too early.
+<LI>The fuelling map was very strange as it had abrupt changes to the
+fuelling. In the mid-range the fuel was reduced by 20% and at the high
+end it was increased by 20%
+<LI>For some, still unknown reason, Emerald Cams had not mapped the
+Unichip below 2000 rpm. At 2400 rpm the ignition map jumped from 0 to 6
+degrees of advance. It was this that caused the sluggish response until
+2400 rpm was reached. Not wanting the waste time giving the car a
+custom map they have put 4 degrees of advance across the whole rev
+range. The car seems to be quite happy with this.
+<LI>They have also set up the advance and retard for the tick over
+since below 1600 rpm the Lamda sensor controls the fuelling.
+If the revs drop below 900 rpm more and more advance is added.
+Above 900 rpm more and more retard is supplied to keep the tick
+over within range. This had not previously been set up.
+<LI>The engine was only mapped up to 6400 rpm.
+</UL>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp19th</TD>
+<TD VALIGN=TOP>
+Fitted a proper oil breather/separator to prevent any oil being sucked
+into the air intake through the normal breather.
+This is a very smart stainless steel canister.
+Made no difference to oil consumption though. However the breather to
+atmosphere on the canister was at quite a pressure showing that there
+is huge air pressure being built up in the sump. This gives the impression
+that the piston rings have failed.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp11th</TD>
+<TD VALIGN=TOP>
+I checked oil in car and it is still using some. I spoke to Simon and he said
+the next thing to try would be the oil breather. On the Tipo this is connected
+directly to the inlet manifold. It's possible that the oil is being sucked
+out by the larger inlet manifold. What Simon
+suggested was to disconnect this tube
+and instead feed the it into a catchment tank. This should hopefully
+eliminate any oil being drawn into the inlet manifold and we should also
+be able to see if any oil is being forced out through the tube.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp10th</TD>
+<TD VALIGN=TOP>
+Andy phoned to confirm it was the head gasket that had blown on his car. The
+head is well on it's way to being fitted and is hoping to pick his car up
+at the weekend.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp5th</TD>
+<TD VALIGN=TOP>
+Now my car has been run in I took it to a local garage to have the
+emissions testet. At tick over the HC content has come down by half and
+at higher revs is now within the MOT allowed range. The HC content at
+tick over is still very high but apparently this is not tested for an MOT,
+only the HC figure at higher (2500 rpm) revs.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp1st</TD>
+<TD VALIGN=TOP>
+Picked up car from garage. Very pleased that they replaced the head
+gasket for free. I now have to run it in again for 500 miles. This
+involves putting only small loads on the engine and keeping the revs
+under 4000 rpm. Andy's car also blew it's head gasket today whilst
+practicing for his race tomorrow. Andy took is car back to the garage
+for them to strip it down.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>April 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp29th</TD>
+<TD VALIGN=TOP>
+Simon phoned from garage. My car is all back together and ready to be
+collected. I was amazed to hear that they had actually removed the pistons.
+This was done in order to refinish the cylinders as they had been glazed
+over by the burning oil.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp27th</TD>
+<TD VALIGN=TOP>
+I phoned Simon. The head has been removed and being prepared ready to
+be refitted.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp20th</TD>
+<TD VALIGN=TOP>
+Simon phoned from garage. He says that by using an endoscope on cylinder 4
+he can see a stream of oil running down the side of the piston. This
+seems to confirm that the head gasket is faulty.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp19th</TD>
+<TD VALIGN=TOP>
+Simon phoned from garage. He has pressure tested the cylinders and they
+are in very good condition producing 200 psi +/- 5 psi. So it looks like
+the piston rings are okay and could be the head gasket instead.
+This is good news as I won't need to run the
+engine in again and it's not as big a job as feared.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Took car back to garage to have the oil consumption problem sorted out.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Arranged with Simon to take the car to the garage at the weekend.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp13th</TD>
+<TD VALIGN=TOP>
+Sent fax to garage asking for a quote on how long it would take to
+fix the oil consumption problem. Got fax back from Simon saying that
+in the worst case scenario (piston rings worn) it would take 2 weeks.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Took car back to Emerald Cams to have the UNICHIP piggyback ECU reprogrammed.
+They solved the intermittent hicup I had been expierencing below 2000 rpm
+by completely disabling the chip below these revs.
+</TD>
+</TR>
+
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>March 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp29th</TD>
+<TD VALIGN=TOP>
+Oil filter worked itself loose. It was a good job the car was parked when
+I noticed it and that it did not undo completely whilst driving.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp20th</TD>
+<TD VALIGN=TOP>
+Took car for a pre MOT check up. Whilst at Aladdin Motorsport in Oxford the
+main guy there had a look at the smoke and said it's highly likely the
+piston rings have gone. He said that maybe they can't cope with the
+compression the engine is running at. This might explain why the cars power
+drops off from 5500 rpm.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp19th</TD>
+<TD VALIGN=TOP>
+Simon phoned from garage. They can't fit my car in next week as they
+have too much other work.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Spoke to Simon. He said they would amongst other things run leakdown
+and compression tests, check the oil pressure and visually inspect
+the engine to determine where the oil is leaking from.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Another tankful of fuel used, still getting 28 mpg but also still
+consuming 2 litres of oil. Car smokes quite badly under acceleration.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp11th</TD>
+<TD VALIGN=TOP>
+Another tankful of fuel used getting 28 mpg but also consuming 2 litres of
+oil. I phoned Simon to inform him the car is still using a lot of oil.
+He said he would talk to Mike about possible solutions so that they are
+completely prepared for when I bring the car in.
+He will phone me when they have dates available. Having driven the car
+for some weeks I find that although the car can rev to 9000 rpm there
+is little point. Above 7000 rpm the torque curve is falling away so
+quickly that the car slows down and it's better just to change up a gear.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>February 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp26th</TD>
+<TD VALIGN=TOP>
+Since I have picked up the car I have covered 600 miles using two
+tankfulls of fuel. Most worrying though is that it has also used
+5 litres of oil. I can't see any oil leaking out of the engine so I guess
+it must be being burnt or coming out as a vapour. On the good side I have
+managed to get 29 mpg and 27 mpg out of the two tankfulls
+which is pretty good for even the standard car.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp24th</TD>
+<TD VALIGN=TOP>
+I spoke to Simon about the cam profiles on my car. It's a Cosworth
+DB3 but with unknown lift. Simon does not think any more lift is possible without
+further cutouts in the pistons. He will try and track down Guy Croft as to
+why the DB3 profile was chosen and whether a higher lift would help the car
+breath better at the top end.
+I spoke to Dave Walker and he says that a new Unichip should be arriving in
+a couple of weeks. This is a modified unit
+which will solve the problems encountered on my car below 2000
+rpm.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+The car smoking a lot. This is not good news. Took it to Aladdin
+Motorsport in Oxford who had previously worked on the car. They ran the car
+up on a gas analyser and noticed that below 2000 rpm the engine was not
+burning the fuel properly. They also had a look at the power graphs and
+were amazed when I told them it was the power at the flywheel. They had
+expected it to be at the wheels. The engine should be producing far more
+power than it is. One thing they suggested was to fit higher lift cams.
+Aparently the Cosworth DB3 profiles are not particularly high lift and this
+could well be why the car is loosing power higher up the rev range.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp20th</TD>
+<TD VALIGN=TOP>
+The car is missfiring very badly high up the rev range. The garage said that
+it only started to happen once the spark plug cover has been fitted back
+on and is probebly the ignition leads being clamped. I brought some
+replacement 8mm silicone leads and the problem is cured. The car seems
+much faster now that it does not hiccup when acellerating.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Asked Mike to make a catalytic converter replacement pipe as part of the custom exhaust
+system. This would allow me to simply swap back in the catalytic converter
+which the car will need for an MOT. Without this I would have to swap complete
+exhaust systems and hence have to keep the old Supersprint system simply for
+an MOT. I went to the garage in the afternoon to pick the car up. The total
+bill is a frightening &pound;5798. Went for a drive in the car and it's
+pretty quick and very loud.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp16th</TD>
+<TD VALIGN=TOP>
+The garage took the car back for the final time to the rolling road for it to
+be remapped with the new exhaust system. The power and torque curves are
+quite different from Andy's car and this can now only be down to the
+different gas flowing of the cylinder head and the different throttle
+body. The power is a reasonable 181 bhp at 6375 rpm but extremely
+disappointing compared to the 230 bhp I was promised.
+The torque curve low down is very strong but unfortunately 
+peaks at 164 lbs/ft quite early at only
+5187 rpm. Although much stronger than Andy's car up until this point Andy's
+torque continues to pull for slightly longer hence the slightly higher
+power he got of 188 bhp. Given that the car will rev to 9000 rpm They
+calculated the maximum speeds in gear to be:
+1st gear 48 mph, 2nd gear 75 mph, 3rd gear 110 mph, 4th 144 mph and
+5th gear 187 mph. The garage have taken the car to the rev limit on 
+the public road in 1st, 2nd, 3rd and 4th and can verify that the above
+speeds are accurate.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp12th</TD>
+<TD VALIGN=TOP>
+Simon Phoned, they have finished fitting the new custom made
+exhaust system. They have tried the car and it is now much freer reving.
+It now feels like a totally different car and apparently goes very well.
+0 - 60mph is rapid as they can now hit
+45 mph in first gear and 80 mph in second gear. The cars
+definately booked into the rolling on Tuesday 16th February.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp11th</TD>
+<TD VALIGN=TOP>
+I phoned Emerald Cams to see when their rolling road is available.
+Next date will be Tuesday 16th February.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp8th</TD>
+<TD VALIGN=TOP>
+I spoke to Simon. They have decided to build the single silencer for the
+exhaust system from scratch as they were not happy with the prefabricated
+unit. The car is now provisionally booked into the rolling road on Thursday 12th February.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp5th</TD>
+<TD VALIGN=TOP>
+Simon phoned. They had finished fitting the new exhaust camshaft and the
+car performs much better now. They were currently making the new exhaust
+system a bit more robust. They were hoping to book the car into Dave
+Walkers Rolling Road on Tuesday 9th February. I spoke to Karl at Emerald Cams and he said he had not
+received a new batch of Unichips yet, however they were expected any day.
+He had spoken to the South African manufacturers and they had suggested a
+few changes to the software program that they could try.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp3rd</TD>
+<TD VALIGN=TOP>
+I spoke to Simon. They were finishing off fitting the new camshaft.
+Aparently they had been waiting for a replacement seal.
+Until the car is ready they won't book a rolling road session.
+They don't know if the replacement UniChip has arrived either.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>January 1999</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp29th</TD>
+<TD VALIGN=TOP>
+I phoned Simon. They have changed their plans regarding testing the
+exhaust. They are now going to fit the different exhaust camshaft and then
+take the car to Dave Walkers Rolling Road to be remapped. Whilst the car is
+there they will try the different exhausts. Mike said that
+although the Supersprint exhaust is 51mm (2&quot;) at points it is
+restricted to only 42mm (1.7&quot;) whereas the exhaust
+they are fitting is 64mm (2 1/2&quot;).
+Andy says that his car has a 64mm (2 1/2&quot;)
+race exhaust system fitted.
+The new exhaust camshaft had arrived today and Simon would be fitting it
+tomorrow.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp25th</TD>
+<TD VALIGN=TOP>
+I Spoke to Karl at Emerald Cams to see if he had any ideas as to why the
+car was not performing as expected. Looking at the electrical side Karl
+said that Andy's car was running at maximum between 10 and 12 degrees
+of advance where as mine is was only 3 to 4 degrees. This shows that mine
+is burning the fuel very quickly.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp22nd</TD>
+<TD VALIGN=TOP>
+Simon phoned from the garage. They are hoping to have the exhaust finished
+on Monday 25th January. They can then take the car to a local rolling road
+to see the difference in the power between the two exhausts.
+They have sent a replacement exhaust camshaft away to be reprofiled and are
+hoping to get it back early next week. They will fit this after the exhaust
+tests and then take the car back to Dave Walkers rolling road for another
+power run and to have the replacement Unichip fitted.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp19th</TD>
+<TD VALIGN=TOP>
+I spoke to my solicitor and I have two real options. I could pay the garage
+the full amount stating that I intend to take the car to an independent
+expert. If this expert finds any faulty parts or the cause of the lack
+of power then I will expect the garage to reimburse me. Alternatively
+I could pay
+the garage a reduced final amount. This would take into account the lack of power
+and what it might cost to put right. This is my preferred option as another
+garage may well take it to pieces only to find nothing wrong with it and I
+will end up with another hefty bill. Even if they find something wrong it
+may prove very difficult to prove it and then recover the money
+from the garage. I spoke to Simon and as it happens
+the garage seem very keen to try and sort the problem out
+at their expense. It seems sensible to let the garage have a go at solving
+the problem as they know exactly how the engine has been designed. The
+first thing they will try is to change the exhaust.
+</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp17th</TD>
+<TD VALIGN=TOP>
+I have decided, now that the car is at least
+driveable, to get it back in it's current state. 
+The garage have spent over 6 months building the
+engine at a cost of &pound;4836 at it only produces 10 bhp more than when I
+took it there. I plan on speaking to my solicitor on Monday 18th January to
+discuss how good a case I would have for suing the garage for incompetence
+and negligence. In the meantime I have phoned and faxed garage asking them not to spend any further time
+or money on the car. In particular, not to order the different exhaust
+camshaft nor to manufacture a different exhaust system.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp16th</TD>
+<TD VALIGN=TOP>
+I phoned a guy called Peter at SP Developments (01564 - 782531) for 45
+minutes. He was responsible for the original gas flowing of the head in
+December 1997 which cost &pound;450 + VAT. Even though it was over a year
+ago he
+remembered the head very well as it stood out as a superb piece of
+engineering design. It was flowing 130 cfm (Cubic feet per minute) and should
+easily produce 230 bhp and with more effort 300 bhp should be possible.
+Peter has flowed engines for over 25 years and has worked on anything from
+a lawnmower up to a Ferrari. He has also worked with the 
+Nissan Touring Car Team and is arguably the best in Europe. He
+said that the Jaguar XJ6 throttle was a waste of time as even a 32mm restrictor
+can flow 200 cfm. He couldn't understand how the garage could know what
+profile of cams to fit without knowing the flow rate of the head nor the
+valve lift of 11.5mm that the gas flowing was designed around. More importantly
+he claimed that all of the work the garage had subsequently performed
+on the head was detrimental to the work he had carried out. I phoned Mike
+at the garage to confront him with this information. Not surprisingly he
+was not happy that I was questioning the work he had carried out on the
+head and said that the work he had carried out on the head had
+been proven in engines and that flow benches could not simulate the real
+world. Peter said that if I wanted him to flow another head for me he
+would give me a good rate and also recommended a guy called David Wedge
+(01865 - 407726) who would build my engine without questioning the
+way the head had been ported. Never the less this is an expensive option
+as a new head is &pound;775 + VAT.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp15th</TD>
+<TD VALIGN=TOP>
+Mike and
+Simon took the car to the rolling road again and a replacement
+Unichip piggyback CPU was fitted. The
+replacement unit didn't work properly either, it's as if it temporarily 
+forgets what it's doing. The car is severely down on power, only producing
+170 bhp and 142 lb/ft of torque. There are only three differences between
+the engines, the Jaguar XJ6 throttle, the differently ported head and
+the exhaust system. Mike is blaming the original porting work on the head, saying
+that it is causing turbulence. Although this mixes the fuel/air mixture
+really well, shown up by much less advance needed for my engine compared
+to Andy's, it's slowing down the air going into the engine. He is proposing
+to fit a different exhaust cam and removing two out of the three silencers
+from the exhaust to reduce back pressure. I'm not too keen on this idea as
+it will make the car extremely loud. I suggested fitting the old throttle
+but he said they have already spent 5 man days at the rolling road and
+were not prepared to take the car there again for power runs. Mike suggested
+fitting NOS (Nitrous Oxide) costing an extra &pound;450 which 
+he would fit it for free as a way of getting the car to
+produce the power they had promised me.
+I asked Mike to describe the changes he had made to the
+gas flowed head that my car had originally. It turns out that they
+didn't like what had already been done to the head and had
+smoothed
+the surface using 120 wet grid, made the short side radius as large as
+possible, cut three angle valve seats, opened up valve seats to maximum
+and recut the valve seats. So my head is now a combination
+of the two porting techniques.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp13th</TD>
+<TD VALIGN=TOP>
+Simon phoned from garage. The new fuel pump has arrived and been fitted.
+The car now drives much better and quite happily revs to 8000 rpm.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp12th</TD>
+<TD VALIGN=TOP>
+Simon and Mike took my car back to the rolling road at &quot;Emerald Cams&quot;
+in London. However 
+the fuel pump was not up to scratch and therefore not supplying the fuel under
+enough pressure. It's only producing 1.75 bar of pressure where as it's
+supposed to be 5.7 bar. There was also a problem with the Unichip
+piggyback ECU that caused the engine to twitch which was very noticable
+at tickover. Both faulty parts have been ordered and are being
+delivered tomorrow. The car is booked back on the rolling road on Friday
+15th January.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp11th</TD>
+<TD VALIGN=TOP>
+I Phoned Simon to check that the adjustable fuel pressure regulator had
+been fitted okay. The unit Fiat use is the same as FORD use on thier
+Zetec range of engines. He said it had been a nightmare to fit as it was tucked
+away at the back of the engine. I also phoned &quot;Emerald Cams&quot;
+and they had received the modified superchip.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp9th</TD>
+<TD VALIGN=TOP>
+I collected a modified Superchip with the rev limit completely removed and
+posted it to &quot;Emerald Cams&quot; ready for them to fit on
+Tuesday 12th January.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp6th</TD>
+<TD VALIGN=TOP>
+Andy finally agreed a total price of &pound;3750 with the garage for the work on his
+car. This figure takes into account compensation for the time it's taken them. I contacted Dastek regarding whether
+their Unichip product would allow a higher rev limit to be set than on the standard ECU
+chip. It can be done by altering the clock frequency of the standard chip which
+seems a bit of a hack and not very acurate. I therefore 
+contacted Superchips and asked them
+to blow me another chip with the rev limiter removed. The Unichip product
+can then be used to set whatever rev limit we desire.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp5th</TD>
+<TD VALIGN=TOP>
+Simon drove my car to &quot;Emerald Cams&quot; ready for my rolling road session.
+However it would only run correctly on part throttle. Anything more than part
+throttle resulted in a very lean fuel/air mixture. This is very encouraging
+as it means that the larger throttle body is allowing in far more air. The
+problem is that the injectors can't supply enough fuel for a complete
+burn. Changing to larger injectors would solve the problem but is an
+expensive option. We therefore opted to increase the fuel rail pressure.
+Unfortunately the standard FIAT fuel pressure regulator, like most production
+cars, is not adjustable. The standard fuel pressure regulator is in an awkward
+position on the car so it will need to be taken away to be re-fitted.
+Whilst my car was there I had fitted Dastek's Unichip product. This is a
+piggy back ECU unit that allow the engine to be fully mapped. This cost
+&pound;235 + VAT including fitting. The car was booked back on the rolling
+road for Tuesday 12th January where they will increase the fuel pressure
+and then program the Unichip. The paint job on the cam cover looked very
+impressive. The noise from the larger throttle body was incredible. On
+tickover the engine sounded like a large motorbike. Even
+though the mixture was lean when opened up and put under strain the noise
+from the air filter was not so much induction roar as machine gun fire.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp4th</TD>
+<TD VALIGN=TOP>
+Andy took his car to &quot;Emerald Cams&quot; in Brixton London for tuning on their
+rolling road. This is a very accurate/conservative rolling road and the
+maximum power produced by his car was 188 bhp and 158 lb/ft of torque.
+These are excellent figures and should hopefully be a
+base line figure for my car given that Andy did not opt for the larger
+throttle body.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>December 1998</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+Andy went to garage to pick up his car to take it to the rolling road
+session at &quot;Emerald Cams&quot;.
+However when he went to drive the car away the brakes had seized
+and the power steering fluid was leaking. The car had not been run in enough
+and needed a couple of hours on the rolling road just to loosen it up enough.
+Dastek's Unichip piggyback ECU unit was fitted which took a couple of
+hours. After a couple of hours of custom mapping the car produced a
+disappointing 178 bhp. Andy booked his car in again for Monday 4th January
+and mine for Tuesday 5th January. This should give Simon plenty of time
+to get some miles on my car.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp21st</TD>
+<TD VALIGN=TOP>
+It turns out that Dave Walker had not checked his fax machine and had
+forgotten that we had booked our cars in for today or tommorow. The
+rolling road is only available on Wednesday 23rd which I can't make so
+Andy will go instead.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Andy phoned the garage but Simon was not sure whether the cars would be
+run in fully in time for the rolling road session on Monday 21st December.
+He was not sure whether himself or Mike would even be able to attend the
+session.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp11th</TD>
+<TD VALIGN=TOP>
+Simon phoned, my car is running fine and sounds awesome.
+He is looking for another
+powersteering belt as they have replaced all belts during the rebuild
+but the standard one they had was too narrow for my car.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Simon phoned and they have finished fitting the engine into the car.
+He advised that although it's ready it should not go on the rolling road
+in the morning as it needs to be thoughouly run in first.
+The next rolling road
+session available is 21st December so will book both cars in for then.
+This should give the garage plenty of time to put some miles on the cars.
+Andy is okay with waiting until then as it's important to test both cars
+together.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp8th</TD>
+<TD VALIGN=TOP>
+Car still not finished. Lots of little bits and pieces left to do such
+as gearbox linkage, clutch cylinder, air and oil filters, radiator and
+tighten alternator. The drive shaft nuts have stripped so will need new
+ones. Simon thinks that the standard drive shafts will be up to the job.
+Finally make contact with Dave Walker. He has a rolling road session
+available to us on Thursday 10th and Monday 21st December.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp7th</TD>
+<TD VALIGN=TOP>
+Simon phoned and they are almost about ready to start up my car. They
+hope to be in a position to do this by tonight. They will leave it until
+the morning though as they don't use antifreeze whilst checking for leaks.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp4th</TD>
+<TD VALIGN=TOP>
+Simon phoned but said that work on my engine was very slow today
+with too many distractions. He said he will lock the doors and
+knuckle down to the job tomorrow. He is hoping the car will be finished by
+Monday 7th December. Hopefully we can go down on Tuesday or Wednesday
+depending on when the rolling road is available. Still no news however from
+Dave Walker as to when his rolling road will be available.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp3rd</TD>
+<TD VALIGN=TOP>
+Simon phoned to let me know he had a good day building my engine yesterday.
+The cams have been fitted and timed. They had a slight delay whilst trying
+to find somebody else to powder coat my cam cover as the usual guy they use
+had died. I had not asked for the cam cover to be powder coated but it sounds
+very smart indeed. The cover is electronically charged and then sprayed with
+red paint. It is then baked in a very hot oven which gives it an almost
+plastic like finish. The ribs along the top of the cover have been relieved
+for extra effect.
+Mike has finished the throttle body fabrication so it's pretty much ready
+to be fitted back into car. Simon is now pretty hopeful that this will happen
+on Saturday 5th December. They would like the car for an extra day
+to drive it around to make sure there are no leaks etc.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp1st</TD>
+<TD VALIGN=TOP>
+I spoke to Andy, he is not going to be away on business so would like his
+car back as soon as possible. He will try and contact Dave Walker about
+when his rolling road will be available to test the cars. I spoke to Simon
+and he said that they will
+try and get my car ready by the weekend. He will contact me Thursday
+afternoon as to whether this looks likely. He does not envisage any
+problems with the build it's just a matter of time.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>November 1998</CENTER></TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp30th</TD>
+<TD VALIGN=TOP>
+I phoned garage and spoke to Simon. He had planned to get my car ready by
+12th December 1998 for the rolling road.
+I said that I would like to collect
+my car a week earlier on 5th December 1998. This would give me a chance to
+thoroughly run my car in before the rolling road session.
+Simon said he would phone me tonight as
+to whether he thought this was possible.</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp28th</TD>
+<TD VALIGN=TOP>
+Simon phoned Andy to say that this car was ready and they were now
+waiting for payment and collection. Andy said that as far as he was concerned
+the work was not finished until he saw some rolling road power figures to
+back up the work that they'd done. As agreed with myself earlier in
+the week, Andy said that neither of us would pay for the cars until they
+were both ready.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp26th</TD>
+<TD VALIGN=TOP>
+Andy phoned me with his good news that his car was ready.
+We agreed that we had gone into this together and would only pay
+the garage when both cars are finished. 
+Andy is away on business from next Tuesday 1st December to Friday 11th
+December. We would then take them on the rolling road on
+Saturday 12th December. Hopefully my car will be ready a week
+earlier on Saturday 5th December. I could then have use of the car for a
+week before the rolling road session.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp25th</TD>
+<TD VALIGN=TOP>
+I spoke to Simon and he was very pleased to tell me that they had got
+Andy's car up and running. They had taken the ECU to an electronics
+engineer and he had noticed that the main chip had worked itself loose. Once
+this had been pushed home the car started up with no problems. However, once
+running they had noticed a water leak from a metal pipe that runs behind
+the engine. They had to remove this, weld up the crack and refit it. This
+had taken them the last three days to do. As a result, 
+they had been unable to finish off my engine and therefore it
+would not be ready for collection on Saturday 28th November. Simon said
+that hopefully my car would be ready next Wednesday 2nd December.
+I said that I would not be able to
+collect it until Saturday 5th December so that should give them a
+couple of days to bed down the engine and run it in for me.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp21st</TD>
+<TD VALIGN=TOP>
+Andy and myself turned up on spec at the garage.
+Andy's car was ready apart from some electronic sensors that had been
+disconnected to carry out the wiring loom tests. Mike had tried to find
+a spare ECU from scrap yards but it was proving difficult to find one whoose
+serial numbers matched. My car however was still
+without an engine and it looked far from being complete,
+let alone being ready to fit back into the car.
+To be fair to Mike and Simon they are perfectionists and had dry built
+the engine 3 times already to get it perfect.
+The con rods have a &quot;T&quot; cross section which is very
+light but still provides ample strength.
+The plenum chamber was still not ready as it had taken several
+attempts to get it just right.
+Mike agreed to try and get Andy's ECU tested. If nobody could be found
+to perform these tests Andy said he would opt for the &pound;800 fully
+mappable system being developed by Dave Walker. Mike said he would phone
+Andy on Monday 23rd November to give him the news. Mike said that he would concertrate
+his efforts into finishing off the rebuild of my engine and would be able to
+tell me on Wednesday 25th November whether it would be ready by Saturday
+28th November.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp18th</TD>
+<TD VALIGN=TOP>
+Decided to give Venolia another call to get all the details of
+when the forged pistons were paid for, how many were ordered etc.
+Unfortunately, Venolia had not got details of when the garage had
+originally ordered the pistons only when they received payment which was
+1st October. That's 11 weeks after we gave the garage
+the money. Venolia shipped the forged pistons on 12th October which means
+they only took 1 working week to make. We know the garage received them
+on 17th October. It therefore actually only took two weeks for Venolia
+to manufacture the forged pistons and to have them delivered back to
+the garage. The garage originally told us this normally takes between 4 and
+6 weeks and was one of the disadvantages of chosing the forged pistons.
+<BR><BR>
+What's more, ours were not the only pistons the garage ordered. As well
+as a set of 84mm and 84.6mm FIAT Tipo pistons for our cars the garage had
+also ordered
+a set of 86mm FIAT 2000 pistons and a set of 84.6mm FIAT 1800/2000 pistons.
+The garage has also
+ordered a set of 85.4mm FIAT 1800 pistons on 3rd November.
+This also means that the garage ordered the forged pistons for Andy's car
+even though at the time they paid for them (1st October) Andy had
+already told them (17th September) that he wanted to go for standard cast pistons.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp17th</TD>
+<TD VALIGN=TOP>
+I spoke to Andy and agreed that the only way to find out what's really
+happening with our cars is to go and visit the garage. This has been very
+difficult for us to do until now due to our work loads. However, the situation
+can't be allowed to go on any longer. An on spec visit would be the best
+approach thus giving the garage no time to prepare for our visit.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp12th</TD>
+<TD VALIGN=TOP>
+Spoke to Simon at garage to get an update. Mike has finished the welding of
+the plenum chamber and is currently setting up the throttle's potentiometer.
+This could take another day as it appears to be a matter of trial and error.
+The engine should then take a day or two to fit back into the car.
+They appeared keen to get both cars out of the garage as soon as possible.
+There is no news on Andy's car as it's been difficult
+to obtain a spare ECU for testing however Simon is hoping that one will
+arrive tomorrow.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp6th</TD>
+<TD VALIGN=TOP>
+Spoke to Simon at garage to get an update. Andy's car is still not working. 
+Simon has thoroughly checked the entire wiring loom and found no problems with it 
+or any of the sensors. Simon is now trying to beg/steal/borrow another ECU as this is 
+the only part left to try. Mike is still welding up the new plenum chamber for me.
+Once the plenum chamber is ready it should only take a 
+couple of days to put engine back into the car. Told it should be ready the end of next 
+week or early the week after.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp3rd</TD>
+<TD VALIGN=TOP>
+Spoke to Simon at the garage. Mike is still welding together the new plenum 
+chamber ready for the bigger throttle body. My engine is still not in the car as it's easier to fit it back 
+on the inlet manifold before the engine is placed back into the car. Simon was 
+currently working on why Andy's car won't start.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp2nd</TD>
+<TD VALIGN=TOP>
+Andy had been in contact with the garage. They have got his engine back 
+together and fitted it into his car but they have been unable to start it. They think the 
+electronic brain is damaged due to the violent crash the car underwent. Dave Walker 
+at &quot;Car and Car Conversions&quot; magazine is keen to try a new ECU he has been 
+working on when the car goes on the rolling road. This is a fully mappable device and 
+should allow better tuning of the engine. Andy is away on business for two weeks and 
+has asked the car to be ready for his return.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>October 1998</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp28th</TD>
+<TD VALIGN=TOP>
+Andy phoned. He's back off holiday and heard nothing from the garage. He 
+said that by changing the size of the throttle body the engine would need re-mapping. 
+Given the other changes to the engine a re-map would be necessary anyway. Andy 
+was surprised that his car was scheduled for the rolling road on Friday 30th October as 
+he had asked them to tell him so he could be present.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Tuesday&nbsp27th</TD>
+<TD VALIGN=TOP>
+Spoke to Mike at the garage and gave him the go ahead for fitting the XJ6 
+throttle body to my car. The end of the plenum chamber will need to be cut off to 
+open it up more. A new mounting bracket will then need to be welded onto it in order 
+to bolt on the larger diameter throttle body. They had tried this technique on the 
+RS2000 and had now got the actual bhp figures back from the rolling road session. 
+The power had increased from 176 to 198 bhp. Mike said that it would cost &pound;300, 
+which seems a bit expensive for the work involved but on a pounds per bhp it's 
+excellent value for money. They will be able to do this before it goes on the rolling 
+road. This looks like it will now be towards the end of next week.
+They are getting a new guy in to help out with the work.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp26th</TD>
+<TD VALIGN=TOP>
+Spoke to Simon at the garage. The throttle body they will fit will come off a 
+4.2 litre Jaguar XJ6. This is the largest production throttle body you can get and is 
+some 12mm larger in diameter than the standard FIAT item. It should be easy enough 
+to fit as looks exactly like the FIAT one including all the piping. Simon said that Mike 
+would phone me with more details tonight.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp23rd</TD>
+<TD VALIGN=TOP>
+Spoke to Mike at the garage. The engine should be finished by Monday 26th 
+October but they were unable to book it onto the rolling road until Monday 2nd 
+November. I’m very disappointed as I was hoping to get it back by Saturday 31st 
+October in time for my Wedding Anniversary. Mike talked about increasing the size 
+of the throttle body to allow more air in. This should give an extra 15-20 bhp and the 
+induction roar should sound amazing. Mike thinks it will cost roughly &pound;250 for labour 
+and parts and will work on an exact price for me.
+They 
+had a Ford RS2000 2.0 litre 16v with a similar specification engine (without the
+re-profiled camshafts) but it only produced about 180 bhp. The garage have replaced my
+crankshaft as the old one was damaged, there’s not a lot of the original engine left. 
+The compression ratio has been calculated as 11.6:1, any higher and will get
+pre-detonation at lower revs.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp16th</TD>
+<TD VALIGN=TOP>
+Spoke to Mike at garage, he had checked with UPS and the forged pistons 
+are clearing customs today. They are going to collect them in the morning.
+At some point UPS had lost
+the consignment and Mike had spent the whole week tracking them down. 
+Simon is hoping to rebuild the engines on 
+Saturday 17th October and Monday 18th October. Hopefully it will be ready by next 
+weekend. Andy however, finally cracked, enough was 
+enough. He phoned Mike saying that he was extremely angry, three months to rebuild 
+the engines is beyond a joke. The garage has ruined their reputation as neither of us 
+feel at all like recommending them.
+Andy gave them one week to rebuild the cars.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp9th</TD>
+<TD VALIGN=TOP>
+Phoned the garage, Simon would not confirm the current state of engine only 
+that it was not in the car. The inlet manifold was not connected as they were testing 
+the injectors, all of which appeared to be working perfectly. Simon was hopeful that 
+the forged pistons would arrive on Monday 12th October or Tuesday 13th October. 
+They will only book the car onto the rolling road when engine back together. Simon 
+would not disclose when this might be.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp1st</TD>
+<TD VALIGN=TOP>
+Andy spoke to Simon at garage.
+He would not tell Andy the current state of his car but said it was probably 
+going to be ready on Wednesday 7th October and going on the rolling road on Friday 
+9th October.I phoned Venolia in USA 
+again, they had only received payment for the pistons today
+11 weeks after we gave the garage the deposit.
+The paperwork 
+was currently being typed up so they could not give me any details such as how many 
+pistons were being made. They should be ready in between two and two and a half 
+weeks. Delivery can be next day or up to a week, it depends on the client.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>September 1998</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp30th</TD>
+<TD VALIGN=TOP>
+Phoned the garage, they said they would hopefully have the car ready by 
+Friday 2nd October. They are still hopeful that the Venolia forged pistons will arrive 
+on Wednesday 7th October and will be able to place them straight in.
+The advantage of the forged pistons is that they 
+can withstand 9000 rpm whereas standard cast pistons will only take about 7500 rpm.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp18th</TD>
+<TD VALIGN=TOP>
+Andy phoned as promised before speaking to Simon. We agreed not to say 
+anything to them about the Venolia forged pistons until we get the cars back.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp17th</TD>
+<TD VALIGN=TOP>
+Simon phoned. They realize it’s taking a long time and have come up with a plan B 
+for Andy who is keen now to get the car back. This is basically the same specification 
+engine except using standard cast pistons. These will take two days to arrive and the 
+engine should be finished in a couple of weeks. I opted to stick with the forged 
+pistons but needed to know just how much longer they will take. If it were going to 
+take much longer I would opt for the cast pistons as well. I phoned Simon at the 
+garage, he is reluctant to phone Venolia as he thinks they will put our order to the 
+bottom of the pile if we hassle them.
+I thought it can’t get any worse 
+and it’s not as if we’ve been pestering Venolia for when the pistons would be ready. I 
+looked up Venolia in USA on the Internet and gave them a call to get some details. I 
+was horrified to hear that Venolia have not even started making the pistons. They are 
+waiting for full payment from the garage before starting the work as it is an overseas 
+delivery.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp16th</TD>
+<TD VALIGN=TOP>
+Andy phoned the garage but they didn't have any news.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp14th</TD>
+<TD VALIGN=TOP>
+Andy phoned the garage, they have still not received the forged pistons.
+We are keen to get our cars back and may be tempted to opt for the standard cast pistons.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp4th</TD>
+<TD VALIGN=TOP>
+I phoned the garage but they have still have not received the forged pistons. 
+Apparently they are now in shipping.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>August 1998</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp26th</TD>
+<TD VALIGN=TOP>
+I phoned the garage, they have still not received the forged pistons and con 
+rods. Apparently the forged pistons have been made, they are just waiting for the 
+piston pins and rings. The garage has performed some extra mild porting work on the 
+cylinder head but I won't be charged for this, as it was not in the original quote.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Friday&nbsp14th</TD>
+<TD VALIGN=TOP>
+I phoned the garage to check everything is going okay. They have removed the 
+engine from car, stripped it down and it’s currently being cleaned in chemicals. They 
+are still waiting for the con rods and forged pistons from Venolia.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Sunday&nbsp2nd</TD>
+<TD VALIGN=TOP>
+Hired a trailer for &pound;40 and got a colleague from work to tow it to the 115 miles 
+to the garage. I had difficulty getting the car onto the trailer, as the car was so low. 
+The garage would not give me a time scale for when the work would be finished but 
+said they would know more once the forged pistons and con rods had arrived.
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2 BGCOLOR="#f00020"><CENTER>July 1998</CENTER></TD><TD>&nbsp</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>Wednesday&nbsp22nd</TD>
+<TD VALIGN=TOP>
+I phoned the garage to see if they had received the cheque. They had received 
+it yesterday evening as they had missed the postman. I arranged to deliver the car to 
+the garage on Sunday 2nd August.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Monday&nbsp20th</TD>
+<TD VALIGN=TOP>
+I wrote up a modified version of the original quote from the garage and posted 
+it back to them together with a deposit of &pound;2000.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Saturday&nbsp18th</TD>
+<TD VALIGN=TOP>
+I phoned Andy to find out how the meeting went with the garage on Thursday 
+16th July. He said it went very well and had managed to get them to reduce the price 
+of the engine rebuild from &pound;950 to &pound;750. I spoke to the garage, they want &pound;2000 
+deposit from each of us to be paid as soon as possible so that they can order parts. The 
+parts will take four weeks to arrive, as the forged pistons need to be made by Venolia 
+in USA. They are going to prepare Andy's car for the next two weeks and then they 
+will prepare mine for the next two weeks. In a months time they will have all the parts 
+and can then start to build both engines at the same time. Good news is that they have 
+a spare new pair of cams off a 16V FIAT Coupe that they can use as donors to
+re-profile for my engine.
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>Thursday&nbsp16th</TD>
+<TD VALIGN=TOP>
+Andy had meeting with the garage to discuss the
+<A HREF="specification.html">specification</A>
+we want them 
+to build the engines to and to negotiate prices for the work
+</TD>
+</TR>
+
+
+</TABLE>
+
+
+<BR><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>
+

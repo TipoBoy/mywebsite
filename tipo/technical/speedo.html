@@ -1,0 +1,76 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+	 window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+	 window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<CENTER><H3><FONT COLOR="#ffff00">How fast can you go?</FONT></H3></CENTER>
+
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="20" CELLSPACING="20">
+<TR>
+<TD>
+
+<IMG SRC="speedo.jpg" WIDTH=270 HEIGHT=265 ALT="134mph">
+
+</TD>
+<TD>
+Travelling at 120 mph was great, the car felt very stable, I've lowered
+it 35mm with up-rated springs which probably helps. It almost felt like
+it squatted right down and just got on with it. 134 mph was a very sweaty
+affair, a cross between
+"Bloody Hell look at this" and "Oh my God!!". Certainly got your heart going!!
+Going under bridges was just a flash and a whoosh. Amazing going past cars
+that must have been doing 100 mph as if they were standing still. There was
+only certain times on the Autobahn it was clear enough to try it, hence no
+attempt to go faster down hill!! Just make sure you up rate your brakes
+though as those dastardly Germans just pull out in front of you, that's when
+burning brake pads are not the strongest smell in the cabin!!
+
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<BR><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY></HTML>
