@@ -1,0 +1,159 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<CENTER><IMAGE SRC="title.jpg" WIDTH=172 HEIGHT=87 ALT="Fiat Tipo"></CENTER>
+<P>
+No range of hatchbacks is really complete without a hot one. And that's what 
+was missing from the Fiat Tipo line-up for too long. A souped-up 16-valver was 
+promised for ages, and a 1.8-litre 16v did make a coy appearance on the Italian 
+home market a little while ago, but the real cat's pyjamas had to wait until the 
+end of 1991. But the wait was worth it.
+<P>
+The top Tipo is the 2.0ie 16v Sedicivalvole (it doesn't take a degree in Italian to 
+work out what that means), featuring the smooth-spinning, balancershaft version 
+of the Fiat Group's two-litre 16v engine as used in the Lancia Thema. There's 
+Weber-Marelli-IAW electronic fuel injection and engine management, and a 
+three-way catalytic Converter and exhaust gas recirculation to cut down on 
+noxious emissions. Despite the clean-up act, the engine still delivers 148 bhp at 
+6250rpm - virtually the power you'd get from an Escort RS 2000 or an Astra 
+GSi.
+<P>
+<CENTER><IMAGE SRC="front.jpg" WIDTH=500 HEIGHT=255 ALT="Front"></CENTER>
+<P>
+Potent as it is, the Sedicivalvole is nothing if not discreet. There are no wings or 
+boy-racer spoilers, just extended front and rear under-bumper aprons, black-
+finished flared sills, a thin red line at sill and bumper level, and a new front grille. 
+Naturally the wheels are wider; they are also of alloy, have five spokes and carry 
+fat 185/55 R15 tyres. Finally, so other drivers know what has passed them, 
+Sedicivalvole is written in large letters above the rear number plate.
+<P>
+Lowered suspension and disc brakes all round look after the roadholding and 
+braking, while inside you'll find sporty seats (Recaros are optional), a leather-
+covered Momo steering wheel and - at last - a full set of proper analogue 
+instruments instead of the hard-to assiamilate solid-state displays found in most 
+Tipos. All this, and the Tipo's spacious, live door versatility.
+<P>
+The engine certainly makes the right noises. There's a purposeful burble at 
+tickover and a deep-chested, hard-edged snarl as you accelerate away. It responds 
+eagerly and solidly to the throttle even at low engine speeds, and pulls lustily 
+enough in the higher gears to make it largely unnecessary to change down before 
+overtaking - though if you do, you'll find the gearchange smooth, precise and 
+very quick. You can take a roundabout in fourth gear and still accelerate away 
+smartly. The power fades away at very high revs, true, but that's something you 
+never need to find out. Maximum torque of 131 lb ft isn't developed until 
+5000rpm, but at least 118 lb ft is available from half that engine speed. This all 
+adds up to a maximum speed of 129mph and a 0-60mph acceleration time of just 
+7.8secs, slightly better than Fiat's claims. On test, the Tipo's fuel consumption 
+averaged a fair 25.8mpg.
+<P>
+<IMAGE SRC="dashboard.jpg" WIDTH=350 HEIGHT=320 ALT="Dashboard" ALIGN=RIGHT>
+This hot Tipo is sportily low-geared, which of course explains why it's so frisky in 
+fourth and fifth. The engine's muscle is such that it could quite happily cope with 
+being more high-geared without spoiling the Tipo's reactions. But, if you're going 
+to make a hot hatch, why not make it 'feel' really hot.
+<P>
+The Fiat is exceptionally agile, matching if not improving on the Renault 19 16V. It 
+is fluid and tenacious in corners, gripping the road well. There is none of the 
+sensation you get from some sporting hatches that the front wheels are doing all the 
+work. Lift off the throttle, and the driver can feel the rear suspension help the car 
+round the bend, neutralising understeer.
+<P>
+The power-assisted steering is accurate and quick to respond, stringing bends 
+together fluently. The 16v could be described as fidgety around town, however, it 
+is quite an acceptable ride for a sporty car and certainly not uncomfortable. Once 
+really on the move, life is smoother with bumps and ridges in the road completely 
+soaked up.
+<P>
+The brakes are perfectly servoed, pulling the car up gently and precisely. Unlike 
+the 'wooden' feeling of some brakes, the pedal moves to a level depth with the 
+other pedals, and biting is reassuringly progressive. The pedal travel makes heel-
+and-toe gearchanges far easier, especially with a bare metal, drilled accelerator 
+pedal which just begs to be blipped.
+<P>
+<HR>
+<FONT SIZE=+1><CENTER><B>Excellent performance family flyer</B></CENTER></FONT>
+<HR>
+<P>
+<IMAGE SRC="interior.jpg" WIDTH=227 HEIGHT=400 ALT="Interior" ALIGN=RIGHT>
+The whole driving environment of this Tipo has a sporty air, with eight dials 
+and that great Momo steering wheel. The seats with a height adjuster are 
+excellent, holding both driver and front seat passenger comfortably in place 
+during enthusiastic driving. Recaros are an extra cost option at &pound;581.
+<P>
+As ever in a Tipo there's loads of space; this is a true five seater, with three 
+moulded seats in the rear. The boot is also a decent size, and the rear seats split 
+for extra load versatility.
+<P>
+Naturally the Tipo 16v is loaded with equipment - electric sunroof, mirrors and 
+windows, a Grundig stereo with a thief-deterring removable control panel, remote 
+central locking, front fog lights and more.
+<P>
+As for build quality, if the Tipo 16v is anything to go by, things are improving at 
+Fiat. There were a couple of easily remedied rattles, but on the whole the car felt 
+solidly screwed together from quality materials.
+<P>
+Running costs should be reasonable, bearing in mind the moderate fuel 
+consumption and the 12,000 mile major service interval. There's also a six year 
+anti-rust guarantee.
+<P>
+<FONT SIZE=+1><B>VERDICT</B></FONT><BR>
+We expected much from the Sedicivalvole,and were certainly not disappointed. 
+On paper the ingredients to make it a perfect family flyer, with power, 
+performance and practicality are all on its side. On the road all this comes 
+together, making the Fiat easy to drive in a fast, flowing way that leads to driving 
+enjoyment. That's what performance cars are all about.
+<P>
+<CENTER><IMAGE SRC="verdict.jpg" WIDTH=500 HEIGHT=46 ALT="Verdict"></CENTER>
+
+<P>
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<IMAGE SRC="title.jpg" WIDTH=500 HEIGHT=62 ALT="Fiat Tipo">
+<P>
+The Tipo has proved to be one of 
+Europe's favourite family cars 
+since its launch. In January, it 
+gained a fiery hot-hatch version to 
+top the range. Sedicivalvole means 
+nothing more than 16-valve in 
+Italian, but it translates into an 
+exciting road car.
+<P>
+<CENTER><IMAGE SRC="car.jpg" WIDTH=600 HEIGHT=312 ALT="Front"></CENTER>
+<P>
+The chic Italian styling remains 
+very much unchanged from the 
+lesser models, although there are 
+smart alloy wheels and delicate 
+side skirts. Lurking beneath that 
+streamlined bonnet, however, is a 
+very powerful, fuel-injected, two-
+litre engine, which lets rip with 
+148hp. The result is a rapid top 
+speed of 129mph, and acceleration 
+to 60mph in just eight seconds.
+<P>
+Despite this scorching performance, the Tipo has a very gentle 
+nature. Engine noise is well suppressed until above 4,000rpm, when it 
+sounds a little more aggressive. It's a great 
+motorway cruiser, though, and 
+very comfortable.
+<P>
+If you are expecting the softish 
+ride common to the other Tipo's, 
+you will be pleasantly surprised. It 
+behaves like a true hot hatchback, 
+with a firm ride and hardly any 
+body roll. It's a pleasure to chuck 
+it into tight corners, as it sticks 
+like glue.
+<P>
+Tipos have always been awarded high points for good 
+accommodation and the 16v is no different. The interior is sportier, with 
+neatly contoured front seats to hold you in place, although not everyone 
+likes the driving position; even the rear seats have been specially designed 
+to form three individual seats. The 16v escapes the digital display, offering 
+analogue dials.
+<P>
+The equipment list is impressive. Included in the &pound;13,945 price tag are 
+electric windows, height-adjustable steering, electric sunroof, remote 
+central door locking and power steering, plus a 
+galvanised body. Recaro seats and 
+anti-lock braking are optional 
+extras.
+<P>
+<IMAGE SRC="specification.jpg" WIDTH=200 HEIGHT=247 ALT="Specification" ALIGN=RIGHT>
+The Tipo offers	smoothness, 
+lively response from its two-litre 
+engine, great gearbox excellent 
+acceleration and bags of 
+refinement. What's more, it costs 
+nearly &pound;2000 less the Ford Escort 
+RS 2000.
+<P>
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
