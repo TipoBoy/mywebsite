@@ -1,0 +1,65 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Brooklands February 18th 2001</FONT>
+</CENTER>
+</H3>
+
+Not a particularly well attended event. My car was still off the road so went in the
+Escort. Met up at the event with 
+<A HREF="../../../owners/alexis_grant.html">Alexis Grant</A>,
+<A HREF="../../../owners/keith_meredith.html">Keith Meredith</A> and
+<A HREF="../../../owners/martin_hodges.html">Martin Hodges</A>.
+<P>
+We talked about cars but there wasn't very much in the form of entertainment
+put on by the organisers. About the only thing to watch was some
+passenger rides in a rally prepared
+Mitsubishi Evolution and Vauxhall Astra.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML>
