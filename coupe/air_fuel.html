@@ -1,0 +1,133 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">AEM UEGO Wideband Air/Fuel ratio Gauge</FONT>
+</CENTER>
+</H3>
+Part Number 30-4100<BR>
+<P>
+<CENTER>
+<IMAGE SRC="aem_uego.jpg" WIDTH=360 HEIGHT=307>
+</CENTER>
+<P>
+The Autometer gauge below which I originally had fitted was connected to the
+narrowband lamda probe that fed the ECU. All the narrowband lamda probe needs
+to tell the ECU is if the mixture is rich or lean. When this signal is fed to
+a display the result is less than ideal. Most of the time the lights simply bounce
+around from one extreme to the other as the ECU adjusts the fueling. Therefore I
+fitted this AEM gauge. This uses a new lamda probe which is a wideband and accurately
+displays the Air/Fuel ratio. The downpipe had to have a new lamda boss fitted
+just behind the engine and the wires fed into the passenger compartment.
+<P>
+The Gauge allows you to monitor Air/Fuel ratios in real time without the use of a laptop.
+This gauge includes a 0-5 Volt analog output to interface with most data-loggers or aftermarket
+engine management systems, and includes an RS 232 serial data output port for data logging
+without an engine management system. The gauge is calibrated to work with AEM UEGO sensor
+controllers ONLY. These units display to 0.1 AFR, feature 24 color-coded LED display
+lights for immediate reference to engine AFR, and have an integrated three-digit
+real-time display for AFR.
+<P>
+The kit comes complete with both a black and silver bezel and a black and white face
+which can be interchanged to match the other dashboard instruments.
+<P>
+The guage is a standard 52mm so I could mount it in the same location as where the Autometer
+gauge fitted.
+<P>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Autometer Air/Fuel ratio Gauge</FONT>
+</CENTER>
+</H3>
+Part Number 3375<BR>
+<P>
+<CENTER>
+<IMAGE SRC="air_fuel.jpg" WIDTH=500 HEIGHT=507>
+</CENTER>
+<P>
+There are various models in the Autometer range. I purchased this
+particular model as it has a plain black background which matches
+the other dials in the car perfectly. Around the outside of the
+gauge are 20 leds. 4 red ones for lean mixture (0.05 to 0.249V), 10 yellow ones
+for stoichiometric mixture (0.250 to 0.749V) and 6 green ones for rich
+mixture (0.750 to 1.0V).
+I was originally going to mount
+the gauge in an extra pod in the A pillar but realized this would
+be too much in your face when driving so instead I cut a hole in
+the dashboard just below the main dials and behind the steering wheel.
+I used a regular hole cutter attachment to a drill to cut the hole in
+the plastic dash. The gauge is 52mm and the closest hole cutter I could
+find was 51mm which was okay. If you take this approach then be sure to position the
+gauge high enough up that you can see it clearly though the steering
+wheel and that there are no wires behind the dashboard where you are
+drilling. It won't be the easiest of places to get to should you need to
+solder wires back together.
+<P>
+<CENTER>
+<IMAGE SRC="air_fuel_fitted.jpg" WIDTH=640 HEIGHT=424>
+</CENTER>
+<P>
+The gauge comes with three wires, black for earth, red for switched
+live and purple for the lamda probe input. The lamda probe wires from
+the probe to the ECU are sheilded and I didn't want to break the
+shielding to connect up the lead. Instead I dismantled the ECU and
+soldered the lead directly onto pin 10 on the circuit board which
+is where the lamda probe input ends up.
+<P>
+In operation at engine idle and part throttle the leds on the gauge
+bounce between lean and rich which is perfectly normal as the ECU is
+constantly adjusting the mixture. On wide open throttle (WOT) the green
+leds light up indicating that the mixture is rich which is the desired
+safe reading.
+<P>
+Although the gauge is not as acurate as the wide range Lamda probes
+used by the rolling roads it does give you a rough guide as to whether
+the engine is running rich or lean at WOT.
+<P>
+<CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 

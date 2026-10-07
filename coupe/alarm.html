@@ -1,0 +1,92 @@
+<HTML> 
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3>
+<CENTER>
+<FONT COLOR="#ffff00">Alarm Installation</FONT>
+</CENTER>
+</H3>
+<P>
+The standard FIAT alarm fits into a blue socket by the fuse box. This appears to be a
+convenience socket connected to the standard wiring loom to allow easy installation of an alarm.
+
+<P>
+<CENTER>
+<IMAGE SRC="alarm_plug1.jpg" WIDTH=800 HEIGHT=600>
+</CENTER>
+<P>
+
+<P>
+<CENTER>
+<IMAGE SRC="alarm_plug2.jpg" WIDTH=800 HEIGHT=600>
+</CENTER>
+<P>
+
+The following table is a list of each pin's function. The pin numbers will be correct, however
+the wire colours may be different as they are from the plug that fitted into the socket and not the colour
+of the wires going into the socket.
+<P>
+
+
+<TABLE BORDER=1>
+<TR><TD><B>Pin</B></TD><TD><B>Wire Colour</B></TD><TD><B>Function</B></TD></TR>
+<TR><TD>1</TD><TD>Yellow</TD><TD>Connect to ground to lock both doors</TD></TR>
+<TR><TD>2</TD><TD>Yellow with Black stripe</TD><TD>Connect to ground to unlock both doors</TD></TR>
+<TR><TD>3</TD><TD>Not Connected</TD><TD>&nbsp;</TD></TR>
+<TR><TD>4</TD><TD>Blue with Black stripe</TD><TD>Connects to ground when either door is opened</TD></TR>
+<TR><TD>5</TD><TD>Blue with Black stripe</TD><TD>Connects to ground when either door is opened</TD></TR>
+<TR><TD>6</TD><TD>Not Connected</TD><TD>&nbsp;</TD></TR>
+<TR><TD>7</TD><TD>Pink</TD><TD>Permanent +12V</TD></TR>
+<TR><TD>8</TD><TD>Blue with White stripe</TD><TD>+12V when ignition switched on</TD></TR>
+<TR><TD>9</TD><TD>Black</TD><TD>Ground</TD></TR>
+<TR><TD>10</TD><TD>Red with Black stripe</TD><TD>Left hand side indicators</TD></TR>
+<TR><TD>11</TD><TD>Red with Black stripe</TD><TD>Right hand side indicators</TD></TR>
+<TR><TD>12</TD><TD>Not Connected</TD><TD>&nbsp;</TD></TR>
+</TABLE>
+<P>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+</FONT>
+</BODY> 
+</HTML> 
