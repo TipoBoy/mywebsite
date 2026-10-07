@@ -1,0 +1,51 @@
+<HTML>
+
+<BODY BGCOLOR="#000000" LINK="#80FFFF" VLINK="#CCCCCC" TEXT="#FFFFFF" bgproperties="fixed" BACKGROUND="background.jpg">
+<FONT FACE="Arial,Helvetica">
+
+<CENTER>
+<P>
+<H3><FONT COLOR="#ffff00">To have your comments added to the <A HREF="guestbook.html">guestbook</A>,<BR> please fill in the form below and press submit.</FONT>
+</H3></CENTER>
+
+<P>
+
+<!-- Set up form that mails me a formatted version of form. -->
+
+<FORM METHOD=POST ACTION="mailto:guestbook@tipo16v.co.uk" enctype="text/plain">
+
+Name:<BR>
+<INPUT TYPE="TEXT" SIZE="30" NAME="Name"><P>
+
+Email Address:<BR>
+<INPUT TYPE="TEXT" SIZE="30"  NAME="Email"><P>
+
+Country:<BR>
+<INPUT TYPE="TEXT" SIZE="30"  
+NAME="Location"><P>
+
+Comments:<BR>
+<TEXTAREA NAME="Comments" WRAP="VIRTUAL" ROWS=5 COLS=60>
+</TEXTAREA><P>
+
+<!-- Show used "guestok.html" page when they submit -->
+<!-- Must give full web address. -->
+
+<INPUT TYPE="hidden"
+NAME="targetpage" value="http://www.tipo16v.co.uk/guestbook/guestok.html">
+
+<!-- Mail to "guestbook@tipo16v.co.uk" -->
+<!-- Part after "@" is detected by cgi script. -->
+
+<INPUT TYPE="hidden"
+NAME="mailuser" value="guestbook">
+
+
+<CENTER>
+<INPUT TYPE="SUBMIT" VALUE="  SUBMIT  ">
+</CENTER>
+</FORM>
+
+</FONT> 
+</BODY> 
+</HTML>
