@@ -1,0 +1,62 @@
+<HTML>
+<HEAD> 
+<TITLE>The FIAT Tipo 16V / Sedicivalvole Web Site</TITLE> 
+</HEAD> 
+<META NAME="description" CONTENT="Everything you want to know about the FIAT
+                                  Tipo 16V. How to make it handle better, go
+                                  faster and stop quicker. A must visit for
+                                  all Sedicivalvole owners.">
+
+<META NAME="keywords" CONTENT="FIAT, Tipo, 16V, Sedicivalvole, car,
+                               auto, automobile, tuning,
+                               john, lee,
+                               cv, job, work,
+                               performance, style, modifications, chipping,
+                               exhausts, air filters, tyres, wheels">
+
+<!-- Split main brower window into the site heading and the main body. -->
+<!-- Note that with frames there is no <body> statement here. -->
+<!-- Netscape and Explorer use differnt ways of removing the borders -->
+<!-- so include both. -->
+<!-- Use scrolling="no" to make sure no scroll bars appear on heading. -->
+<!-- Use frameborder to switch off borders around the frames. -->
+
+<!-- Need to use javascript here as IE and netscape require different frame sizes. -->
+
+<SCRIPT language="JavaScript">
+<!--
+
+   document.write("<FRAMESET ROWS=\"88,23,*\" framespacing=0 frameborder=0 border=\"no\">");
+
+   document.write("<FRAME SRC=\"heading.html\" name=\"heading\" scrolling=\"no\" frameborder=\"no\" marginheight=0 marginwidth=0>");
+   document.write("</FRAME>");
+
+   document.write("<FRAME SRC=\"blank.html\" name=\"bar\" scrolling=\"no\" frameborder=\"no\" marginheight=0 marginwidth=0>");
+   document.write("</FRAME>");
+
+   // IE needs "114,*" but Netscape needs "124,*". Use Javascript to switch.
+
+   if (navigator.appName == "Microsoft Internet Explorer")
+      document.write("<FRAMESET COLS=\"124,*\" framespacing=0 frameborder=0 border=\"no\">");
+   else
+      document.write("<FRAMESET COLS=\"124,*\" framespacing=0 frameborder=0 border=\"no\">");
+
+//-->
+</SCRIPT>
+
+      <!-- Frame used to display menu down left hand side. -->
+
+      <FRAME SRC="blank.html" name="menu" frameborder="no" marginheight=0 marginwidth=0>
+      </FRAME>
+
+      <!-- Name main frame as "body" so we can send it pages to display by name. -->
+      <!-- Give it a border of 10 pixels to bring text in from edges.-->
+
+      <FRAME SRC="home.html" name="body" frameborder="no" marginheight=10 marginwidth=10>
+      </FRAME>
+
+   </FRAMESET>
+
+</FRAMESET>
+
+</HTML>

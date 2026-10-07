@@ -1,0 +1,277 @@
+<HTML> 
+<HEAD> 
+<TITLE>The FIAT Tipo 16V / Sedicivalvole Web Site</TITLE> 
+</HEAD> 
+
+<!-- Make sure background is black. -->
+
+<BODY BGCOLOR="#000000" onLoad="window.defaultStatus='The FIAT Tipo 16V / Sedicivalvole Web Site'">
+
+<!-- Set up a couple of overlays we use to hide the animated car afte it goes past the ends of the table cell. -->
+
+   <style>
+        /* Style for the overlay div */
+        .overlay1 {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 235;
+            height: 60;
+            background-color: rgba(0, 0, 0, 1.0);
+            z-index: 1; /* Ensure it's on top of the image */
+        }
+		
+		/* Style for the overlay div */
+        .overlay2 {
+            position: fixed;
+            top: 0;
+            left: 635;
+            width: 100%;
+            height: 60;
+            background-color: rgba(0, 0, 0, 1.0);
+            z-index: 1; /* Ensure it's on top of the image */
+        }
+
+        /* Style for the car image. The CCS #carImage style is used whenever we have an id="carImage" in the HTML */
+        #carImage {
+            position: relative;
+            z-index: 0; /* Place the image below the overlay */
+        }
+		
+		/* Style for the header text. The CCS #textAtFront style is used whenever we have an id="textAtFront" in the HTML */
+        #textAtFront {
+            position: relative;
+            z-index: 2; /* Place the text above the overlay */
+        }
+    </style>
+
+
+<SCRIPT>
+
+   if (document.images) {
+
+      // Store name of button that is currently selected.
+
+      var imageDown = "";
+
+      // Set up all image objects needed for buttons.
+
+      home_on       = new Image();
+      whatsnew_on   = new Image(); 
+      tipo_on       = new Image();
+      coupe_on      = new Image();
+      links_on      = new Image();
+      guestbook_on  = new Image();  
+
+      home_off      = new Image();
+      whatsnew_off  = new Image();
+      tipo_off      = new Image();
+      coupe_off     = new Image();
+      links_off     = new Image();
+      guestbook_off = new Image();
+   }
+
+   function Pressed( imageName, barNumber ) {
+
+      // User pressed a button so reset currently selected button
+      // and then store this as the newly selected button.
+
+      if (document.images && imageName != imageDown) {
+
+        // If the HTML code supplied a bar number then load the
+        // appropriate HTML file bar1.html ... bar7.html
+        // into the frame named "bar". Give focus to the "bar" frame
+        // as this prevents the focus box staying over the button.
+
+        if (barNumber) {
+           top.bar.focus();
+           top.bar.location="bar/bar" + barNumber + ".html";
+        }
+        else {
+           // No bar number so blank bar and menu.
+
+           top.bar.focus();
+           top.bar.location="blank.html";
+           top.menu.location="blank.html";
+        }
+
+        // Need to check against the initial value first time through.
+
+        if (imageDown != "") {
+            document[imageDown].src = eval(imageDown + "_off.src");
+        }
+
+	TurnOff(imageName);
+      }
+   }
+
+   function TurnOn( imageName, statusBarText ) {
+
+      // Displays image and updates status bar with supplied message.
+
+      //if (document.images) {
+         document[imageName].src = eval(imageName + "_on.src");
+         window.status = statusBarText;
+      //}
+   }
+
+   function TurnOff( imageName ) {
+
+      // Displays image and clears status bar.
+
+      //if (document.images && imageDown != imageName) {
+         document[imageName].src = eval(imageName + "_off.src");
+         window.status = '';
+      //}
+   }
+
+</SCRIPT>
+
+<!-- First table displays title on left and animation on right. -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" height=51>
+   <TR>
+   <TD>
+
+      <!-- Left hand column of table contains another table to split -->
+      <!-- into a smaller row/column object -->
+
+      <TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
+
+      <TR>
+      <TD COLSPAN=2 height=18 id="textAtFront">
+         <center>
+         <img src="images/johnlee_text.gif" alt="John Lee's" width=90 height=18>
+         </center>
+      </TD>
+      </TR>
+
+      <TR>
+      <TD width=76 height=19 id="textAtFront">
+         <A HREF="http://www.fiat.com" target="_blank"
+         onMouseOver="window.status = 'The official FIAT Web Site'; return true;"
+         onMouseOut="window.status = ''; return true;">
+         <img src="images/fiat_logo.gif" width=76 height=19 BORDER=0 ALT="The official FIAT Web Site"></A>
+      </TD>
+      <TD id="textAtFront">
+         <img src="images/tipowebpages_text.gif" alt="Tipo Web Pages" width=137 height=19>
+      </TD>
+      </TR>
+
+      </TABLE>
+   </TD>
+
+   <TD width=400 id="ScrollArea">
+   
+<div class="overlay1"></div>
+<div class="overlay2"></div>
+
+	<img id="carImage" src="images/small_tipo_right.gif" alt="Scrolling Image">
+
+   </TD>
+   </TR>
+</TABLE>
+
+<!-- Second table displays navigation buttons. -->
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" height=48>
+
+   <TR>
+   <TD width=66>
+      <A HREF="home.html" target="body"
+      onMouseOver="TurnOn('home', 'Back to Home Page'); return true;"
+      onMouseOut="TurnOff('home'); return true;"
+      onClick="Pressed('home');">
+      <img name="home" alt="Back to Home Page" src="buttons/home.gif" border="0" width=66 height=26></A>
+   </TD><TD width=115>
+      <A HREF="menus/whatsnew.html" target="menu"
+      onMouseOver="TurnOn('whatsnew', 'Whats New on the Site'); return true;"
+      onMouseOut="TurnOff('whatsnew'); return true;"
+      onClick="Pressed('whatsnew', 2);">
+      <img name="whatsnew" alt="What's New on the Site" src="buttons/whatsnew.gif" border="0" width=115 height=26></A>
+   </TD><TD width=90>
+      <A HREF="menus/tipo.html" target="menu"
+      onMouseOver="TurnOn('tipo', 'The Main FIAT Tipo 16V Pages'); return true;"
+      onMouseOut="TurnOff('tipo'); return true;"
+      onClick="Pressed('tipo', 4);">
+      <img name="tipo" alt="The Main FIAT Tipo 16V Pages" src="buttons/tipo.gif" border="0" width=90 height=26></A>
+   </TD><TD width=66>
+      <A HREF="menus/coupe.html" target="menu"
+      onMouseOver="TurnOn('coupe', 'My Fiat Coupe 20V Turbo'); return true;"
+      onMouseOut="TurnOff('coupe'); return true;"
+      onClick="Pressed('coupe', 5);">
+      <img name="coupe" alt="My Fiat Coupe 20V Turbo" src="buttons/coupe.gif" border="0" width=66 height=26></A>
+   </TD><TD width=66>
+      <A HREF="menus/links.html" target="menu"
+      onMouseOver="TurnOn('links', 'Links to other sites'); return true;"
+      onMouseOut="TurnOff('links'); return true;"
+      onClick="Pressed('links', 6);">
+      <img name="links" alt="Links to other sites" src="buttons/links.gif" border="0" width=66 height=26></A>
+   </TD><TD width=90>
+      <A HREF="menus/guestbook.html" target="menu"
+      onMouseOver="TurnOn('guestbook', 'View and Sign my Guestbook'); return true;"
+      onMouseOut="TurnOff('guestbook'); return true;"
+      onClick="Pressed('guestbook', 7);">
+      <img name="guestbook" alt="View and Sign my Guestbook" src="buttons/guestbook.gif" border="0" width=90 height=26></A>
+   </TD>
+</TR>
+</TABLE>
+
+<SCRIPT>
+
+   if (document.images) {
+
+      // Load the images needed by the JavaScript at the end once the
+      // images representing the default button states have been
+      // displayed. This gives feedback to the user quicker than loading
+      // them all at the start of the page.
+
+      home_off.src      = "buttons/home.gif";  
+      whatsnew_off.src  = "buttons/whatsnew.gif";  
+      tipo_off.src      = "buttons/tipo.gif";  
+      coupe_off.src     = "buttons/coupe.gif";  
+      links_off.src     = "buttons/links.gif";  
+      guestbook_off.src = "buttons/guestbook.gif";  
+
+      home_on.src       = "buttons/home_on.gif";  
+      whatsnew_on.src   = "buttons/whatsnew_on.gif";  
+      tipo_on.src       = "buttons/tipo_on.gif";  
+      coupe_on.src      = "buttons/coupe_on.gif";  
+      links_on.src      = "buttons/links_on.gif";  
+      guestbook_on.src  = "buttons/guestbook_on.gif";  
+  }
+  
+        const image = document.getElementById("carImage");
+        const scrollSpeed = 1; // Adjust the scroll speed as needed
+        let scrollPosition = 0;
+		const imageWidth = 135; // The width of the car image
+		const imageDrivePast = 2; // A multiplier of the car image width as to how far past the edge we go before we swap direction.
+		const cellWidth = 400;
+        let scrollDirection = 1; // 1 for right, -1 for left
+		const td = document.getElementById("ScrollArea");
+		const tdWidth = td.offsetWidth;
+
+        function scrollImage() {
+            scrollPosition += scrollSpeed * scrollDirection;
+            image.style.transform = `translateX(${scrollPosition}px)`;
+
+            // Check if the image has reached the right or left edge
+			//if (scrollDirection == 1 && scrollPosition >= (cellWidth - imageWidth)) {
+            if (scrollDirection == 1 && scrollPosition >= (cellWidth + imageWidth * (imageDrivePast - 1))) {
+                scrollDirection = -1; // Change direction to left
+				image.src = "images/small_tipo_left.gif";
+            //} else if (scrollDirection == -1 && scrollPosition <= 0) {
+			} else if (scrollDirection == -1 && scrollPosition <= (-imageWidth * imageDrivePast)) {
+                scrollDirection = 1; // Change direction to right
+				image.src = "images/small_tipo_right.gif";
+            }
+			
+            requestAnimationFrame(scrollImage);
+        }
+        // Start the scrolling animation
+        scrollImage();
+
+</SCRIPT>
+
+</BODY>
+</HTML>
