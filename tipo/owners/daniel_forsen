@@ -1,0 +1,55 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:daniel@mbox335.swipnet.se">Daniel Fors&eacute;n</A></FONT></CENTER></H3>
+
+   Daniel brought a Fiat Tipo 2.0 16v 5 door made in 1991. He imported
+   it into Sweden from Germany and didn't know a thing about the car
+   until he found this web site.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

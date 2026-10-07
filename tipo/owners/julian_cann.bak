@@ -1,0 +1,63 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:Julian.J.Cann@IS.shell.com">Julian Cann</A></FONT></CENTER></H3>
+
+	Julian has a Tipo 16V and also involved in the &quot;Sporting Fiat Club&quot;
+	which is the new name for the &quot;Twin Cam Register&quot;. Julian also
+	tunes Tipos professionally under the name of
+	&quot;Cann Durant&quot;. Julian's car was
+        <A HREF="../articles/durant/durant.html">featured</A> in
+	the March 1999 edition of &quot;Fast Car&quot; magazine. 
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb79.html"><IMG SRC="../gallery/16v/thumb79.jpg" BORDER=0 ALT="85KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

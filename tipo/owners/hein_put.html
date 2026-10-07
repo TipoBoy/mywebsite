@@ -1,0 +1,59 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:wr6484@worldonline.nl">Hein Put</A></FONT></CENTER></H3>
+
+Hein lives in Holland and in February 2001 he bought a Tipo 2.0 16V. It was made in
+September 1993, red in colour, 3 door and has covered 74,000 km. He
+bought it from an official Fiat dealer.
+<P> 
+It's his fourth Tipo. He started with a 1.4 AGT, then a 1.4 SX and the last 3 years
+he's been driving a 1994 Tipo 1.8 GT in black.  Now after a lot of searching he
+found the desired Sedicivalvole after reading all the useful information on this site.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

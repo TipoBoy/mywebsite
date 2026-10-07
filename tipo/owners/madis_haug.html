@@ -1,0 +1,58 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:madis@bumpclub.ee">Madis Haug</A></FONT></CENTER></H3>
+
+        Madis has a white 1991 Tipo 2.0 i.e. 16V.
+        It has 5 doors and he has enjoyed owning it for about 5 months (March 1999).
+        Madis has a picture of his car on his web site at
+        <A HREF="http://www.zyworld.com/juhuslik" target="_blank">www.zyworld.com/juhuslik</A>
+        and claims that even in winter to get over 200km/h out of it.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:johnny@6of9.freeserve.co.uk">John Lee Hart</A></FONT></CENTER></H3>
+
+        No it's not me, just a guy with a similar name!!
+        John brought his Tipo in March 1999 after reading these web pages.
+        It's a 1995 (M registration) 3 door in metallic carbon grey which
+        sounds very smart.
+
+        It's had one genuine lady owner since new, a full dealer
+        service history and 39,000 miles on the clock.
+
+        The garage he brought it from is fixing the electric mirrors and
+        sunroof which were not working. They are also fixing the rear
+        head rest (I was not aware any Tipos had rear head rests).
+        He is picking up the car on Thursday 1st April 1999 after paying
+        &pound;4500 for the beauty.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,62 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:john.5.watson@bt.com">John Watson</A></FONT></CENTER></H3>
+
+
+         John has a red 'L' reg 3 door tipo 16V. It has got 17 inch TSW Evo R wheels,
+	 tinted windows and a one off straight through exhaust from the catalytic
+	 converter back. It also has a pipercross induction kit sourced from an
+	 Escort RS Turbo. It's been lowered 40mm courtesy of a set of PI lowering
+	 springs.
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb117.html"><IMG SRC="../gallery/16v/thumb117.jpg" BORDER=0 ALT="60KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb118.html"><IMG SRC="../gallery/16v/thumb118.jpg" BORDER=0 ALT="62KB" WIDTH=100 HEIGHT=75></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

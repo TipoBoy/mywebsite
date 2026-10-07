@@ -1,0 +1,63 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:john.albertsen@dronninglund.mail.telia.com">John Albertsen</A></FONT></CENTER></H3>
+
+
+        John has a black 5 door 1993 Fiat Tipo 2.0 16V i.e that he imported from
+        Andora. There are not many cars like his in Denmark due to their
+        high price, this seems like a common problem. John is currently
+        trying to solve a problem whereby when the engine is hot &#126;85<SUP>o</SUP>c
+        it looses about 10-16 bhp at 5,500 rpm.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb7.html"><IMG SRC="../gallery/16v/thumb7.jpg" BORDER=0 ALT="84KB" WIDTH=100 HEIGHT=65></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

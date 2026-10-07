@@ -1,0 +1,61 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:karl.cambre@ping.be">Karl Cambre</A></FONT></CENTER></H3>
+
+
+        <A HREF="../gallery/16v/thumb25.html"><IMG SRC="../gallery/16v/thumb25.jpg" BORDER=0 ALT="68KB" WIDTH=100 HEIGHT=100 ALIGN=RIGHT></A>
+        Karl bought his 5 door black Tipo 16V in October 1998 and
+        so far hasn't been sorry that he did. The car has been lowered 30mm
+        with James sport springs and Monroe SENSATREC shock absorbers (this
+        was after the picture was taken). The engine is still original
+        except for the air filter which has been replaced with a
+        RAM-AIR filter element.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

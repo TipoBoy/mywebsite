@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:cnocbui@pop.indigo.ie">Giles Stewart</A></FONT></CENTER></H3>
+
+
+        Giles has an immaculate white 1995 3 door 2.0i 16v Tipo with ABS.
+        This may possibly have been the last one sold in the United Kingdom.
+        Giles brought the car off a guy living in Scotland after finding it
+        advertised on
+        the internet. Not particularly unusual you may say except that Giles
+        was living in Australia at the time!. Read the full
+        <A HREF="../stories/story.html">story</A> here.
+
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb8.html"><IMG SRC="../gallery/16v/thumb8.jpg" BORDER=0 ALT="89KB" WIDTH=100 HEIGHT=68></A>
+        <A HREF="../gallery/16v/thumb9.html"><IMG SRC="../gallery/16v/thumb9.jpg" BORDER=0 ALT="94KB" WIDTH=100 HEIGHT=58></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

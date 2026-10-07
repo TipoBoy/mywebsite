@@ -1,0 +1,70 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:james.coyle@dtn.ntl.com">Jim Coyle</A></FONT></CENTER></H3>
+
+
+        Jim loves his white 1995 3 door Tipo 16v. He bought it in
+        October 1998 with 61000 miles on the clock. By September 1999
+        the car has now done 67000 miles. Jim actually bought the car
+        for his wife Janet as he has a company Astra car but as you can
+        imagine he pinches it whenever he can (especially weekends).
+        <P>
+        Since buying the car he's had just a couple of problems. The wiper
+        arm started to scratch paint off the nearside wing!! and had
+        to be adjusted. The car also collects stone chips on the rear
+        wheel arches....they seem inevitable.	
+         It also needed a new exhaust and flexihose. When he
+        had the belts changed in September 1999 it was discovered that the
+        water pump was worn out and needed replacing which made it a rather
+        expensive visit to the garage.
+        <P>
+        Jim likes the understated looks of the car, especially good for
+        the &quot;traffic light drag&quot;
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

@@ -1,0 +1,92 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:am@richbrook.co.uk">Alex Meyrick</A></FONT></CENTER></H3>
+
+        Alex has a 1992 red 5 door Tipo 16V which has taken him a lot 
+        of money, sweat and tears to get into it's current condition.
+<P>
+Alex bought it 18 months ago. He drove it around London for a week or so and
+then took it for a trip up the motorway to give it some stick. 76 miles
+later the engine blew. Gutted! It was diagnosed as a new cambelt that had
+just been put on was put on wrong which blew lots of other things.
+He then spent the next three months trying to get some money off the person he
+bought it from. He eventually got half the money for a new engine but then
+decided he didn't want to put a new engine in it instead he decided to get
+the original engine rebuilt.
+<P>
+Alex spent &pound;2000 on an engine rebuild which was more money than he needed to but
+he bought OEM (Original Equipment Manufactured) parts which are about one third
+more expensive than Patten parts but for peace of mind he thought
+it was worth it. That was about 6000 miles ago and so far so good. The
+rebuild was done by Jack Rose Services in Croydon
+who came highly recommended. Alex wanted his friend Barbs to do it but he did
+not have the time (but he now looks after it extremely well). Alex bought
+the parts from Evolution Engineering also recommended.
+<P>
+Since then he has also spent some money doing a few things here and there:
+It has got Drilled discs at the front, a new PowerFlow exhaust which is
+noisy but has definitely improved the flow. Toyo Poxes TS-1s' all round.
+A Integrale top house cooler conversion which is superb it means the fan
+comes in a lot sooner and consequently makes the car run a lot cooler.
+She has also got a K&N air filter. Also interior wise he has changed the
+gear knob and both handbrake and gear shaft gaitor for high quality Richbrook items
+plus a georgeous anodised aluminiun tax disc holder which he would recommend
+to all Tipo owners!!
+<P>
+Last but certainly not least he had fitted about 3 weeks ago top of the range
+Bilstein shocks and 40mm lowering springs all round which now they have
+settled down are stunning. They have transformed the car, and Alex rates
+them much better than Koni adjustables. However he is finding it very difficult
+to go over speed bumps! 
+<P>
+Alex says that being an Italian car there is still lots of work for Barbs to do.
+But she is not running badly at all and he has been told his power should be up
+by 10 - 20 bhp but who knows, she is fast enough for me at the moment.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

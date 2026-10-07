@@ -1,0 +1,68 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:dabel@genie.co.uk">David Abel</A></FONT></CENTER></H3>
+
+    David has a 1992 'J' plate Fiat Tipo 16V which has covered
+    64,000 miles. He loves the car to bits and
+    takes great pride of it.
+    It's a red 5 door 16V with the standard 15 inch wheels. It's got a
+    Pioneer CD stereo, attached to a 300 watt amplifier and 10 speakers
+    (6 on the rear parcel shelf and 2 each in the front doors).
+    There's also a graphic equaliser. The car has also had a new cam belt,
+    after it failed costing him &pound;1700 to fix, otherwise the engine
+    is standard and run on Mobil 1 synthetic motor oil. Yes, oil consumption
+    seems to go up when using better quality oil
+    <P>
+    David found out that his Tipo actually started life as a Fiat
+    demonstration model and he's the second owner since then.
+    <P>
+    David says that his Previous car was a Uno Turbo MK1 and he
+    thinks the Tipo is faster and better handling!
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

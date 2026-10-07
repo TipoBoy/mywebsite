@@ -1,0 +1,63 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:hans.cannegieter@twinspark.nl">Hans Cannegieter</A></FONT></CENTER></H3>
+
+        Hans has a black December 1992 Tipo 16v with Abarth
+        skirts and bumpers. It has covered 75,000 kms and he's very
+        satisfied with it. This is his second 16v Tipo, it consumes 1 liter
+        of fuel every 10 kilometers and 1 liter of oil
+        every 2000 kilometers. He intends to mount a turbocharged Thema
+        engine when this one breaks down, but hopes that will not be for at
+        least 2 to 3 years. Hans is 187cm tall and says that the only thing
+        wrong with the car is it's lack of head room. This is caused by
+        the seats being too high and roof too low when fitted with an
+        electric sunroof.
+
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

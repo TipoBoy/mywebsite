@@ -1,0 +1,73 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:james@opus.co.tt">James Byam</A></FONT></CENTER></H3>
+
+        James' car is a 1992
+        (J registered) 5 door.
+        When James brought the car in September 19992 it
+        had been used as a demonstrator for 9 months clocking up 12,000
+        miles.
+        <P>
+        James relocated in 1998 from the UK to Trinidad &amp Tobago in
+        the West Indies. He took the car with him and it's now covered some
+        99,000 miles.
+        <P>
+        James has has no real problems with the car, only those
+        attributed to normal wear and tear. However, sourcing
+        parts in extremely difficult. For example the master brake
+        cylinder/servo unit failed recently and James was without the
+        car for 2 1/2 months waitng for a replacement.
+        None of the UK parts dealers his contacts could find seemed
+        to know what they were doing and he ended up getting the
+        unit from Italy via a dealer in Florida!!
+        <P>
+        Like most of us, James thinks it's a brute of a car which he
+        believes has been underrated by most.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

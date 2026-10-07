@@ -1,0 +1,89 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:martin@hodges40.fsnet.co.uk">Martin Hodges</A></FONT></CENTER></H3>
+
+Martin has a K registered 16V Tipo. It has Abarth centre caps on the wheels but no abs.
+He brought it in June 2000 for &pound;2100 with one owner and 82,000 miles.
+It's in red with an electric sun roof and headlight wipers.
+<P>
+The first thing martin changed was to add a K&amp;N air filter. He made
+a 4&quot; pipe complete with heat shield to feed nice cold air to
+it from the front of the car.
+<P>
+Next was the BBR starchip for about 3 months but was not a great success
+and he took it out after speaking to someone who blames thier engine damage on
+the chip. Martin then fitted a &quot;Powerflow&quot; stainless steel exhaust
+from the catayltic converter back with no mid box and a back box with a 4&quot;
+slant cut tail pipe which cost &pound;280 including fitting. Martin fitted
+a set of 7&quot;&times;15&quot; multi spoke wheels with Avon sport 205&times;50R15
+tyres on. In the wheel centers he fitted red Abarth center caps. He also
+fitted red valve caps which got stolen the next day.
+<P>
+In November 2000 Martin brought a nitrous injection kit from
+<A HREF="http://www.highpower.freeserve.co.uk" target="_blank">Highpower Systems</A>
+for &pound;489 plus VAT. This was for the 
+basic kit which includes everything including instructions to get you going.
+After reading the instructions about six times he got the idea and got started.
+The instructions said to place the gas in the boot so he put it in the hole between
+the inner and outer wing where the old air box used to go. It took him about 3 hours
+and the only problems were:
+<UL>
+<LI>having to make a small plate to fit the throttle micro switch to
+<LI>sorting out the wires
+<LI>finding where to cut the fuel pipe to fit the T piece for the fuel injector. Martin
+    cut it at the top left back in engine bay.
+</UL>
+The rest was simple. martin says you can feel the 25 extra bhp but he will
+now go for the 50 bhp. Wisely so Martin says he will stop at that or the engine might
+stop him first. Martin thinks that his 0 to 60mph time with the 25 bhp extra is
+about 6.6 secs
+but hopes to get this down to 5.7ish when he switches to 50 bhp injectors.
+That should give him a top speed of 154mph and 210bhp.
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>

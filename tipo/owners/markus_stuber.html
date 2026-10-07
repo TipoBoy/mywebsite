@@ -1,0 +1,66 @@
+<HTML>
+<BODY BGCOLOR="#000000" TEXT="#FFFFFF" LINK="#90FFFF" VLINK="#CCCCCC">
+<FONT FACE="Arial,Helvetica">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--//
+
+   if (document.images) {
+
+      // Load images needed [BACK] button.
+
+      back_on  = new Image(); back_on.src  = "../../buttons/back_on.gif";  
+      back_off = new Image(); back_off.src = "../../buttons/back.gif";  
+   }
+
+   function TurnOn() {
+
+      // Displays image and updates status bar.
+
+      if (document.images) {
+         document["back"].src = back_on.src;
+         window.status = 'Go back to previous page';
+      }
+   }
+
+   function TurnOff() {
+
+      // Displays image and clears status bar.
+
+      if (document.images) {
+         document["back"].src = back_off.src;
+         window.status = '';
+      }
+   }
+
+//-->
+
+</SCRIPT>
+
+<H3><CENTER><FONT COLOR="#ffff00"><A HREF="mailto:cyrax@telekabel.at">Markus St&uuml;ber</A></FONT></CENTER></H3>
+
+        Markus has an untuned FIAT Tipo 16v, It's a 3 door built in
+	1994 and has covered 85,000 km. The rear spoiler was standard 
+	and on it. The car currently produces 139 bhp and Markus wan't
+	more as soon as it's possible!!
+ 	<P>
+	Unfortunately the car is being repaired at the moment after a crash.
+<P>
+<CENTER>
+        <A HREF="../gallery/16v/thumb42.html"><IMG SRC="../gallery/16v/thumb42.jpg" BORDER=0 ALT="65KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb43.html"><IMG SRC="../gallery/16v/thumb43.jpg" BORDER=0 ALT="62KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb44.html"><IMG SRC="../gallery/16v/thumb44.jpg" BORDER=0 ALT="60KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb45.html"><IMG SRC="../gallery/16v/thumb45.jpg" BORDER=0 ALT="59KB" WIDTH=100 HEIGHT=75></A>
+        <A HREF="../gallery/16v/thumb46.html"><IMG SRC="../gallery/16v/thumb46.jpg" BORDER=0 ALT="37KB" WIDTH=100 HEIGHT=57></A>
+</CENTER>
+
+<P><CENTER>
+<A HREF=javascript:history.back()
+onMouseOver="TurnOn(); return true;"
+onMouseOut="TurnOff(); return true;">
+<IMG NAME="back" SRC="../../buttons/back.gif" ALIGN=ABSCENTER BORDER=0 HEIGHT=26 WIDTH=66 ALT="Go back to previous page"></A>
+</CENTER>
+
+</BODY> 
+</HTML>
